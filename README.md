@@ -40,9 +40,9 @@ Unlock once and enjoy **lifetime access** to a high-quality, auto-updating IPTV 
 
 ---
 
-## 🧊 Reaction
+## 🧊 🎯
 
-> 😴 Oh... No response? The rest is not needed.  
+> 😴 oho
 > 🔥 Be the first to unlock and enjoy non-stop entertainment!
 
 ---
