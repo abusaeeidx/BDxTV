@@ -24,11 +24,6 @@ http://195.178.110.37/hls/AHHHQQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Cosafa Cup Women" tvg-name="Namibia W vs Madagascar W" tvg-logo="https://pbs.twimg.com/profile_images/1585877185382043649/dT99TLst_400x400.jpg",Namibia W vs Madagascar W
-http://205.237.104.40/hls/MMMM.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Cricket T20 World Cup" tvg-name="Zimbabwe vs West Indies --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",Zimbabwe vs West Indies --- CH 1
 http://195.178.110.27/hls/RERERE.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -76,6 +71,11 @@ http://195.178.110.37/hls/AHHHQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Paraguay Primera Division" tvg-name="Sp Luqueno vs Guarani" tvg-logo="https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",Sp Luqueno vs Guarani
 http://195.178.110.37/hls/AHHH.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Cosafa Cup Women" tvg-name="Namibia W vs Madagascar W" tvg-logo="https://pbs.twimg.com/profile_images/1585877185382043649/dT99TLst_400x400.jpg",Namibia W vs Madagascar W
+http://205.237.104.40/hls/MMMM.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
