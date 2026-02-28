@@ -10,17 +10,17 @@ http://195.178.110.2/hls/TOOO.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="South Africa Premiership" tvg-name="Kaizer Chiefs vs Orlando Pirates CH2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",Kaizer Chiefs vs Orlando Pirates CH2
-http://195.178.110.25/hls/TOOO.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="South Africa Premiership" tvg-name="Kaizer Chiefs vs Orlando Pirates CH3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",Kaizer Chiefs vs Orlando Pirates CH3
 http://195.178.110.37/hls/TOOO.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="South Africa Premiership" tvg-name="Kaizer Chiefs vs Orlando Pirates CH4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",Kaizer Chiefs vs Orlando Pirates CH4
+#EXTINF:-1 group-title="South Africa Premiership" tvg-name="Kaizer Chiefs vs Orlando Pirates CH3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",Kaizer Chiefs vs Orlando Pirates CH3
 http://195.178.110.27/hls/TOOO.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="South Africa Premiership" tvg-name="Kaizer Chiefs vs Orlando Pirates CH4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",Kaizer Chiefs vs Orlando Pirates CH4
+http://195.178.110.25/hls/TOOO.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
