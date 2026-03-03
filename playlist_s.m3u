@@ -5,22 +5,22 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="South Africa Premiership" tvg-name="Richards Bay vs Kaizer Chiefs CH1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",Richards Bay vs Kaizer Chiefs CH1
-http://195.178.110.27/hls/PPPP.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="South Africa Premiership" tvg-name="Richards Bay vs Kaizer Chiefs CH2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",Richards Bay vs Kaizer Chiefs CH2
-http://195.178.110.37/hls/PPPP.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="South Africa Premiership" tvg-name="Richards Bay vs Kaizer Chiefs CH3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",Richards Bay vs Kaizer Chiefs CH3
 http://195.178.110.25/hls/PPPP.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="South Africa Premiership" tvg-name="Richards Bay vs Kaizer Chiefs CH4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",Richards Bay vs Kaizer Chiefs CH4
+#EXTINF:-1 group-title="South Africa Premiership" tvg-name="Richards Bay vs Kaizer Chiefs CH2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",Richards Bay vs Kaizer Chiefs CH2
 http://195.178.110.2/hls/PPPP.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="South Africa Premiership" tvg-name="Richards Bay vs Kaizer Chiefs CH3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",Richards Bay vs Kaizer Chiefs CH3
+http://195.178.110.37/hls/PPPP.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="South Africa Premiership" tvg-name="Richards Bay vs Kaizer Chiefs CH4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",Richards Bay vs Kaizer Chiefs CH4
+http://195.178.110.27/hls/PPPP.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -29,13 +29,68 @@ http://195.178.110.25/hls/httt.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Turkey Cup" tvg-name="Alanyaspor vs Galatasaray" tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg",Alanyaspor vs Galatasaray
+#EXTINF:-1 group-title="World Cup Women Qualification" tvg-name="Spain W vs Iceland W" tvg-logo="https://pbs.twimg.com/profile_images/2015435508189368320/Qn1UT4oa_400x400.jpg",Spain W vs Iceland W
+http://195.178.110.27/hls/FNNNQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="World Cup Women Qualification" tvg-name="Switzerland W vs Northern Ireland W" tvg-logo="https://pbs.twimg.com/profile_images/2015435508189368320/Qn1UT4oa_400x400.jpg",Switzerland W vs Northern Ireland W
+http://195.178.110.27/hls/FNNNQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Hockey Champions League" tvg-name="Frolunda vs Lulea" tvg-logo="https://pbs.twimg.com/profile_images/2026254688333529088/1irvexgK_400x400.png",Frolunda vs Lulea
+http://195.178.110.27/hls/FNNNQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Italy Serie B" tvg-name="Padova vs Spezia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Serie_BKT_logo.svg/140px-Serie_BKT_logo.svg.png",Padova vs Spezia
+http://195.178.110.25/hls/FNNN.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="German 3 liga" tvg-name="VfL Osnabruck vs Viktoria Koln" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1b/Logo_3Liga.png",VfL Osnabruck vs Viktoria Koln
+http://195.178.110.25/hls/FZZZQQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="German 3 liga" tvg-name="Verl vs Regensburg" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1b/Logo_3Liga.png",Verl vs Regensburg
+http://195.178.110.25/hls/FZZZQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="German 3 liga" tvg-name="Ulm vs Hoffenheim II" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1b/Logo_3Liga.png",Ulm vs Hoffenheim II
+http://195.178.110.25/hls/FZZZQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="German 3 liga" tvg-name="Stuttgart II vs Cottbus" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1b/Logo_3Liga.png",Stuttgart II vs Cottbus
+http://195.178.110.25/hls/FZZZQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="German 3 liga" tvg-name="Munich 1860 vs Erzgebirge Aue" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1b/Logo_3Liga.png",Munich 1860 vs Erzgebirge Aue
+http://195.178.110.25/hls/FZZZ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Turkey Cup" tvg-name="Alanyaspor vs Galatasaray --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg",Alanyaspor vs Galatasaray --- CH 1
 http://195.178.110.2/hls/BRRRQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Turkey Cup" tvg-name="Basaksehir vs Trabzonspor" tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg",Basaksehir vs Trabzonspor
+#EXTINF:-1 group-title="Turkey Cup" tvg-name="Alanyaspor vs Galatasaray --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg",Alanyaspor vs Galatasaray --- CH 2
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fcabaf0e-8fd9-4e15-bda0-ca75b658989f/master.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Turkey Cup" tvg-name="Basaksehir vs Trabzonspor --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg",Basaksehir vs Trabzonspor --- CH 1
 http://195.178.110.2/hls/BRRRQQQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Turkey Cup" tvg-name="Basaksehir vs Trabzonspor --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg",Basaksehir vs Trabzonspor --- CH 2
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d28259cb-5011-4cde-b074-3af39588ff71/master.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -74,13 +129,13 @@ http://195.178.110.2/hls/FRFRFRQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Slovakia Cup" tvg-name="Podbrezova vs Trnava" tvg-logo="https://pbs.twimg.com/profile_images/1675145822843944961/Nrv2TM-g_400x400.jpg",Podbrezova vs Trnava
-http://195.178.110.2/hls/FRFRFRQQ.m3u8
+#EXTINF:-1 group-title="Russia Cup" tvg-name="Baltika vs Zenit" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg",Baltika vs Zenit
+http://195.178.110.2/hls/FRFRFRQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Russia Cup" tvg-name="Baltika vs Zenit" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg",Baltika vs Zenit
-http://195.178.110.2/hls/FRFRFRQ.m3u8
+#EXTINF:-1 group-title="World Cup Women Qualification" tvg-name="Germany W vs Slovenia W" tvg-logo="https://pbs.twimg.com/profile_images/2015435508189368320/Qn1UT4oa_400x400.jpg",Germany W vs Slovenia W
+http://195.178.110.2/hls/FRFRFR.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
