@@ -69,6 +69,11 @@ http://195.178.110.25/hls/FFFFqQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="World Cup Women Qualification" tvg-name="Bosnia W vs Estonia W" tvg-logo="https://pbs.twimg.com/profile_images/2015435508189368320/Qn1UT4oa_400x400.jpg",Bosnia W vs Estonia W
+http://195.178.110.25/hls/KYYYQQQQQW.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Horse Racing" tvg-name="Horse Racing --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",Horse Racing --- CH 1
 http://195.178.110.27/hls/KOKOKOQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -81,18 +86,3 @@ http://195.178.110.27/hls/KOKOKOQQQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Bulgaria efbet League" tvg-name="Spartak Varna vs Montana" tvg-logo="https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg",Spartak Varna vs Montana
 http://195.178.110.25/hls/AVVV.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="World Cup Women Qualification" tvg-name="Bulgaria W vs Croatia W" tvg-logo="https://pbs.twimg.com/profile_images/2015435508189368320/Qn1UT4oa_400x400.jpg",Bulgaria W vs Croatia W
-http://195.178.110.25/hls/KYYYQQQQQW.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Turkey Cup" tvg-name="Fethiyespor vs Karagumruk" tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg",Fethiyespor vs Karagumruk
-http://195.178.110.25/hls/FFFFqQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="AFC Champions League" tvg-name="Gangwon vs Machida" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",Gangwon vs Machida
-http://195.178.110.25/hls/FFFFq.m3u8
