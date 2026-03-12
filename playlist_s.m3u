@@ -14,6 +14,11 @@ https://livecdn-bp-nobar.maypn.stream/stream/31/chunks.m3u8?x-sign=66e53bfb48c43
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Memphis Grizzlies vs Dallas Mavericks --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",Memphis Grizzlies vs Dallas Mavericks --- HD
+http://195.178.110.37/hls/TGGG.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NBA Basketball" tvg-name="Miami Heat vs Milwaukee Bucks --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",Miami Heat vs Milwaukee Bucks --- CH 1
 http://195.178.110.37/hls/VIIIQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
