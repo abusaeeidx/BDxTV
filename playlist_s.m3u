@@ -14,6 +14,11 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7f3c6a
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Asia Cup Women" tvg-name="Australia W vs North Korea W" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/AFC_Women%27s_Asian_Cup.png/250px-AFC_Women%27s_Asian_Cup.png",Australia W vs North Korea W
+http://195.178.110.27/hls/wfffQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NRL" tvg-name="Sydney Roosters vs South Sydney Rabbitohs" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",Sydney Roosters vs South Sydney Rabbitohs
 http://195.178.110.27/hls/CACACA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -21,6 +26,11 @@ http://195.178.110.27/hls/CACACA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="AFL Aussie Rules" tvg-name="Essendon Bombers vs Hawthorn Hawks" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",Essendon Bombers vs Hawthorn Hawks
 http://195.178.110.27/hls/CACACAQQQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Cricket" tvg-name="Bangladesh vs Pakistan" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",Bangladesh vs Pakistan
+http://195.178.110.27/hls/wfff.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -44,11 +54,6 @@ http://195.178.110.27/hls/CACACAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Super Rugby" tvg-name="Hurricanes vs Western Force" tvg-logo="https://pbs.twimg.com/profile_images/1997796295512399872/wA8FVt6J_400x400.jpg",Hurricanes vs Western Force
-http://195.178.110.27/hls/CACACA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="World Rally" tvg-name="World Rally Championship Kenya --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",World Rally Championship Kenya --- CH 1
 http://195.178.110.25/hls/UUUU.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -56,13 +61,3 @@ http://195.178.110.25/hls/UUUU.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="World Rally" tvg-name="World Rally Championship Kenya --- CH 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",World Rally Championship Kenya --- CH 2 HD
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Golf" tvg-name="LIV Golf Singapore" tvg-logo="https://pbs.twimg.com/profile_images/2010379634076946432/-L9AJaQS_400x400.jpg",LIV Golf Singapore
-http://195.178.110.37/hls/CEEEEZ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Golf" tvg-name="Golf Women Australian Open" tvg-logo="https://pbs.twimg.com/profile_images/1964862880098230272/IVqwrxfj_400x400.jpg",Golf Women Australian Open
-http://195.178.110.27/hls/CACACAQQ.m3u8
