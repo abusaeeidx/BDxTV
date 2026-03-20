@@ -4,6 +4,11 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NCAA College Basketball" tvg-name="NCAA Men's March Madness Simulcast" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",NCAA Men's March Madness Simulcast
+http://195.178.110.37/hls/BDDD.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NHL Hockey" tvg-name="Los Angeles Kings vs Philadelphia Flyers --- CH 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",Los Angeles Kings vs Philadelphia Flyers --- CH 1
 http://195.178.110.37/hls/FFFFBQQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -21,6 +26,11 @@ http://195.178.110.37/hls/JTTTQQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NBA Basketball" tvg-name="Sacramento Kings vs Philadelphia 76ers --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",Sacramento Kings vs Philadelphia 76ers --- CH 1
 http://195.178.110.37/hls/LNNNQQQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Sacramento Kings vs Philadelphia 76ers --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",Sacramento Kings vs Philadelphia 76ers --- HD
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c301fa65-c29c-43eb-87cd-a1b05f9b841c/master.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -59,6 +69,21 @@ http://195.178.110.37/hls/LNNNQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Utah Jazz vs Milwaukee Bucks --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",Utah Jazz vs Milwaukee Bucks --- HD
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dfdf8e0e-3337-4d0e-bcea-f77f512a9d47/master.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="Edmonton Oilers vs Florida Panthers --- CH 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",Edmonton Oilers vs Florida Panthers --- CH 1
+http://195.178.110.37/hls/FFFFBQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="Edmonton Oilers vs Florida Panthers --- CH 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",Edmonton Oilers vs Florida Panthers --- CH 2
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2ecc40f3-3426-455d-aa8e-bb6be1bea4e1/master.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="CONCACAF Champions Cup" tvg-name="Tigres UANL vs FC Cincinnati" tvg-logo="https://pbs.twimg.com/profile_images/1477333156609073154/9DO9jLf7_400x400.jpg",Tigres UANL vs FC Cincinnati
 http://195.178.110.2/hls/FCCCQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -69,8 +94,23 @@ http://195.178.110.37/hls/JTTTQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Miami Heat vs Los Angeles Lakers --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",Miami Heat vs Los Angeles Lakers --- CH 1
+http://195.178.110.37/hls/LNNNQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Miami Heat vs Los Angeles Lakers --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",Miami Heat vs Los Angeles Lakers --- HD
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/467de61c-ac55-4b46-a5a1-cae8ce202b50/master.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NBA Basketball" tvg-name="San Antonio Spurs vs Phoenix Suns --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",San Antonio Spurs vs Phoenix Suns --- CH 1
 http://195.178.110.37/hls/LNNNQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="San Antonio Spurs vs Phoenix Suns --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",San Antonio Spurs vs Phoenix Suns --- HD
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bc9f456a-0b70-4827-abc9-fdc38cad8cc7/master.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -79,28 +119,18 @@ http://195.178.110.37/hls/LNNNQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Miami Heat vs Los Angeles Lakers --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",Miami Heat vs Los Angeles Lakers --- CH 1
-http://195.178.110.37/hls/LNNNQ.m3u8
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="New Orleans Pelicans vs Los Angeles Clippers --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",New Orleans Pelicans vs Los Angeles Clippers --- HD
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b932bd6d-5d2d-4b0d-8d6e-484833767a20/master.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Chicago Bulls vs Cleveland Cavaliers --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",Chicago Bulls vs Cleveland Cavaliers --- CH 1
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Chicago Bulls vs Cleveland Cavaliers" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",Chicago Bulls vs Cleveland Cavaliers
 http://195.178.110.37/hls/LNNN.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NHL Hockey" tvg-name="Edmonton Oilers vs Florida Panthers --- CH 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",Edmonton Oilers vs Florida Panthers --- CH 1
-http://195.178.110.37/hls/FFFFBQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NHL Hockey" tvg-name="Nashville Predators vs Seattle Kraken --- CH 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",Nashville Predators vs Seattle Kraken --- CH 1
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="Nashville Predators vs Seattle Kraken" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg",Nashville Predators vs Seattle Kraken
 http://195.178.110.37/hls/FFFFB.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NCAA College Basketball" tvg-name="NCAA Men's March Madness" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",NCAA Men's March Madness
-http://195.178.110.37/hls/BDDD.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -111,6 +141,11 @@ http://195.178.110.37/hls/KVVVQQQQQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NCAA Basketball" tvg-name="Brigham Young vs Texas" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Brigham Young vs Texas
 http://195.178.110.37/hls/KVVVQQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NCAA Basketball" tvg-name="Michigan vs Howard" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Michigan vs Howard
+http://195.178.110.37/hls/BDDD.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -206,16 +241,6 @@ http://195.178.110.37/hls/KVVVQQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Cricket" tvg-name="West Indies W vs Australia W" tvg-logo="https://pbs.twimg.com/profile_images/1975857201958035456/vW289QQ4_400x400.jpg",West Indies W vs Australia W
 http://195.178.110.37/hls/juuuu.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Brazil Serie A" tvg-name="Gremio vs Vitoria" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",Gremio vs Vitoria
-http://195.178.110.2/hls/FCCCQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Colombia Primera A" tvg-name="Alianza vs Jaguares de Cordoba" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",Alianza vs Jaguares de Cordoba
-http://195.178.110.2/hls/FCCC.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
