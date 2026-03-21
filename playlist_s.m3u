@@ -5,17 +5,17 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="English Premier League" tvg-name="Everton vs Chelsea --- ENG 1 CH1" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",Everton vs Chelsea --- ENG 1 CH1
-http://195.178.110.2/hls/ZJJJQ.m3u8
+http://195.178.110.27/hls/ZJJJQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="English Premier League" tvg-name="Everton vs Chelsea --- ENG 1 CH2" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",Everton vs Chelsea --- ENG 1 CH2
-http://195.178.110.25/hls/ZJJJQ.m3u8
+http://195.178.110.2/hls/ZJJJQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="English Premier League" tvg-name="Everton vs Chelsea --- ENG 1 CH3" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",Everton vs Chelsea --- ENG 1 CH3
-http://195.178.110.27/hls/ZJJJQ.m3u8
+http://195.178.110.25/hls/ZJJJQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -35,12 +35,12 @@ https://ml-pull-hwc.myco.io/EPLBONGO4/hls/EPLBONGO4_H264-720p.m3u8?pkg_media=vid
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="UFC Fight Night" tvg-name="UFC Figt Night : Evloev vs Murphy CH1" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",UFC Figt Night : Evloev vs Murphy CH1
-http://195.178.110.2/hls/ZJJJQq.m3u8
+http://195.178.110.25/hls/ZJJJQq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="UFC Fight Night" tvg-name="UFC Figt Night : Evloev vs Murphy CH2" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",UFC Figt Night : Evloev vs Murphy CH2
-http://195.178.110.25/hls/ZJJJQq.m3u8
+http://195.178.110.2/hls/ZJJJQq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -49,23 +49,98 @@ http://195.178.110.27/hls/ZJJJQq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Rangers vs Aberdeen --- CH 1 CH1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Rangers vs Aberdeen --- CH 1 CH1
+#EXTINF:-1 group-title="Boxing" tvg-name="Boxing : Liddard vs Denny" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",Boxing : Liddard vs Denny
+http://195.178.110.37/hls/mmmm.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Rangers vs Aberdeen CH1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Rangers vs Aberdeen CH1
 http://195.178.110.25/hls/ZJJJ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Rangers vs Aberdeen --- CH 1 CH2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Rangers vs Aberdeen --- CH 1 CH2
-http://195.178.110.27/hls/ZJJJ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Rangers vs Aberdeen --- CH 1 CH3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Rangers vs Aberdeen --- CH 1 CH3
+#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Rangers vs Aberdeen CH2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Rangers vs Aberdeen CH2
 http://195.178.110.2/hls/ZJJJ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Rangers vs Aberdeen --- CH 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Rangers vs Aberdeen --- CH 2
-https://test.btyso16.com/sd-6MuSrvoc63SRctC2NK.m3u8?txSecret=33863a63056d602cea7c216a940dd665&txTime=69C02A5C
+#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Rangers vs Aberdeen CH3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Rangers vs Aberdeen CH3
+http://195.178.110.27/hls/ZJJJ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Italy Serie A" tvg-name="Juventus vs Sassuolo" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Juventus vs Sassuolo
+http://195.178.110.37/hls/mmmmtQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Ireland Premier Division" tvg-name="Sligo Rovers vs Shelbourne" tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg",Sligo Rovers vs Shelbourne
+http://195.178.110.37/hls/mmmmt.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="German 2 Bundesliga" tvg-name="Darmstadt vs Schalke" tvg-logo="https://pbs.twimg.com/profile_images/880436063424131074/ECth5ahp_400x400.jpg",Darmstadt vs Schalke
+http://195.178.110.37/hls/JHHHQQQQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Switzerland Super League" tvg-name="Sion vs St Gallen" tvg-logo="https://pbs.twimg.com/profile_images/1939931354528980992/MjIErFvg_400x400.png",Sion vs St Gallen
+http://195.178.110.37/hls/JHHHQQQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Slovenia Prva Liga" tvg-name="O Ljubljana vs Bravo" tvg-logo="https://pbs.twimg.com/profile_images/1414517889508462600/kxU3TDsE_400x400.jpg",O Ljubljana vs Bravo
+http://195.178.110.37/hls/JHHHQQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Poland Ekstraklasa" tvg-name="Jagiellonia vs Wisla Plock" tvg-logo="https://pbs.twimg.com/profile_images/2009097869559779328/lbIxVN_w_400x400.jpg",Jagiellonia vs Wisla Plock
+http://195.178.110.37/hls/JHHHQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CAF Champions League" tvg-name="Al Ahly vs Esperance Tunis" tvg-logo="https://pbs.twimg.com/profile_images/1962804184819826688/hKp8GOg3_400x400.jpg",Al Ahly vs Esperance Tunis
+http://195.178.110.37/hls/JDDDQQQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CAF Confederation Cup" tvg-name="CR Belouizdad vs Al Masry" tvg-logo="https://pbs.twimg.com/profile_images/1962804184819826688/hKp8GOg3_400x400.jpg",CR Belouizdad vs Al Masry
+http://195.178.110.37/hls/JDDDQQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Brazil Serie A" tvg-name="Bragantino vs Botafogo RJ" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",Bragantino vs Botafogo RJ
+http://195.178.110.37/hls/JHHH.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Belgium Challenge Pro League" tvg-name="Sporting Lokeren vs Anderlecht U23" tvg-logo="https://pbs.twimg.com/profile_images/1994499644521398272/E2_Sn5AM_400x400.jpg",Sporting Lokeren vs Anderlecht U23
+http://195.178.110.37/hls/JDDDQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Belgium Challenge Pro League" tvg-name="RWDM Brussels vs Lierse" tvg-logo="https://pbs.twimg.com/profile_images/1994499644521398272/E2_Sn5AM_400x400.jpg",RWDM Brussels vs Lierse
+http://195.178.110.37/hls/JDDDQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Belgium Challenge Pro League" tvg-name="Beveren vs RFC Liege" tvg-logo="https://pbs.twimg.com/profile_images/1994499644521398272/E2_Sn5AM_400x400.jpg",Beveren vs RFC Liege
+http://195.178.110.37/hls/JDDDQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="France Ligue 2" tvg-name="St Etienne vs Annecy" tvg-logo="https://pbs.twimg.com/profile_images/2001309157903732736/CPkmq-J4_400x400.jpg",St Etienne vs Annecy
+http://195.178.110.37/hls/JDDD.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Uruguay Liga AUF" tvg-name="Wanderers vs Danubio" tvg-logo="https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",Wanderers vs Danubio
+http://195.178.110.37/hls/JHHHQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Dutch Eerste Divisie" tvg-name="RKC Waalwijk vs FC Den Bosch" tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg",RKC Waalwijk vs FC Den Bosch
+http://195.178.110.37/hls/JHHHQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
