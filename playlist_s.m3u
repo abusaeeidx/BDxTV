@@ -24,8 +24,13 @@ http://195.178.110.2/hls/AAAAO.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="UEFA Women Champions League" tvg-name="Real Madrid W VS Barcelona W" tvg-logo="https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",Real Madrid W VS Barcelona W
+#EXTINF:-1 group-title="UEFA Women Champions League" tvg-name="Real Madrid W vs Barcelona W --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",Real Madrid W vs Barcelona W --- CH 1
 http://195.178.110.2/hls/AVVVVQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="UEFA Women Champions League" tvg-name="Real Madrid W vs Barcelona W --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",Real Madrid W vs Barcelona W --- CH 2
+https://livecdn-bp-nobar.maypn.stream/stream/25/chunks.m3u8?is_vip=true&token=nobar-efc85707-4478-4f2e-821f-41f64884eca0&x-sign=7cea08f7ff57405cca46519d03dd62c4&x-time=1774461780
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
