@@ -3,57 +3,49 @@ name: task
 on:
 workflow_dispatch:
 schedule:
-- cron: "*/20 * * * *"
+- cron: "*/30 * * * *"
 
 jobs:
 update_files:
 runs-on: ubuntu-latest
 
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v4
-    with:
-      fetch-depth: 0 
+steps:  
+  - name: Checkout repository  
+    uses: actions/checkout@v4  
 
-  - name: Initialize environment
-    uses: actions/setup-python@v5
-    with:
-      python-version: "3.x"
+  - name: Initialize environment  
+    uses: actions/setup-python@v5  
+    with:  
+      python-version: "3.x"  
 
-  - name: Install Dependencies
-    run: |
-      python -m pip install --upgrade pip
-      pip install aiohttp beautifulsoup4
-      
-  - name: Extract zip
-    env:
-      ZIP_F: ${{ secrets.ZIP_F4 }}
-      ZIP_FILE: files/risp.zip
-    run: |
-      python files/unl.py
+  - name: Install Dependencies  
+    run: |  
+      python -m pip install --upgrade pip  
+      pip install aiohttp beautifulsoup4  
+        
+  - name: Extract zip  
+    env:  
+      ZIP_F: ${{ secrets.ZIP_F4 }}  
+      ZIP_FILE: files/risp.zip  
+    run: |  
+      python files/unl.py  
 
-  - name: Execute update
-    run: |
-      python workspace/risp.py
+  - name: Execute update  
+    run: |  
+      python workspace/risp.py  
 
-  - name: Commit and push updates 
-    run: |
-      git config --global user.name "Bot"
-      git config --global user.email "bot@github.com"
+  - name: Commit and push updates  
+    run: |  
+      git config --global user.name "Bot"  
+      git config --global user.email "bot@github.com"  
 
-      git add *.m3u || true
+      git pull origin main --rebase  
 
-      if ! git diff --cached --quiet; then
-        git commit -m "update files"
-
-        echo " Pulling latest changes..."
-        git pull origin main --rebase || echo "Rebase skipped"
-
-        echo "Pushing "
-        git push origin main || (
-          echo " Normal push failed, trying force push..."
-          git push origin main --force
-        )
-      else
-        echo "No changes to commit"
+      git add *.m3u || true  
+      if ! git diff --cached --quiet; then  
+        git commit -m "update files"  
+        git pull origin main --rebase  
+        git push origin main  
+      else  
+        echo "No changes to commit"  
       fi
