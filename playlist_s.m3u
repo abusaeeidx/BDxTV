@@ -4,36 +4,6 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Boxing" tvg-name="Boxing : Usyk vs Verhoeven --- CH 1 CH1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",Boxing : Usyk vs Verhoeven --- CH 1 CH1
-http://193.47.62.53/hls/JCCCC.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Boxing" tvg-name="Boxing : Usyk vs Verhoeven --- CH 1 CH2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",Boxing : Usyk vs Verhoeven --- CH 1 CH2
-http://193.47.62.49/hls/JCCCC.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Boxing" tvg-name="Boxing : Usyk vs Verhoeven --- CH 1 CH3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",Boxing : Usyk vs Verhoeven --- CH 1 CH3
-http://193.47.62.45/hls/JCCCC.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Boxing" tvg-name="Boxing : Usyk vs Verhoeven --- CH 1 CH4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",Boxing : Usyk vs Verhoeven --- CH 1 CH4
-http://193.47.62.57/hls/JCCCC.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Boxing" tvg-name="Boxing : Usyk vs Verhoeven --- CH 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",Boxing : Usyk vs Verhoeven --- CH 2
-https://live.kinescopecdn.net/on-air/e7306a84-915f-4057-979e-48822ef4f426/9e50738d-73f0-4457-a491-b9989e933a6a/master.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Boxing" tvg-name="Boxing : Usyk vs Verhoeven --- HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",Boxing : Usyk vs Verhoeven --- HD
-https://live.kinescopecdn.net/on-air/e7306a84-915f-4057-979e-48822ef4f426/dfbefc30-aed0-424a-952e-4de1fcd7295a/master.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NBA Basketball" tvg-name="Cleveland Cavaliers vs New York Knicks --- ENG 1" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",Cleveland Cavaliers vs New York Knicks --- ENG 1
 http://193.47.62.48/hls/MLLL.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -144,8 +114,23 @@ http://193.47.62.40/hls/RIIIQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="WWE Wrestling" tvg-name="WWE Saturday Night Main Event --- SD" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",WWE Saturday Night Main Event --- SD
+http://193.47.62.40/hls/fmmm.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="WWE Wrestling" tvg-name="WWE Saturday Night Main Event --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",WWE Saturday Night Main Event --- HD
+https://live.kinescopecdn.net/on-air/e7306a84-915f-4057-979e-48822ef4f426/ff754eb8-1977-4b7a-92d7-d1b3840be1b8/master.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Brazil Serie A" tvg-name="Flamengo RJ vs Palmeiras" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",Flamengo RJ vs Palmeiras
 http://193.47.62.40/hls/RIIIQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Brazil Serie A" tvg-name="Flamengo RJ vs Palmeiras --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",Flamengo RJ vs Palmeiras --- HD
+https://live.kinescopecdn.net/on-air/e7306a84-915f-4057-979e-48822ef4f426/e9d25189-d24c-471c-95b2-068eafd62d6f/master.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
