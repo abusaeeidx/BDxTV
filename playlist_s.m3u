@@ -9,60 +9,40 @@ http://193.47.62.44/hls/YIII.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Mexico Liga MX" tvg-name="Club Tijuana vs Tigres UANL --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",Club Tijuana vs Tigres UANL --- CH 1
-http://193.47.62.41/hls/ZGGGQQ.m3u8
+#EXTINF:-1 group-title="Volleyball Nations League" tvg-name="Japan vs Belgium" tvg-logo="https://pbs.twimg.com/profile_images/1532678058993393666/vPvaWD6G_400x400.jpg",Japan vs Belgium
+http://193.47.62.41/hls/skkkqqq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Mexico Liga MX" tvg-name="Club Tijuana vs Tigres UANL --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",Club Tijuana vs Tigres UANL --- CH 2
-https://pul-tenm.gkykp.com/live/sd-1-4553796.m3u8?txSecret=09c78acc466962758616a4b38ff381e8&txTime=6A5AE9D8
+#EXTINF:-1 group-title="NRL" tvg-name="Sydney Roosters vs Melbourne Storm" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",Sydney Roosters vs Melbourne Storm
+http://193.47.62.41/hls/skkkq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="Seattle Sounders vs Portland Timbers" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Seattle Sounders vs Portland Timbers
-http://193.47.62.41/hls/ZGGGQ.m3u8
+#EXTINF:-1 group-title="AFL Aussie Rules" tvg-name="Sydney Swans vs Adelaide Crows" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",Sydney Swans vs Adelaide Crows
+http://193.47.62.41/hls/skkkqq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="Seattle Sounders vs Portland Timbers --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Seattle Sounders vs Portland Timbers --- HD
-https://pul-tenm.gkykp.com/live/sd-1-4460326.m3u8?txSecret=54f3cbbe5c7f30f971c7324161eee45e&txTime=6A5AE780
+#EXTINF:-1 group-title="FIA Formula 2" tvg-name="FIA Formula 2 Belgium" tvg-logo="https://pbs.twimg.com/profile_images/2061372235508494338/LKV69QHd_400x400.jpg",FIA Formula 2 Belgium
+http://193.47.62.41/hls/skkk.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Denver Nuggets vs Portland Trail Blazers" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",Denver Nuggets vs Portland Trail Blazers
-http://193.47.62.41/hls/ZGGG.m3u8
+#EXTINF:-1 group-title="Tennis ATP" tvg-name="Tennis ATP Bastad" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",Tennis ATP Bastad
+http://193.47.62.44/hls/YDDDQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Denver Nuggets vs Portland Trail Blazers --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",Denver Nuggets vs Portland Trail Blazers --- HD
-https://pul-tenm.gkykp.com/live/hd-en-2-3923401.m3u8?txSecret=8cd0cf8e6c2f50d619fa90dd2cb729c3&txTime=6A5AE780
+#EXTINF:-1 group-title="Tennis ATP" tvg-name="Tennis ATP Gstaad" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",Tennis ATP Gstaad
+http://193.47.62.44/hls/YDDD.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Cricket MLC" tvg-name="San Francisco Unicorns vs Washington Freedom" tvg-logo="https://pbs.twimg.com/profile_images/1795269942063108096/J6NAZH8s_400x400.jpg",San Francisco Unicorns vs Washington Freedom
-http://193.47.62.41/hls/QQQQC.m3u8
+#EXTINF:-1 group-title="NRL" tvg-name="Cronulla Sharks vs Newcastle Knights" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",Cronulla Sharks vs Newcastle Knights
+http://193.47.62.41/hls/skkkq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Mexico Liga MX" tvg-name="Necaxa vs Atlante" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",Necaxa vs Atlante
-http://193.47.62.41/hls/GRGRGRQQQQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Miami Heat vs Toronto Raptors" tvg-logo="https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg",Miami Heat vs Toronto Raptors
-http://193.47.62.41/hls/GRGRGRQQQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Argentina Copa" tvg-name="Sarmiento Junin vs Boca Juniors" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",Sarmiento Junin vs Boca Juniors
-http://193.47.62.41/hls/GRGRGRQQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="St Louis City vs Sporting Kansas City" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",St Louis City vs Sporting Kansas City
-http://193.47.62.41/hls/GRGRGRQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="St Louis City vs Sporting Kansas City --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",St Louis City vs Sporting Kansas City --- HD
-https://pul-tenm.gkykp.com/live/sd-1-4460324.m3u8?txSecret=b670d4bdfb2a9196a9b37fc3be45142f&txTime=6A5ABF30
+#EXTINF:-1 group-title="FIA Formula 3" tvg-name="FIA Formula 3 Belgium" tvg-logo="https://pbs.twimg.com/profile_images/2061372301917007872/tNkSjoCt_400x400.jpg",FIA Formula 3 Belgium
+http://193.47.62.41/hls/skkk.m3u8
