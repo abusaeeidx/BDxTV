@@ -4,13 +4,23 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Boxing" tvg-name="Boxing : Lamont Roach Jr vs William Zepeda" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",Boxing : Lamont Roach Jr vs William Zepeda
-http://193.47.62.194/hls/hythytj.m3u8
+#EXTINF:-1 group-title="Commonwealth Games" tvg-name="Glasgow Commonwealth Games --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2014677760422146048/vcPtMi-l_400x400.jpg",Glasgow Commonwealth Games --- CH 1
+http://193.47.62.41/hls/ZLLL.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Boxing" tvg-name="Boxing : Lamont Roach Jr vs William Zepeda --- HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg",Boxing : Lamont Roach Jr vs William Zepeda --- HD
-http://193.47.62.192/hls/KVVVAAAAAAAAA.m3u8
+#EXTINF:-1 group-title="Commonwealth Games" tvg-name="Glasgow Commonwealth Games --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2014677760422146048/vcPtMi-l_400x400.jpg",Glasgow Commonwealth Games --- CH 2
+http://193.47.62.41/hls/tpppqQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Commonwealth Games" tvg-name="Glasgow Commonwealth Games --- CH 3" tvg-logo="https://pbs.twimg.com/profile_images/2014677760422146048/vcPtMi-l_400x400.jpg",Glasgow Commonwealth Games --- CH 3
+http://193.47.62.41/hls/tpppqQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Commonwealth Games" tvg-name="Glasgow Commonwealth Games --- CH 4" tvg-logo="https://pbs.twimg.com/profile_images/2014677760422146048/vcPtMi-l_400x400.jpg",Glasgow Commonwealth Games --- CH 4
+http://193.47.62.41/hls/tpppqQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -29,6 +39,11 @@ http://193.47.62.41/hls/tpppq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="World Rally" tvg-name="World Rally Championship Finland" tvg-logo="https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",World Rally Championship Finland
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NRL" tvg-name="Parramatta Eels W vs Newcastle Knights W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",Parramatta Eels W vs Newcastle Knights W
 http://193.47.62.190/hls/CACACAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -36,113 +51,3 @@ http://193.47.62.190/hls/CACACAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="AFL Aussie Rules" tvg-name="Gold Coast Suns vs Melbourne Demons" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",Gold Coast Suns vs Melbourne Demons
 http://193.47.62.190/hls/CACACAAAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Rugby Bunnings NPC" tvg-name="Wellington vs Hawkes Bay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/NPC-Logo_50_Years.png/250px-NPC-Logo_50_Years.png",Wellington vs Hawkes Bay
-http://193.47.62.190/hls/CACACAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="World Rally" tvg-name="World Rally Championship Finland" tvg-logo="https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg",World Rally Championship Finland
-https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NRL" tvg-name="Cronulla Sharks vs South Sydney Rabbitohs" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",Cronulla Sharks vs South Sydney Rabbitohs
-http://193.47.62.190/hls/CACACAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="AFL Aussie Rules" tvg-name="Richmond Tigers vs West Coast Eagles" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",Richmond Tigers vs West Coast Eagles
-http://193.47.62.190/hls/CACACAAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NRL" tvg-name="New Zealand Warriors W vs Gold Coast Titans W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",New Zealand Warriors W vs Gold Coast Titans W
-http://193.47.62.190/hls/CACACA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Mexico Liga MX" tvg-name="Cruz Azul vs Atlante" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",Cruz Azul vs Atlante
-http://193.47.62.193/hls/ZZGGGFA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="Portland Timbers vs Seattle Sounders" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Portland Timbers vs Seattle Sounders
-http://193.47.62.193/hls/ZZGGGF.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="Portland Timbers vs Seattle Sounders --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Portland Timbers vs Seattle Sounders --- HD
-https://live2.jxa76.com/live/sd-6MvZ6BA1CqxsnKhodd.m3u8?txSecret=2ded85f0125ab3d9071528f779fdd868&txTime=19FC19CC3D5
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="Los Angeles Galaxy vs FC Dallas" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Los Angeles Galaxy vs FC Dallas
-http://193.47.62.193/hls/ZZGGG.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="Los Angeles Galaxy vs FC Dallas --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Los Angeles Galaxy vs FC Dallas --- HD
-https://live2.jxa76.com/live/sd-6MvZ6BA1CtAMeoXinX.m3u8?txSecret=9072053977215f7c73f2ceefd1afa3af&txTime=19FC1996B63
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Rugby Bunnings NPC" tvg-name="Northland vs Manawatu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/NPC-Logo_50_Years.png/250px-NPC-Logo_50_Years.png",Northland vs Manawatu
-http://193.47.62.190/hls/CACACAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLB Baseball" tvg-name="Athletics vs Detroit Tigers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Athletics vs Detroit Tigers
-http://193.47.62.193/hls/ZVVVAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLB Baseball" tvg-name="Los Angeles Angels vs Milwaukee Brewers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Los Angeles Angels vs Milwaukee Brewers
-http://193.47.62.193/hls/ZVVVAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NRL" tvg-name="Canterbury-Bankstown Bulldogs W vs Brisbane Broncos W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",Canterbury-Bankstown Bulldogs W vs Brisbane Broncos W
-http://193.47.62.190/hls/CACACA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="Colorado Rapids vs Austin FC" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Colorado Rapids vs Austin FC
-http://193.47.62.193/hls/ZVVVAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="Colorado Rapids vs Austin FC --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Colorado Rapids vs Austin FC --- HD
-https://live2.jxa76.com/live/sd-6MvZ6BA1ComPuqstUj.m3u8?txSecret=3176349c14acb58fc38342b390d9b961&txTime=19FC16A2D37
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Peru Liga 1 Apertura" tvg-name="Alianza Lima vs Alianza Atl" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",Alianza Lima vs Alianza Atl
-http://193.47.62.190/hls/JUUUA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Colombia Primera A" tvg-name="Junior vs Millonarios" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",Junior vs Millonarios
-http://193.47.62.190/hls/ioooaaAAAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLB Baseball" tvg-name="Los Angeles Dodgers vs Boston Red Sox" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Los Angeles Dodgers vs Boston Red Sox
-http://193.47.62.193/hls/ZVVVA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Tennis ATP" tvg-name="Tennis ATP Washington" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",Tennis ATP Washington
-http://193.47.62.190/hls/HYYYQQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="FC Cincinnati vs San Jose Earthquakes" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",FC Cincinnati vs San Jose Earthquakes
-http://193.47.62.193/hls/TTTTAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="FC Cincinnati vs San Jose Earthquakes --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",FC Cincinnati vs San Jose Earthquakes --- HD
-https://live2.jxa76.com/live/sd-6MvZ6B9zsScrAgib6b.m3u8?txSecret=53cec29f7dd8053ea3813614dd54e85b&txTime=19FC1887C67
