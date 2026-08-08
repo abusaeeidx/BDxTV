@@ -19,6 +19,21 @@ http://193.47.62.194/hls/HYHYHY.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Friendly Match" tvg-name="Udinese vs FC Barcelona" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",Udinese vs FC Barcelona
+http://193.47.62.192/hls/EIIIIAAAAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Peru Liga 1 Apertura" tvg-name="Juan Pablo II vs Grau" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",Juan Pablo II vs Grau
+http://193.47.62.190/hls/CBBBAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLS League" tvg-name="New England Revolution vs Houston Dynamo" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",New England Revolution vs Houston Dynamo
+http://193.47.62.190/hls/CBBBAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="MLB Baseball" tvg-name="Miami Marlins vs Los Angeles Angels" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Miami Marlins vs Los Angeles Angels
 http://193.47.62.190/hls/YEEEAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -29,28 +44,18 @@ http://193.47.62.190/hls/YEEEAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Friendly Match" tvg-name="Udinese vs FC Barcelona" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",Udinese vs FC Barcelona
-http://193.47.62.192/hls/EIIIIAAAAAAA.m3u8
+#EXTINF:-1 group-title="Africa Cup of Nations Women" tvg-name="Morocco W vs South Africa W --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",Morocco W vs South Africa W --- CH 1
+http://193.47.62.190/hls/YEEE.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Africa Cup of Nations Women" tvg-name="Morocco W vs South Africa W" tvg-logo="https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",Morocco W vs South Africa W
-http://193.47.62.190/hls/YEEE.m3u8
+#EXTINF:-1 group-title="Africa Cup of Nations Women" tvg-name="Morocco W vs South Africa W --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2024143570735673344/1A8gqS2U_400x400.jpg",Morocco W vs South Africa W --- CH 2
+https://live2.jxa76.com/live/sd-6MxiKMxVrf4WTD38Ys_540p.m3u8?txSecret=c8084916eb4ca8e34b2b1551a8b3c8d3&txTime=19FE44591AB
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Argentina Liga Profesional" tvg-name="Tigre vs River Plate" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",Tigre vs River Plate
 http://193.47.62.190/hls/YEEEA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Friendly Match" tvg-name="FC Barcelona vs Nottingham Forest" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",FC Barcelona vs Nottingham Forest
-http://193.47.62.192/hls/EIIIIAAAAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Friendly Match" tvg-name="FC Barcelona vs Nottingham Forest --- HD" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",FC Barcelona vs Nottingham Forest --- HD
-https://live2.jxa76.com/live/sd-6Mwb79Lf8V9cm2GPLw_540p.m3u8?txSecret=16f83848ebe4e575af933c33d7594b73&txTime=19FE4282D95
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -204,113 +209,13 @@ http://193.47.62.190/hls/AZZZAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="German 2 Bundesliga" tvg-name="Wolfsburg vs FC Kaiserslautern" tvg-logo="https://pbs.twimg.com/profile_images/880436063424131074/ECth5ahp_400x400.jpg",Wolfsburg vs FC Kaiserslautern
-http://193.47.62.192/hls/EIIIIAA.m3u8
+#EXTINF:-1 group-title="Tennis Masters" tvg-name="Tennis ATP Montreal" tvg-logo="https://pbs.twimg.com/profile_images/1808145962105556996/_G1A6Lg__400x400.jpg",Tennis ATP Montreal
+http://193.47.62.190/hls/zazaza.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Friendly Match" tvg-name="Cagliari vs Nice" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",Cagliari vs Nice
-http://193.47.62.190/hls/AZZZAAAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Turkey Lig 1" tvg-name="Antalyaspor vs Keciorengucu" tvg-logo="https://pbs.twimg.com/profile_images/1577968897441120257/Bywq3Bso_400x400.jpg",Antalyaspor vs Keciorengucu
-http://193.47.62.190/hls/AZZZAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Slovakia Nike liga" tvg-name="Trnava vs Banska Bystrica" tvg-logo="https://pbs.twimg.com/profile_images/1675145822843944961/Nrv2TM-g_400x400.jpg",Trnava vs Banska Bystrica
-http://193.47.62.190/hls/AZZZAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Switzerland Super League" tvg-name="Servette vs Grasshoppers" tvg-logo="https://pbs.twimg.com/profile_images/1939931354528980992/MjIErFvg_400x400.png",Servette vs Grasshoppers
-http://193.47.62.190/hls/AZZZA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Romania Superliga" tvg-name="Dinamo Bucuresti vs FC Voluntari" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg",Dinamo Bucuresti vs FC Voluntari
-http://193.47.62.190/hls/AZZZ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Slovenia Prva Liga" tvg-name="Celje vs O Ljubljana" tvg-logo="https://pbs.twimg.com/profile_images/1414517889508462600/kxU3TDsE_400x400.jpg",Celje vs O Ljubljana
-http://193.47.62.190/hls/ggggAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Poland Ekstraklasa" tvg-name="Korona Kielce vs Legia Warsaw" tvg-logo="https://pbs.twimg.com/profile_images/2072189899344613376/DeGLZ4Il_400x400.jpg",Korona Kielce vs Legia Warsaw
-http://193.47.62.190/hls/ggggAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Poland Division 1" tvg-name="Podbeskidzie vs Lechia Gdansk" tvg-logo="https://pbs.twimg.com/profile_images/1852296144723869696/2Ad94oXN_400x400.jpg",Podbeskidzie vs Lechia Gdansk
-http://193.47.62.190/hls/ggggA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Bulgaria efbet League" tvg-name="Dunav Ruse vs Arda" tvg-logo="https://pbs.twimg.com/profile_images/961918078715154432/nvSl0qsf_400x400.jpg",Dunav Ruse vs Arda
-http://193.47.62.190/hls/gggg.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Dutch Eredivisie" tvg-name="PSV vs Fortuna Sittard" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",PSV vs Fortuna Sittard
-http://193.47.62.192/hls/EIIIIAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Dutch Eredivisie" tvg-name="PSV vs Fortuna Sittard --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",PSV vs Fortuna Sittard --- HD
-https://live2.jxa76.com/live/sd-6Mwdpr4djvFJ5PNxYT_540p.m3u8?txSecret=243a751918832c80f38a96492c42e558&txTime=19FE3ED6C9E
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Czech Chance Liga" tvg-name="Mlada Boleslav vs Sparta Prague" tvg-logo="https://pbs.twimg.com/profile_images/2004812101609459712/wwGcHUru_400x400.jpg",Mlada Boleslav vs Sparta Prague
-http://193.47.62.192/hls/EIIIIAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Serbia Super Liga" tvg-name="Crvena zvezda vs Novi Pazar" tvg-logo="https://pbs.twimg.com/profile_images/1681639346862948353/OPubFagD_400x400.jpg",Crvena zvezda vs Novi Pazar
-http://193.47.62.192/hls/EIIIIA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Serbia Super Liga" tvg-name="Radnicki 1923 vs Zemun" tvg-logo="https://pbs.twimg.com/profile_images/1681639346862948353/OPubFagD_400x400.jpg",Radnicki 1923 vs Zemun
-http://193.47.62.192/hls/EIIII.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Friendly Match" tvg-name="Udinese vs Nottingham Forest" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",Udinese vs Nottingham Forest
-http://193.47.62.192/hls/EIIIIAAAAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Friendly Match" tvg-name="Fiorentina W vs Manchester City W" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",Fiorentina W vs Manchester City W
-http://193.47.62.193/hls/AMMMQAAAaA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Friendly Match" tvg-name="Galatasaray vs Villarreal" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",Galatasaray vs Villarreal
-http://193.47.62.192/hls/EIIIIAAAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Uruguay Liga AUF" tvg-name="Liverpool M vs Albion" tvg-logo="https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",Liverpool M vs Albion
-http://193.47.62.192/hls/EIIIIAAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Peru Liga 1 Apertura" tvg-name="Cajamarca vs AD Tarma" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",Cajamarca vs AD Tarma
-http://193.47.62.192/hls/EIIIIAAAAAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Argentina Liga Profesional" tvg-name="Dep Riestra vs Estudiantes LP" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",Dep Riestra vs Estudiantes LP
-http://193.47.62.190/hls/heeeaaaaAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Argentina Liga Profesional" tvg-name="Atl Tucuman vs Sarmiento Junin" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",Atl Tucuman vs Sarmiento Junin
-http://193.47.62.190/hls/heeeaaaaA.m3u8
+#EXTINF:-1 group-title="Tennis Masters" tvg-name="Tennis WTA Toronto" tvg-logo="https://pbs.twimg.com/profile_images/1808146109652492288/AX7J6NHS_400x400.jpg",Tennis WTA Toronto
+http://193.47.62.190/hls/XAXAXA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
