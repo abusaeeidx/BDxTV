@@ -5,12 +5,12 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="UFC Fight Night" tvg-name="UFC 330 : Islam Makhache vs Ian Garry CH1" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",UFC 330 : Islam Makhache vs Ian Garry CH1
-http://193.47.62.192/hls/uaaa.m3u8
+http://193.47.62.193/hls/uaaa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="UFC Fight Night" tvg-name="UFC 330 : Islam Makhache vs Ian Garry CH2" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",UFC 330 : Islam Makhache vs Ian Garry CH2
-http://193.47.62.193/hls/uaaa.m3u8
+http://193.47.62.192/hls/uaaa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -26,6 +26,11 @@ http://193.47.62.191/hls/HAHAHA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="MLB Baseball" tvg-name="Cincinnati Reds vs Miami Marlins" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Cincinnati Reds vs Miami Marlins
 http://193.47.62.190/hls/lmmmaaAAAa.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="IndyCar" tvg-name="INDYCAR Grand Prix of Markham" tvg-logo="https://pbs.twimg.com/profile_images/2087540246896390144/9-d_TaC8_400x400.jpg",INDYCAR Grand Prix of Markham
+http://193.47.62.190/hls/ZPPP.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -51,6 +56,11 @@ http://193.47.62.190/hls/lmmmaa.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Argentina Liga Profesional" tvg-name="Belgrano vs Ind Rivadavia" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",Belgrano vs Ind Rivadavia
 http://193.47.62.190/hls/lmmma.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Golf LPGA" tvg-name="Golf LPGA Standard Portland Classic" tvg-logo="https://pbs.twimg.com/profile_images/1665698199661600769/nxoC7o2Q_400x400.jpg",Golf LPGA Standard Portland Classic
+http://193.47.62.190/hls/SFSGFD.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
