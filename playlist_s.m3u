@@ -5,17 +5,17 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="UFC Fight Night" tvg-name="UFC 330 : Islam Makhache vs Ian Garry CH1" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",UFC 330 : Islam Makhache vs Ian Garry CH1
-http://193.47.62.193/hls/uaaa.m3u8
+http://193.47.62.55/hls/uaaa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="UFC Fight Night" tvg-name="UFC 330 : Islam Makhache vs Ian Garry CH2" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",UFC 330 : Islam Makhache vs Ian Garry CH2
-http://193.47.62.192/hls/uaaa.m3u8
+http://193.47.62.50/hls/uaaa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="UFC Fight Night" tvg-name="UFC 330 : Islam Makhache vs Ian Garry --- HD" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",UFC 330 : Islam Makhache vs Ian Garry --- HD
-https://live.kinescopecdn.net/on-air/3163e73f-ca7e-4777-9c0f-a3790791ca0e/441966fe-ca13-4fe3-ac7c-b10ecd91fddd/master.m3u8
+#EXTINF:-1 group-title="UFC Fight Night" tvg-name="UFC 330 : Islam Makhache vs Ian Garry CH3" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",UFC 330 : Islam Makhache vs Ian Garry CH3
+http://193.47.62.59/hls/uaaa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -124,28 +124,53 @@ http://193.47.62.190/hls/AARRR.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="Toronto FC vs New England Revolution" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Toronto FC vs New England Revolution
+#EXTINF:-1 group-title="MLS League" tvg-name="Toronto FC vs New England Revolution --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Toronto FC vs New England Revolution --- CH 1
 http://193.47.62.190/hls/TBTBTBAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="Orlando City vs FC Cincinnati" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Orlando City vs FC Cincinnati
+#EXTINF:-1 group-title="MLS League" tvg-name="Toronto FC vs New England Revolution --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Toronto FC vs New England Revolution --- CH 2
+https://live2.jxa76.com/live/sd-6MvZ6BA12zVwVauXkX_540p.m3u8?txSecret=4ee5e4e6e534e480df262920117f05d6&txTime=1A00917A285
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLS League" tvg-name="Orlando City vs FC Cincinnati --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Orlando City vs FC Cincinnati --- CH 1
 http://193.47.62.190/hls/TBTBTBAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="Charlotte vs Columbus Crew" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Charlotte vs Columbus Crew
+#EXTINF:-1 group-title="MLS League" tvg-name="Orlando City vs FC Cincinnati --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Orlando City vs FC Cincinnati --- CH 2
+https://live2.jxa76.com/live/sd-6MvZ6BA132hRN4jSuR_540p.m3u8?txSecret=aa71f1822242a497f2663f10b57c0461&txTime=1A009199A69
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLS League" tvg-name="Charlotte vs Columbus Crew --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Charlotte vs Columbus Crew --- CH 1
 http://193.47.62.190/hls/TBTBTBAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="CF Montreal vs DC United" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",CF Montreal vs DC United
+#EXTINF:-1 group-title="MLS League" tvg-name="Charlotte vs Columbus Crew --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Charlotte vs Columbus Crew --- CH 2
+https://live2.jxa76.com/live/sd-6MvZ6BA1CRnbD3ciwm_540p.m3u8?txSecret=bdf07a7df9fb03116e5ba464b0fc9fa6&txTime=1A009191EFF
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLS League" tvg-name="CF Montreal vs DC United --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",CF Montreal vs DC United --- CH 1
 http://193.47.62.190/hls/TBTBTBA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLS League" tvg-name="Atlanta Utd vs New York Red Bulls" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Atlanta Utd vs New York Red Bulls
+#EXTINF:-1 group-title="MLS League" tvg-name="CF Montreal vs DC United --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",CF Montreal vs DC United --- CH 2
+https://live2.jxa76.com/live/sd-6MvZ6BA1CPb7LZnons_540p.m3u8?txSecret=02f910499c442026225dc16c40d974a0&txTime=1A0091A1819
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLS League" tvg-name="Atlanta Utd vs New York Red Bulls --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Atlanta Utd vs New York Red Bulls --- CH 1
 http://193.47.62.190/hls/TBTBTB.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLS League" tvg-name="Atlanta Utd vs New York Red Bulls --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Atlanta Utd vs New York Red Bulls --- CH 2
+https://live2.jxa76.com/live/sd-6MvZ6BA1CvMqXHMdwR_540p.m3u8?txSecret=414b43c6678995aba2e45f1483d32c1d&txTime=1A009186748
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
