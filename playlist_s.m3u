@@ -4,6 +4,11 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Japan J League" tvg-name="Yokohama FC vs Iwata" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",Yokohama FC vs Iwata
+http://193.47.62.190/hls/DGGGGAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Austria 2 Bundesliga" tvg-name="First Vienna vs Liefering" tvg-logo="https://pbs.twimg.com/media/FUumFx6XwAANi53.jpg",First Vienna vs Liefering
 http://193.47.62.190/hls/DGGGGA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
