@@ -19,6 +19,11 @@ http://193.47.62.44/hls/RAAARAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Hockey CHL" tvg-name="Graz99ers vs Fribourg" tvg-logo="https://pbs.twimg.com/profile_images/2029839784009433088/smY7VrS4_400x400.png",Graz99ers vs Fribourg
+http://193.47.62.41/hls/YBBBQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Qatar QSL" tvg-name="Al Sailiya vs Al Arabi" tvg-logo="https://pbs.twimg.com/profile_images/2080991487475527680/01VevBEC_400x400.jpg",Al Sailiya vs Al Arabi
 http://193.47.62.44/hls/RAAARAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -59,8 +64,33 @@ http://193.47.62.44/hls/RFFFAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Hockey Friendly" tvg-name="Lulea vs IF Bjorkloven" tvg-logo="https://pbs.twimg.com/profile_images/1313144463657701377/baQ905pC_400x400.jpg",Lulea vs IF Bjorkloven
+http://193.47.62.41/hls/pfffe.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Hockey Friendly" tvg-name="Djurgarden vs Brynas" tvg-logo="https://pbs.twimg.com/profile_images/1313144463657701377/baQ905pC_400x400.jpg",Djurgarden vs Brynas
+http://193.47.62.41/hls/pfff.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Hockey CHL" tvg-name="Pardubice vs Tychy" tvg-logo="https://pbs.twimg.com/profile_images/2029839784009433088/smY7VrS4_400x400.png",Pardubice vs Tychy
+http://193.47.62.41/hls/YBBBQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Saudi Premier League" tvg-name="Al Fayha vs Al Kholood" tvg-logo="https://pbs.twimg.com/profile_images/1843984898018676736/BSt_D74t_400x400.jpg",Al Fayha vs Al Kholood
 http://193.47.62.44/hls/RFFFA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Hockey CHL" tvg-name="Tappara vs Liberec" tvg-logo="https://pbs.twimg.com/profile_images/2029839784009433088/smY7VrS4_400x400.png",Tappara vs Liberec
+http://193.47.62.41/hls/YBBBQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Hockey CHL" tvg-name="Plzen vs Rogle" tvg-logo="https://pbs.twimg.com/profile_images/2029839784009433088/smY7VrS4_400x400.png",Plzen vs Rogle
+http://193.47.62.41/hls/YBBB.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
