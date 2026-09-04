@@ -131,3 +131,6 @@
 [2026-09-04 | 01:06:49] INFO     [STRMCNTR] URL 22) Captured M3U8                                                  (stc.py:303)
 [2026-09-04 | 01:06:50] INFO     [STRMCNTR] URL 23) Captured M3U8                                                  (stc.py:303)
 [2026-09-04 | 01:06:50] INFO     [STRMCNTR] Collected 23 event(s)                                                  (stc.py:515)
+[2026-09-04 | 06:06:35] INFO     [STRMCNTR] Scraping from "https://streamecenter.live"                             (stc.py:431)
+[2026-09-04 | 06:06:40] ERROR    [STRMCNTR] Failed to fetch "https://streamecenter.live/game-cards/embed":         (stc.py:198)
+[2026-09-04 | 06:06:40] INFO     [STRMCNTR] No events found                                                        (stc.py:456)
