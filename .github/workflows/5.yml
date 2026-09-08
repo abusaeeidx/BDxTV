@@ -1,0 +1,116 @@
+name: STC M3U Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install "httpx[http2]" selectolax
+
+      - name: Run STC scraper
+        run: |
+          python files/stc.py
+
+      - name: Generate M3U
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          cache_file = Path("caches/strmcntr.json")
+          output_file = Path("strmcntr.m3u")
+
+          lines = ["#EXTM3U"]
+          count = 0
+
+          if cache_file.exists():
+              try:
+                  data = json.loads(
+                      cache_file.read_text(encoding="utf-8")
+                  )
+
+                  for name, item in data.items():
+                      if not isinstance(item, dict):
+                          continue
+
+                      source = item.get("source")
+
+                      if not source:
+                          continue
+
+                      tvg_id = item.get(
+                          "tvg-id",
+                          "Live.Event.us"
+                      )
+
+                      logo = item.get("logo", "")
+                      refer = item.get("refer", "")
+
+                      lines.append(
+                          f'#EXTINF:-1 '
+                          f'tvg-id="{tvg_id}" '
+                          f'tvg-logo="{logo}" '
+                          f'group-title="STC",'
+                          f'{name}'
+                      )
+
+                      if refer:
+                          lines.append(
+                              f'#EXTVLCOPT:http-referrer={refer}'
+                          )
+
+                      lines.append(source)
+
+                      count += 1
+
+              except (
+                  json.JSONDecodeError,
+                  OSError,
+              ) as e:
+                  print(f"Cache read error: {e}")
+
+          else:
+              print("Cache file not found")
+
+          output_file.write_text(
+              "\n".join(lines) + "\n",
+              encoding="utf-8"
+          )
+
+          print(f"Generated {output_file}")
+          print(f"Total entries: {count}")
+          PY
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update STC M3U"
+          git push
