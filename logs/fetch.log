@@ -1693,3 +1693,12 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 [2026-09-10 | 21:17:14] INFO     [STRMCNTR] URL 8) Captured M3U8                                                   (stc.py:303)
 [2026-09-10 | 21:17:14] INFO     [STRMCNTR] URL 9) Captured M3U8                                                   (stc.py:303)
 [2026-09-10 | 21:17:14] INFO     [STRMCNTR] Collected 9 event(s)                                                   (stc.py:515)
+[2026-09-10 | 23:15:53] INFO     [STRMCNTR] Scraping from "https://streamecenter.live"                             (stc.py:431)
+[2026-09-10 | 23:15:55] INFO     [STRMCNTR] Processing 4 URL(s)                                                    (stc.py:459)
+[2026-09-10 | 23:15:56] ERROR    [STRMCNTR] URL 1) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401858213/7b05a9bd-45ca-4729-8b83-14e229094a0f": Client error '404 Not Found' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-football-college-football-401858213/7b05a9bd-45ca-4729-8b83-14e229094a0f'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 (stc.py:206)
+[2026-09-10 | 23:15:57] INFO     [STRMCNTR] URL 2) Captured M3U8                                                   (stc.py:303)
+[2026-09-10 | 23:15:58] ERROR    [STRMCNTR] URL 3) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401816883/9991cc07-7f2c-45a6-94eb-99a8f23b8bcc": Client error '404 Not Found' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-baseball-mlb-401816883/9991cc07-7f2c-45a6-94eb-99a8f23b8bcc'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 (stc.py:206)
+[2026-09-10 | 23:15:59] INFO     [STRMCNTR] URL 4) Captured M3U8                                                   (stc.py:303)
+[2026-09-10 | 23:15:59] INFO     [STRMCNTR] Collected 4 event(s)                                                   (stc.py:515)
