@@ -2219,3 +2219,132 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 [2026-09-12 | 13:41:02] INFO     [STRMCNTR] URL 90) Captured M3U8                                                  (stc.py:303)
 [2026-09-12 | 13:41:04] INFO     [STRMCNTR] URL 91) Captured M3U8                                                  (stc.py:303)
 [2026-09-12 | 13:41:04] INFO     [STRMCNTR] Collected 91 event(s)                                                  (stc.py:515)
+[2026-09-12 | 21:04:29] INFO     [STRMCNTR] Scraping from "https://streamecenter.live"                             (stc.py:431)
+[2026-09-12 | 21:04:31] INFO     [STRMCNTR] Processing 63 URL(s)                                                   (stc.py:459)
+[2026-09-12 | 21:04:33] ERROR    [STRMCNTR] URL 1) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856782/f7eb4232-a4b4-4381-86b9-4a5945d52a1b": Client error '403 Forbidden' for url 'https://streame.center/embed/ch33.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:33] ERROR    [STRMCNTR] URL 2) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856674/1db846fc-8524-4803-9dbd-dcd6c0af89e0": Client error '403 Forbidden' for url 'https://streame.center/embed/ch43.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:35] ERROR    [STRMCNTR] URL 3) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856677/5878aefd-98c9-48be-ae88-976c92f45d8d": Client error '403 Forbidden' for url 'https://streame.center/embed/ch80.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:35] ERROR    [STRMCNTR] URL 4) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856790/acd39303-3889-4636-b259-782100ad3118": Client error '403 Forbidden' for url 'https://streame.center/embed/ch81.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:36] ERROR    [STRMCNTR] URL 5) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856810/51cc31a4-4d50-4919-9cf2-f86cba9f4685": Client error '403 Forbidden' for url 'https://streame.center/embed/ch44.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:37] ERROR    [STRMCNTR] URL 6) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401858216/c9a8c50e-58b1-4529-921a-41ad68e90354": Client error '403 Forbidden' for url 'https://streame.center/embed/ch82.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:42] ERROR    [STRMCNTR] URL 7) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401858217/7ca94955-6a96-4644-91a8-95fc2cb2bd10": Client error '403 Forbidden' for url 'https://streame.center/embed/ch83.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:43] ERROR    [STRMCNTR] URL 8) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401858440/65b5c36b-9b06-4bba-a9ee-b0455fead622": Client error '403 Forbidden' for url 'https://streame.center/embed/ch84.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:43] ERROR    [STRMCNTR] URL 9) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401858444/5086003d-6536-419c-8f0f-b484bcc94770": Client error '403 Forbidden' for url 'https://streame.center/embed/ch85.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:43] ERROR    [STRMCNTR] URL 10) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401858446/45a646a1-6828-4dd7-a323-805a1fe4438d": Client error '403 Forbidden' for url 'https://streame.center/embed/ch45.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:45] ERROR    [STRMCNTR] URL 11) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401859184/8f622518-fa79-424f-a4ef-479aec1d2bfe": Client error '403 Forbidden' for url 'https://streame.center/embed/ch42.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:45] ERROR    [STRMCNTR] URL 12) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401860884/7c6908cb-408c-4796-a75b-d3f32f38b88d": Client error '403 Forbidden' for url 'https://streame.center/embed/ch86.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:46] ERROR    [STRMCNTR] URL 13) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401862705/e0ac86c9-5998-4422-bb17-92730a8ce268": Client error '403 Forbidden' for url 'https://streame.center/embed/ch87.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:47] ERROR    [STRMCNTR] URL 14) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401858223/7c28f652-7768-4d1b-b1a8-3df092d795df": Client error '403 Forbidden' for url 'https://streame.center/embed/ch88.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:48] ERROR    [STRMCNTR] URL 15) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401864506/76373b82-8097-41ad-9262-bfdcdacba968": Client error '403 Forbidden' for url 'https://streame.center/embed/ch89.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:48] ERROR    [STRMCNTR] URL 16) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401865252/dbc42327-5b62-4cb5-8ee5-7dc2d30245b5": Client error '403 Forbidden' for url 'https://streame.center/embed/ch90.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:48] ERROR    [STRMCNTR] URL 17) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856684/fd65d726-41e5-4913-b79d-1126e6b0fe5e": Client error '403 Forbidden' for url 'https://streame.center/embed/ch91.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:50] ERROR    [STRMCNTR] URL 18) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856672/48ecabfa-ab85-40db-ad8c-841e9a3cd62b": Client error '403 Forbidden' for url 'https://streame.center/embed/ch92.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:50] ERROR    [STRMCNTR] URL 19) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401860881/8f0fb44d-8869-4587-8a0d-a4af24ffd66f": Client error '403 Forbidden' for url 'https://streame.center/embed/ch93.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:51] ERROR    [STRMCNTR] URL 20) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856680/3cf5e644-ebb0-4337-b115-1b5836e0f8fa": Client error '403 Forbidden' for url 'https://streame.center/embed/ch96.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:52] ERROR    [STRMCNTR] URL 21) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856681/bff30af0-3498-490f-8e01-2b243780dfb9": Client error '403 Forbidden' for url 'https://streame.center/embed/ch94.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:53] ERROR    [STRMCNTR] URL 22) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856787/0c4e9ad9-8c57-46ec-a268-2fccc980e0aa": Client error '403 Forbidden' for url 'https://streame.center/embed/ch95.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:53] ERROR    [STRMCNTR] URL 23) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401858441/3dd9e306-d2f7-44e1-80b4-83a58659437b": Client error '403 Forbidden' for url 'https://streame.center/embed/ch97.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:53] ERROR    [STRMCNTR] URL 24) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401860882/e497dd25-a080-4b07-b21c-245001c78739": Client error '403 Forbidden' for url 'https://streame.center/embed/ch98.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:55] ERROR    [STRMCNTR] URL 25) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401864503/afd1e9af-7fc8-407e-9f4f-4fdaf67bf04c": Client error '403 Forbidden' for url 'https://streame.center/embed/ch99.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:55] ERROR    [STRMCNTR] URL 26) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401858443/0d778d39-80be-48d7-97d4-2e5e505634c4": Client error '403 Forbidden' for url 'https://streame.center/embed/ch100.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:56] ERROR    [STRMCNTR] URL 27) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401858447/aad88f12-003c-4ef3-b307-8a6c5adc1bce": Client error '403 Forbidden' for url 'https://streame.center/embed/ch30.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:57] ERROR    [STRMCNTR] URL 28) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856682/331cdbc9-3f13-4961-97c5-f562372aff0a": Client error '403 Forbidden' for url 'https://streame.center/embed/ch31.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:58] ERROR    [STRMCNTR] URL 29) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856783/ee78d5cf-e5b0-4919-b61a-f21aba58c452": Client error '403 Forbidden' for url 'https://streame.center/embed/ch33.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:58] ERROR    [STRMCNTR] URL 30) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856788/88f1d6de-adff-4848-a5f7-3c6c81171089": Client error '403 Forbidden' for url 'https://streame.center/embed/ch34.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:04:58] ERROR    [STRMCNTR] URL 31) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401858219/59120a8d-7972-4efb-a475-28d5db1ca681": Client error '403 Forbidden' for url 'https://streame.center/embed/ch35.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:00] ERROR    [STRMCNTR] URL 32) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401862703/ed0d4de0-1310-4eab-b5f9-c0c22f56d3c3": Client error '403 Forbidden' for url 'https://streame.center/embed/ch36.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:01] ERROR    [STRMCNTR] URL 33) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401867796/9e8e3121-5eac-4b90-8feb-77c394141ad2": Client error '403 Forbidden' for url 'https://streame.center/embed/ch32.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:01] ERROR    [STRMCNTR] URL 34) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856671/19f5a6bb-d9a1-46e3-8858-49bd475367fb": Client error '403 Forbidden' for url 'https://streame.center/embed/ch38.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:03] ERROR    [STRMCNTR] URL 35) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856676/c1905a3e-9dee-4951-b2d9-728ac8ec7f1a": Client error '403 Forbidden' for url 'https://streame.center/embed/ch37.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:03] ERROR    [STRMCNTR] URL 36) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401864504/34fea23d-99a4-4442-b5af-977450eb88fc": Client error '403 Forbidden' for url 'https://streame.center/embed/ch39.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:03] ERROR    [STRMCNTR] URL 37) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401864505/6bbb3306-5216-427b-bf82-220013de1fe7": Client error '403 Forbidden' for url 'https://streame.center/embed/ch40.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:03] ERROR    [STRMCNTR] URL 38) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401864502/4e0fc96c-52aa-44f5-bdf5-fff3cb03e29c": Client error '403 Forbidden' for url 'https://streame.center/embed/ch41.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:05] ERROR    [STRMCNTR] URL 39) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401856670/47e9601a-8743-46f4-8cdc-1dc8528906aa": Client error '403 Forbidden' for url 'https://streame.center/embed/ch42.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:05] ERROR    [STRMCNTR] URL 40) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401860883/5f79be75-da32-4629-9e34-7f285b7d272d": Client error '403 Forbidden' for url 'https://streame.center/embed/ch43.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:06] ERROR    [STRMCNTR] URL 41) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401864500/d2dbae8b-0953-424c-9ae1-078fb4e73f33": Client error '403 Forbidden' for url 'https://streame.center/embed/ch44.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:06] ERROR    [STRMCNTR] URL 42) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401858445/d3fb2fa4-f3f5-40c5-8960-e236c57c0bca": Client error '403 Forbidden' for url 'https://streame.center/embed/ch45.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:06] ERROR    [STRMCNTR] URL 43) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401864578/60c74bab-f8df-4130-a84e-29c2496a1990": Client error '403 Forbidden' for url 'https://streame.center/embed/ch46.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:07] ERROR    [STRMCNTR] URL 44) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-soccer-fra-1-401876460/5172a2c5-1900-4df2-b559-3d16ce36754d": Client error '403 Forbidden' for url 'https://streame.center/embed/ch7.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:07] ERROR    [STRMCNTR] URL 45) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-soccer-fra-1-401876461/ca2205ce-f01a-45cc-8da4-7d5f57373625": Client error '403 Forbidden' for url 'https://streame.center/embed/ch10.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:09] ERROR    [STRMCNTR] URL 46) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-soccer-fra-1-401876464/8ae9cd51-cd07-4e6f-82c9-4083860ab4b0": Client error '403 Forbidden' for url 'https://streame.center/embed/ch11.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:09] ERROR    [STRMCNTR] URL 47) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-soccer-fra-1-401876466/e0010d6c-2c78-46cf-9fd0-4560c8249cdd": Client error '403 Forbidden' for url 'https://streame.center/embed/ch12.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:09] ERROR    [STRMCNTR] URL 48) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-soccer-ita-1-401874979/376415da-679f-43bd-a4ce-b79b8cef14cf": Client error '403 Forbidden' for url 'https://streame.center/embed/ch9.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:11] ERROR    [STRMCNTR] URL 49) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-soccer-eng-1-401878779/1a79aa52-ef14-49ad-a902-7871e8d83352": Client error '403 Forbidden' for url 'https://streame.center/embed/ch1.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:11] ERROR    [STRMCNTR] URL 50) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-soccer-esp-1-401882880/1b957e29-4332-416f-8f6d-984965eda732": Client error '403 Forbidden' for url 'https://streame.center/embed/ch6.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:12] ERROR    [STRMCNTR] URL 51) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401816914/664b53a9-91dd-4d91-9810-4e464a2d8c0d": Client error '403 Forbidden' for url 'https://streame.center/embed/ch17.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:12] ERROR    [STRMCNTR] URL 52) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401816904/d380e24b-556b-4770-9421-d0dc8680b697": Client error '403 Forbidden' for url 'https://streame.center/embed/ch18.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:14] ERROR    [STRMCNTR] URL 53) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401816903/1f67caa1-1084-4b5e-9179-9d53ce48472e": Client error '403 Forbidden' for url 'https://streame.center/embed/ch19.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:14] ERROR    [STRMCNTR] URL 54) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401816915/8987a738-6b27-4edf-9e59-a302e88abf4e": Client error '403 Forbidden' for url 'https://streame.center/embed/ch20.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:14] ERROR    [STRMCNTR] URL 55) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401816907/80634b8c-8aff-4d21-a57c-05bf479d6488": Client error '403 Forbidden' for url 'https://streame.center/embed/ch21.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:16] ERROR    [STRMCNTR] URL 56) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401816908/db019178-3c49-412b-b22e-a128ff1d3bf3": Client error '403 Forbidden' for url 'https://streame.center/embed/ch22.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:17] ERROR    [STRMCNTR] URL 57) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401816913/0fa1243c-b76f-4cd0-8db3-fbc6de0e7b7b": Client error '403 Forbidden' for url 'https://streame.center/embed/ch23.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:17] ERROR    [STRMCNTR] URL 58) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401816906/ef7ad18c-d2c9-4ec7-8550-c05bb32b0c65": Client error '403 Forbidden' for url 'https://streame.center/embed/ch24.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:17] ERROR    [STRMCNTR] URL 59) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401816912/9af018d3-cee0-4ed3-b179-f6eaac7d0880": Client error '403 Forbidden' for url 'https://streame.center/embed/ch25.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:19] ERROR    [STRMCNTR] URL 60) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401816910/5b5ff444-a993-437c-a0e2-b6c7206c2ec4": Client error '403 Forbidden' for url 'https://streame.center/embed/ch26.php'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:206)
+[2026-09-12 | 21:05:19] ERROR    [STRMCNTR] URL 61) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401816911/099b8f22-b16f-45bd-b5e3-d5bc6b05cfa8": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-baseball-mlb-401816911/099b8f22-b16f-45bd-b5e3-d5bc6b05cfa8'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-12 | 21:05:20] ERROR    [STRMCNTR] URL 62) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401816917/96b871ff-076b-45b2-b635-3295e3365bb4": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-baseball-mlb-401816917/96b871ff-076b-45b2-b635-3295e3365bb4'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-12 | 21:05:21] ERROR    [STRMCNTR] URL 63) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401816916/9b2709f3-9fc9-4706-969a-1ba885090c10": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-baseball-mlb-401816916/9b2709f3-9fc9-4706-969a-1ba885090c10'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-12 | 21:05:21] INFO     [STRMCNTR] Collected 63 event(s)                                                  (stc.py:515)
