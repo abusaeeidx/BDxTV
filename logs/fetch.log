@@ -2406,3 +2406,6 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 [2026-09-12 | 23:07:36] INFO     [STRMCNTR] URL 50) Captured M3U8                                                  (stc.py:303)
 [2026-09-12 | 23:07:37] INFO     [STRMCNTR] URL 51) Captured M3U8                                                  (stc.py:303)
 [2026-09-12 | 23:07:37] INFO     [STRMCNTR] Collected 51 event(s)                                                  (stc.py:515)
+[2026-09-13 | 01:12:51] INFO     [STRMCNTR] Scraping from "https://streamecenter.live"                             (stc.py:431)
+[2026-09-13 | 01:13:00] ERROR    [STRMCNTR] Failed to fetch "https://streamecenter.live/game-cards/embed":         (stc.py:198)
+[2026-09-13 | 01:13:00] INFO     [STRMCNTR] No events found                                                        (stc.py:456)
