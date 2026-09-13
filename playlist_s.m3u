@@ -79,6 +79,11 @@ http://193.47.62.55/hls/gagagaaaAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CFL Canadian Football" tvg-name="BC Lions vs Montreal Alouettes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/CFL_2016_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",BC Lions vs Montreal Alouettes
+http://193.47.62.41/hls/GRRR.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NRL" tvg-name="Brisbane Broncos W vs New Zealand Warriors W" tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg",Brisbane Broncos W vs New Zealand Warriors W
 http://193.47.62.55/hls/gagagaaaAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
