@@ -29,6 +29,31 @@ http://193.47.62.59/hls/FMMM.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLS League" tvg-name="Vancouver Whitecaps vs Austin FC" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Vancouver Whitecaps vs Austin FC
+http://193.47.62.44/hls/GIIIIAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Uruguay Liga AUF" tvg-name="Penarol vs Albion" tvg-logo="https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",Penarol vs Albion
+http://193.47.62.44/hls/GIIIIAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Argentina Liga Profesional" tvg-name="Independiente vs San Lorenzo" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",Independiente vs San Lorenzo
+http://193.47.62.44/hls/GIIIIA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Canada Premier League" tvg-name="Pacific FC vs Cavalry" tvg-logo="https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png",Pacific FC vs Cavalry
+http://193.47.62.44/hls/GIIII.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLS League" tvg-name="Chicago Fire vs New England Revolution" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Chicago Fire vs New England Revolution
+http://193.47.62.44/hls/GKKKA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Brazil Serie A" tvg-name="Flamengo RJ vs Corinthians --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",Flamengo RJ vs Corinthians --- CH 1
 http://193.47.62.44/hls/fbbbDDDDDD.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
