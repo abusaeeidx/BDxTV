@@ -10,17 +10,17 @@ http://193.47.62.41/hls/GPPPRQQQQQQQX.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Spanish La Liga" tvg-name="Elche vs Real Madrid --- ENG 1 CH2" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",Elche vs Real Madrid --- ENG 1 CH2
-http://193.47.62.55/hls/GPPPRQQQQQQQX.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Spanish La Liga" tvg-name="Elche vs Real Madrid --- ENG 1 CH3" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",Elche vs Real Madrid --- ENG 1 CH3
 http://193.47.62.50/hls/GPPPRQQQQQQQX.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Spanish La Liga" tvg-name="Elche vs Real Madrid --- ENG 1 CH4" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",Elche vs Real Madrid --- ENG 1 CH4
+#EXTINF:-1 group-title="Spanish La Liga" tvg-name="Elche vs Real Madrid --- ENG 1 CH3" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",Elche vs Real Madrid --- ENG 1 CH3
 http://193.47.62.44/hls/GPPPRQQQQQQQX.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Spanish La Liga" tvg-name="Elche vs Real Madrid --- ENG 1 CH4" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",Elche vs Real Madrid --- ENG 1 CH4
+http://193.47.62.55/hls/GPPPRQQQQQQQX.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -39,6 +39,61 @@ https://live.dyrur1.com/live/63kv9igl0moix7e_0c2d08abf6f6fdc5eca84163e08a3994_10
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLB Baseball" tvg-name="Washington Nationals vs Philadelphia Phillies" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Washington Nationals vs Philadelphia Phillies
+http://193.47.62.44/hls/DVVVQQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLB Baseball" tvg-name="Tampa Bay Rays vs Athletics" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Tampa Bay Rays vs Athletics
+http://193.47.62.44/hls/DVVVQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLB Baseball" tvg-name="Pittsburgh Pirates vs Milwaukee Brewers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Pittsburgh Pirates vs Milwaukee Brewers
+http://193.47.62.44/hls/DVVVQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLB Baseball" tvg-name="Cleveland Guardians vs Chicago White Sox" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Cleveland Guardians vs Chicago White Sox
+http://193.47.62.44/hls/DVVVQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLB Baseball" tvg-name="Cincinnati Reds vs Los Angeles Dodgers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Cincinnati Reds vs Los Angeles Dodgers
+http://193.47.62.44/hls/DVVV.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Brazil Serie B" tvg-name="Nautico vs Operario-PR" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",Nautico vs Operario-PR
+http://193.47.62.44/hls/BWWWAAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Brazil Serie B" tvg-name="Londrina vs Ponte Preta" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",Londrina vs Ponte Preta
+http://193.47.62.44/hls/BWWWAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Colombia Primera A" tvg-name="Barranquilla vs Ind Valle del Cauca" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg",Barranquilla vs Ind Valle del Cauca
+http://193.47.62.44/hls/BWWWAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Copa Libertadores" tvg-name="Platense vs Fluminense" tvg-logo="https://pbs.twimg.com/profile_images/1611125838963003393/RbmZeotm_400x400.jpg",Platense vs Fluminense
+http://193.47.62.44/hls/BWWWAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Copa Sudamericana" tvg-name="Vasco vs Santa Fe" tvg-logo="https://pbs.twimg.com/profile_images/1611126003237011458/6LAfWG6L_400x400.jpg",Vasco vs Santa Fe
+http://193.47.62.44/hls/BWWWA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Bolivia Division Profesional" tvg-name="Academia del Balompie vs The Strongest" tvg-logo="https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",Academia del Balompie vs The Strongest
+http://193.47.62.44/hls/BWWW.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="English EFL Cup" tvg-name="Liverpool vs Tottenham --- CH 1 CH1" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Liverpool vs Tottenham --- CH 1 CH1
 http://193.47.62.44/hls/GPPPRQQQQQX.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -50,312 +105,12 @@ http://193.47.62.50/hls/GPPPRQQQQQX.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="English EFL Cup" tvg-name="Liverpool vs Tottenham --- CH 1 CH3" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Liverpool vs Tottenham --- CH 1 CH3
-http://193.47.62.55/hls/GPPPRQQQQQX.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Liverpool vs Tottenham --- CH 1 CH4" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Liverpool vs Tottenham --- CH 1 CH4
 http://193.47.62.41/hls/GPPPRQQQQQX.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Liverpool vs Tottenham --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Liverpool vs Tottenham --- CH 2
-https://www.rtmpcdn.com/live/5c7e673b-861d-4de7-ad44-66dc2224df71.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Liverpool vs Tottenham --- CH 3" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Liverpool vs Tottenham --- CH 3
-https://live.dyrur1.com/live/9gklzi1z2veum7x_2982ff1a07bad867373779ad46b968f2_540p.m3u8?auth_key=1789513378-0-0-51804b02de7ea1227a67d8263a16befe
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Ipswich Town vs Arsenal --- CH 1 CH1" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Ipswich Town vs Arsenal --- CH 1 CH1
-http://193.47.62.41/hls/GPPPRQQQQX.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Ipswich Town vs Arsenal --- CH 1 CH2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Ipswich Town vs Arsenal --- CH 1 CH2
-http://193.47.62.50/hls/GPPPRQQQQX.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Ipswich Town vs Arsenal --- CH 1 CH3" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Ipswich Town vs Arsenal --- CH 1 CH3
-http://193.47.62.55/hls/GPPPRQQQQX.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Ipswich Town vs Arsenal --- CH 1 CH4" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Ipswich Town vs Arsenal --- CH 1 CH4
-http://193.47.62.44/hls/GPPPRQQQQX.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Ipswich Town vs Arsenal --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Ipswich Town vs Arsenal --- CH 2
-https://www.rtmpcdn.com/live/09ba34ff-49b6-4a12-bbd4-c358d81a7d86.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Ipswich Town vs Arsenal --- CH 3" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Ipswich Town vs Arsenal --- CH 3
-https://live1.dyrur1.com/live/xvkjoi8ejdni879_59a173538020087cbc4ad1a043d5e8e6_540p.m3u8?auth_key=1789513379-0-0-c3066a3dace586bf3f6e11e1897b3d48
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Reading vs Brentford --- CH 1 CH1" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Reading vs Brentford --- CH 1 CH1
-http://193.47.62.55/hls/GPPPRQQQQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Reading vs Brentford --- CH 1 CH2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Reading vs Brentford --- CH 1 CH2
-http://193.47.62.41/hls/GPPPRQQQQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Reading vs Brentford --- CH 1 CH3" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Reading vs Brentford --- CH 1 CH3
-http://193.47.62.50/hls/GPPPRQQQQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Reading vs Brentford --- CH 1 CH4" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Reading vs Brentford --- CH 1 CH4
-http://193.47.62.44/hls/GPPPRQQQQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Reading vs Brentford --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Reading vs Brentford --- CH 2
-https://www.rtmpcdn.com/live/8ee7580e-395d-4fa9-98ad-c22eb9630a1a.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Reading vs Brentford --- CH 3" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Reading vs Brentford --- CH 3
-https://live2.dyrur1.com/live/74158486_deef62d182938cdac4f5d5b5cef5d887_540p.m3u8?auth_key=1789512547-0-0-23eb0a908dea315225a4a4d168667e89
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="West Ham vs Fulham --- CH 1 CH1" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",West Ham vs Fulham --- CH 1 CH1
-http://193.47.62.44/hls/GPPPRQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="West Ham vs Fulham --- CH 1 CH2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",West Ham vs Fulham --- CH 1 CH2
-http://193.47.62.55/hls/GPPPRQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="West Ham vs Fulham --- CH 1 CH3" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",West Ham vs Fulham --- CH 1 CH3
-http://193.47.62.50/hls/GPPPRQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="West Ham vs Fulham --- CH 1 CH4" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",West Ham vs Fulham --- CH 1 CH4
-http://193.47.62.41/hls/GPPPRQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="West Ham vs Fulham --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",West Ham vs Fulham --- CH 2
-https://www.rtmpcdn.com/live/0ee5c885-966f-4124-872b-24a525117cfb.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="West Ham vs Fulham --- CH 3" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",West Ham vs Fulham --- CH 3
-https://live2.dyrur1.com/live/74158482_ae44e5d2444f7ca613d0a433b292910c_540p.m3u8?auth_key=1789511902-0-0-40d3582e092bebfd525ccbe8c86e3c05
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Peterborough vs Barnsley --- CH 1 CH1" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Peterborough vs Barnsley --- CH 1 CH1
-http://193.47.62.44/hls/GPPPRQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Peterborough vs Barnsley --- CH 1 CH2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Peterborough vs Barnsley --- CH 1 CH2
-http://193.47.62.55/hls/GPPPRQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Peterborough vs Barnsley --- CH 1 CH3" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Peterborough vs Barnsley --- CH 1 CH3
-http://193.47.62.50/hls/GPPPRQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Peterborough vs Barnsley --- CH 1 CH4" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Peterborough vs Barnsley --- CH 1 CH4
-http://193.47.62.41/hls/GPPPRQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Peterborough vs Barnsley --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Peterborough vs Barnsley --- CH 2
-https://www.rtmpcdn.com/live/158dc6a1-67ad-44cd-a5cf-5c7bd1c72ec1.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Peterborough vs Barnsley --- CH 3" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Peterborough vs Barnsley --- CH 3
-https://live.dyrur1.com/live/74158480_d587fc4db8cbe2b3bfd0860ec6c6a3d1_540p.m3u8?auth_key=1789511907-0-0-e51334185ac5a49d2ff032a9a06133df
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Falkirk vs Hearts --- CH 1 CH1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Falkirk vs Hearts --- CH 1 CH1
-http://193.47.62.44/hls/GPPP.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Falkirk vs Hearts --- CH 1 CH2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Falkirk vs Hearts --- CH 1 CH2
-http://193.47.62.50/hls/GPPP.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Falkirk vs Hearts --- CH 1 CH3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Falkirk vs Hearts --- CH 1 CH3
-http://193.47.62.55/hls/GPPP.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Falkirk vs Hearts --- CH 1 CH4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Falkirk vs Hearts --- CH 1 CH4
-http://193.47.62.41/hls/GPPP.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Falkirk vs Hearts --- CH 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Falkirk vs Hearts --- CH 2
-https://live.sportdatax.cn/sla/1-6a68cb65000f680c3c822bf8_540p.m3u8?txTime=6AA9BFFE&txSecret=4c69c20c12d93fe6537b790fc8038506&txSecret=28ab52a1b0f3c3eb90b1b73a8d3172de&txTime=6aa9c016
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Motherwell vs Aberdeen --- CH 1 CH1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Motherwell vs Aberdeen --- CH 1 CH1
-http://193.47.62.41/hls/GPPPRQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Motherwell vs Aberdeen --- CH 1 CH2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Motherwell vs Aberdeen --- CH 1 CH2
-http://193.47.62.50/hls/GPPPRQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Motherwell vs Aberdeen --- CH 1 CH3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Motherwell vs Aberdeen --- CH 1 CH3
-http://193.47.62.55/hls/GPPPRQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Motherwell vs Aberdeen --- CH 1 CH4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Motherwell vs Aberdeen --- CH 1 CH4
-http://193.47.62.44/hls/GPPPRQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Motherwell vs Aberdeen --- CH 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Motherwell vs Aberdeen --- CH 2
-https://live.sportdatax.cn/sla/1-6a68cb65000f680c3c822bf6-backup_540p.m3u8?txTime=6AA9BFFE&txSecret=11fce2e25ec5eafbc7a06311327651eb&txSecret=c9119ca62b30c5b9e1053983f29a0751&txTime=6aa9c019
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Hibernian vs Kilmarnock --- CH 1 CH1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Hibernian vs Kilmarnock --- CH 1 CH1
-http://193.47.62.50/hls/GPPPR.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Hibernian vs Kilmarnock --- CH 1 CH2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Hibernian vs Kilmarnock --- CH 1 CH2
-http://193.47.62.55/hls/GPPPR.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Hibernian vs Kilmarnock --- CH 1 CH3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Hibernian vs Kilmarnock --- CH 1 CH3
-http://193.47.62.44/hls/GPPPR.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Hibernian vs Kilmarnock --- CH 1 CH4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Hibernian vs Kilmarnock --- CH 1 CH4
-http://193.47.62.41/hls/GPPPR.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Hibernian vs Kilmarnock --- CH 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Hibernian vs Kilmarnock --- CH 2
-https://live.sportdatax.cn/sla/1-6a68cb65000f680c3c822bf7-backup_540p.m3u8?txTime=6AA9BFFE&txSecret=52d85edf580914c4774d7e6bf95b6019&txSecret=a01c193b7058a1913a9cf634c905a783&txTime=6aa9c018
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Championship" tvg-name="Stenhousemuir vs Partick Thistle" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Scottish_Championship.svg",Stenhousemuir vs Partick Thistle
-http://193.47.62.59/hls/GNNN.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English Championship" tvg-name="Middlesbrough vs Millwall --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg",Middlesbrough vs Millwall --- CH 1
-http://193.47.62.59/hls/f444A.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English Championship" tvg-name="Middlesbrough vs Millwall --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg",Middlesbrough vs Millwall --- CH 2
-https://live1.dyrur1.com/live/72339800_8b6f74cb2951289743445e8007fd0773_540p.m3u8?auth_key=1789512546-0-0-796db303a97d8c973cbcfcf162b8c5fe
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English Championship" tvg-name="Bristol City vs Lincoln --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg",Bristol City vs Lincoln --- CH 1
-http://193.47.62.59/hls/f444.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English Championship" tvg-name="Bristol City vs Lincoln --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg",Bristol City vs Lincoln --- CH 2
-https://live.dyrur1.com/live/72339796_60fa308b459d305198eb4248d07b6a3d_540p.m3u8?auth_key=1789512546-0-0-efe77b5d16fd8e8a25698b9946a81660
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Trophy" tvg-name="York City vs Newcastle Utd U21" tvg-logo="https://pbs.twimg.com/profile_images/2069328581642121217/cAzVV0Ee_400x400.jpg",York City vs Newcastle Utd U21
-http://193.47.62.59/hls/ZLLLQQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Trophy" tvg-name="Wycombe vs Chelsea U21" tvg-logo="https://pbs.twimg.com/profile_images/2069328581642121217/cAzVV0Ee_400x400.jpg",Wycombe vs Chelsea U21
-http://193.47.62.59/hls/ZLLLQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Trophy" tvg-name="Swindon vs Crystal Palace U21" tvg-logo="https://pbs.twimg.com/profile_images/2069328581642121217/cAzVV0Ee_400x400.jpg",Swindon vs Crystal Palace U21
-http://193.47.62.59/hls/ZLLLQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Trophy" tvg-name="Leyton Orient vs Arsenal U21" tvg-logo="https://pbs.twimg.com/profile_images/2069328581642121217/cAzVV0Ee_400x400.jpg",Leyton Orient vs Arsenal U21
-http://193.47.62.59/hls/ZLLLQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Trophy" tvg-name="Chesterfield vs Manchester City U21" tvg-logo="https://pbs.twimg.com/profile_images/2069328581642121217/cAzVV0Ee_400x400.jpg",Chesterfield vs Manchester City U21
-http://193.47.62.59/hls/ZLLL.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English National League" tvg-name="Worthing vs Hornchurch" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",Worthing vs Hornchurch
-http://193.47.62.59/hls/afffbaqqqqqq.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English National League" tvg-name="Wealdstone vs FC Halifax" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",Wealdstone vs FC Halifax
-http://193.47.62.59/hls/afffbaqqqqq.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English National League" tvg-name="Sutton vs Eastleigh" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",Sutton vs Eastleigh
-http://193.47.62.59/hls/afffbaqqqq.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English National League" tvg-name="Southend vs Tamworth" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",Southend vs Tamworth
-http://193.47.62.59/hls/afffbaqqq.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English National League" tvg-name="Solihull Moors vs Barrow" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",Solihull Moors vs Barrow
-http://193.47.62.59/hls/afffbaqq.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English National League" tvg-name="Harrogate vs AFC Fylde" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",Harrogate vs AFC Fylde
-http://193.47.62.59/hls/afffbaq.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English National League" tvg-name="Carlisle vs Forest Green" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",Carlisle vs Forest Green
-http://193.47.62.59/hls/afffba.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English National League" tvg-name="Boston Utd vs Woking" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",Boston Utd vs Woking
-http://193.47.62.59/hls/afffb.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English National League" tvg-name="Aldershot vs Yeovil" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",Aldershot vs Yeovil
-http://193.47.62.59/hls/afff.m3u8
+#EXTINF:-1 group-title="English EFL Cup" tvg-name="Liverpool vs Tottenham --- CH 1 CH4" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Liverpool vs Tottenham --- CH 1 CH4
+http://193.47.62.55/hls/GPPPRQQQQQX.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -366,56 +121,6 @@ http://193.47.62.59/hls/f444AAAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Volleyball European Championship" tvg-name="Czech Republic vs Italy" tvg-logo="https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png",Czech Republic vs Italy
 http://193.47.62.59/hls/f444AAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Coppa Italia" tvg-name="Fiorentina vs Pisa --- CH 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/250px-Coccarda_Coppa_Italia.svg.png",Fiorentina vs Pisa --- CH 1
-http://193.47.62.59/hls/f444AA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Coppa Italia" tvg-name="Fiorentina vs Pisa --- CH 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/250px-Coccarda_Coppa_Italia.svg.png",Fiorentina vs Pisa --- CH 2
-https://www.rtmpcdn.com/live/9c8d892a-4c13-4ad7-b386-30aefa14e3d0.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Bolivia Division Profesional" tvg-name="Real Oruro vs Real Potosi" tvg-logo="https://pbs.twimg.com/profile_images/1966534251848855552/uhRVP3c4_400x400.jpg",Real Oruro vs Real Potosi
-http://193.47.62.59/hls/f444AAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Poland Ekstraklasa" tvg-name="Korona Kielce vs Gornik Zabrze" tvg-logo="https://pbs.twimg.com/profile_images/2072189899344613376/DeGLZ4Il_400x400.jpg",Korona Kielce vs Gornik Zabrze
-http://193.47.62.59/hls/ZLLLQQQQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="AFC Champions League" tvg-name="Al Hilal vs Al-Gharafa --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Al Hilal vs Al-Gharafa --- CH 1
-http://193.47.62.59/hls/ZLLLQQQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="AFC Champions League" tvg-name="Al Hilal vs Al-Gharafa --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Al Hilal vs Al-Gharafa --- CH 2
-https://www.rtmpcdn.com/live/ec080179-32ac-48cf-ba91-528ff71cf825.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Dutch Eredivisie" tvg-name="Ajax vs Willem II --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",Ajax vs Willem II --- CH 1
-http://193.47.62.59/hls/lhhhaqqqqq.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Dutch Eredivisie" tvg-name="Ajax vs Willem II --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",Ajax vs Willem II --- CH 2
-https://www.rtmpcdn.com/live/4ee93fef-da2c-467a-91d9-0ca78d31d877.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Spanish La Liga" tvg-name="Alaves vs Valencia --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",Alaves vs Valencia --- CH 1
-http://193.47.62.59/hls/lhhhaqqqq.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Spanish La Liga" tvg-name="Alaves vs Valencia --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",Alaves vs Valencia --- CH 2
-https://www.rtmpcdn.com/live/68022eb2-958a-441c-9e6c-f6b4d578282f.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
