@@ -5,7 +5,7 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Spanish La Liga" tvg-name="FC Barcelona vs Racing Santander --- CH 1 CH1" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",FC Barcelona vs Racing Santander --- CH 1 CH1
-http://193.47.62.44/hls/LCCCZ.m3u8
+http://193.47.62.50/hls/LCCCZ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -20,7 +20,7 @@ http://193.47.62.55/hls/LCCCZ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Spanish La Liga" tvg-name="FC Barcelona vs Racing Santander --- CH 1 CH4" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",FC Barcelona vs Racing Santander --- CH 1 CH4
-http://193.47.62.50/hls/LCCCZ.m3u8
+http://193.47.62.44/hls/LCCCZ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -30,22 +30,22 @@ https://www.rtmpcdn.com/live/6d0178bc-0064-4eee-92d9-0db6ac5e5a23.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="English EFL Cup" tvg-name="Manchester United vs Brighton --- CH 1 CH1" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Manchester United vs Brighton --- CH 1 CH1
-http://193.47.62.44/hls/LCCC.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Manchester United vs Brighton --- CH 1 CH2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Manchester United vs Brighton --- CH 1 CH2
-http://193.47.62.59/hls/LCCC.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Manchester United vs Brighton --- CH 1 CH3" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Manchester United vs Brighton --- CH 1 CH3
 http://193.47.62.55/hls/LCCC.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English EFL Cup" tvg-name="Manchester United vs Brighton --- CH 1 CH4" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Manchester United vs Brighton --- CH 1 CH4
+#EXTINF:-1 group-title="English EFL Cup" tvg-name="Manchester United vs Brighton --- CH 1 CH2" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Manchester United vs Brighton --- CH 1 CH2
+http://193.47.62.44/hls/LCCC.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="English EFL Cup" tvg-name="Manchester United vs Brighton --- CH 1 CH3" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Manchester United vs Brighton --- CH 1 CH3
 http://193.47.62.50/hls/LCCC.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="English EFL Cup" tvg-name="Manchester United vs Brighton --- CH 1 CH4" tvg-logo="https://pbs.twimg.com/profile_images/1346475508427444227/5uvtuoM-_400x400.jpg",Manchester United vs Brighton --- CH 1 CH4
+http://193.47.62.59/hls/LCCC.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -140,7 +140,7 @@ https://www.rtmpcdn.com/live/e657f853-3ae3-4b23-8251-1c28bb315df8.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="UEFA Europa League" tvg-name="Sunderland vs AZ Alkmaar --- CH 3" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",Sunderland vs AZ Alkmaar --- CH 3
-https://live5.dyrur1.com/live/74172930_c742eed44d227a7bd2c6736c452f8e0c_720p.m3u8?auth_key=1789599379-0-0-539df330f5ebe1bb42b4d04df53a82ef
+https://live.dyrur1.com/live/vmqy9ivg2myhgk9_2a4b3c5854338fcb074e1a5e663884d7_720p.m3u8?auth_key=1789599763-0-0-ff57546ffe5315888504781972daa1c9
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
