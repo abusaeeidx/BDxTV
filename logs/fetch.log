@@ -2906,3 +2906,12 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 [2026-09-16 | 23:57:30] INFO     [STRMCNTR] URL 10) Captured M3U8                                                  (stc.py:303)
 [2026-09-16 | 23:57:30] INFO     [STRMCNTR] URL 11) Captured M3U8                                                  (stc.py:303)
 [2026-09-16 | 23:57:30] INFO     [STRMCNTR] Collected 11 event(s)                                                  (stc.py:515)
+[2026-09-17 | 02:57:28] INFO     [STRMCNTR] Scraping from "https://streamecenter.live"                             (stc.py:431)
+[2026-09-17 | 02:57:30] INFO     [STRMCNTR] Processing 5 URL(s)                                                    (stc.py:459)
+[2026-09-17 | 02:57:33] INFO     [STRMCNTR] URL 1) Captured M3U8                                                   (stc.py:303)
+[2026-09-17 | 02:57:34] INFO     [STRMCNTR] URL 2) Captured M3U8                                                   (stc.py:303)
+[2026-09-17 | 02:57:34] INFO     [STRMCNTR] URL 3) Captured M3U8                                                   (stc.py:303)
+[2026-09-17 | 02:57:36] INFO     [STRMCNTR] URL 4) Captured M3U8                                                   (stc.py:303)
+[2026-09-17 | 02:57:36] ERROR    [STRMCNTR] URL 5) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401816971/254f2611-9ebd-489e-af9b-42a3e2f6f6ab": Client error '404 Not Found' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-baseball-mlb-401816971/254f2611-9ebd-489e-af9b-42a3e2f6f6ab'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 (stc.py:206)
+[2026-09-17 | 02:57:36] INFO     [STRMCNTR] Collected 5 event(s)                                                   (stc.py:515)
