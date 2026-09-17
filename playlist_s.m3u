@@ -99,6 +99,11 @@ http://193.47.62.52/hls/KFFFA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Cricket ETPL" tvg-name="Edinburgh Castle Rockers vs Belfast Wolves" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",Edinburgh Castle Rockers vs Belfast Wolves
+http://193.47.62.52/hls/RDDDZZAaZ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Golf" tvg-name="Golf BMW PGA Championship" tvg-logo="https://pbs.twimg.com/profile_images/2099474243637637120/0pd2Irne_400x400.jpg",Golf BMW PGA Championship
 http://193.47.62.52/hls/iiiia.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
