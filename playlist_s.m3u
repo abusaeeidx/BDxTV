@@ -4,6 +4,16 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NCAA American Football" tvg-name="Texas Tech vs Houston" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Texas Tech vs Houston
+http://193.47.62.50/hls/ICCCA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NCAA American Football" tvg-name="Wake Forest vs Miami FL" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Wake Forest vs Miami FL
+http://193.47.62.59/hls/KQQQAAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Mexico Liga MX" tvg-name="Juarez vs Tigres UANL" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",Juarez vs Tigres UANL
 http://193.47.62.55/hls/UBBB.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -94,11 +104,6 @@ http://193.47.62.50/hls/ICCCAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NCAA American Football" tvg-name="Texas Tech vs Houston" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Texas Tech vs Houston
-http://193.47.62.50/hls/ICCCA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Brazil Serie B" tvg-name="Sao Bernardo vs Atletico GO" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",Sao Bernardo vs Atletico GO
 http://193.47.62.50/hls/ICCC.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -106,11 +111,6 @@ http://193.47.62.50/hls/ICCC.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="MLB Baseball" tvg-name="Chicago White Sox vs Detroit Tigers" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Chicago White Sox vs Detroit Tigers
 http://193.47.62.59/hls/KQQQAAAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NCAA American Football" tvg-name="Wake Forest vs Miami FL" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Wake Forest vs Miami FL
-http://193.47.62.59/hls/KQQQAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
