@@ -5,12 +5,12 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="English Premier League" tvg-name="Tottenham vs Aston Villa --- CH 1 CH1" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",Tottenham vs Aston Villa --- CH 1 CH1
-http://193.47.62.55/hls/aqaqaq.m3u8
+http://193.47.62.50/hls/aqaqaq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="English Premier League" tvg-name="Tottenham vs Aston Villa --- CH 1 CH2" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",Tottenham vs Aston Villa --- CH 1 CH2
-http://193.47.62.50/hls/aqaqaq.m3u8
+http://193.47.62.55/hls/aqaqaq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -60,7 +60,7 @@ http://193.47.62.41/hls/grrraaaaaqqqq.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="English Championship" tvg-name="Stoke City vs Sheffield United --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg",Stoke City vs Sheffield United --- CH 2
-https://live3.dyrur1.com/live/72339858_ae67ec469ff825d187470a5479d6fc8d_540p.m3u8?auth_key=1789832322-0-0-c23664f0092c3efffc5d56cad73dc546
+https://www.rtmpcdn.com/live/7437927c-18ba-4dea-a869-5edbf5310299.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -84,8 +84,13 @@ http://193.47.62.41/hls/grrraaa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Spanish La Liga" tvg-name="Osasuna vs Rayo Vallecano" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",Osasuna vs Rayo Vallecano
+#EXTINF:-1 group-title="Spanish La Liga" tvg-name="Osasuna vs Rayo Vallecano --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",Osasuna vs Rayo Vallecano --- CH 1
 http://193.47.62.44/hls/eeeeffff.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Spanish La Liga" tvg-name="Osasuna vs Rayo Vallecano --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",Osasuna vs Rayo Vallecano --- CH 2
+https://www.rtmpcdn.com/live/0c6f7513-a839-418a-bd52-5ed394800392.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
