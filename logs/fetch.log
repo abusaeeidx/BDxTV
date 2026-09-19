@@ -3787,3 +3787,6 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 [2026-09-19 | 17:34:31] ERROR    [STRMCNTR] URL 110) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/custom-5f6b3b73-161c-4ca5-85d3-0e8eff3da329/fc4ea57f-f3cd-447e-955a-9641b42137b0": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/custom-5f6b3b73-161c-4ca5-85d3-0e8eff3da329/fc4ea57f-f3cd-447e-955a-9641b42137b0'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
 [2026-09-19 | 17:34:31] INFO     [STRMCNTR] Collected 75 event(s)                                                  (stc.py:515)
+[2026-09-19 | 19:43:21] INFO     [STRMCNTR] Scraping from "https://streamecenter.live"                             (stc.py:431)
+[2026-09-19 | 19:43:26] ERROR    [STRMCNTR] Failed to fetch "https://streamecenter.live/game-cards/embed":         (stc.py:198)
+[2026-09-19 | 19:43:26] INFO     [STRMCNTR] No events found                                                        (stc.py:456)
