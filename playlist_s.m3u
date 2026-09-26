@@ -49,6 +49,11 @@ http://193.47.62.50/hls/FPPP.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Italy Women Serie A" tvg-name="Juventus W vs Napoli W" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Juventus W vs Napoli W
+http://193.47.62.50/hls/FPPPVVAAAAq.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Asian Games" tvg-name="Japan U23 vs North Korea U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Japan U23 vs North Korea U23
 http://193.47.62.50/hls/GNNNAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
