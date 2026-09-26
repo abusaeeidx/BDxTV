@@ -39,28 +39,43 @@ http://193.47.62.50/hls/YCCC.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="UEFA Nations League" tvg-name="Slovenia vs Scotland CH1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",Slovenia vs Scotland CH1
+#EXTINF:-1 group-title="UEFA Nations League" tvg-name="Slovenia vs Scotland --- CH 1 CH1" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",Slovenia vs Scotland --- CH 1 CH1
 http://193.47.62.55/hls/YCCCQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="UEFA Nations League" tvg-name="Slovenia vs Scotland CH2" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",Slovenia vs Scotland CH2
+#EXTINF:-1 group-title="UEFA Nations League" tvg-name="Slovenia vs Scotland --- CH 1 CH2" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",Slovenia vs Scotland --- CH 1 CH2
 http://193.47.62.59/hls/YCCCQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Africa Cup of Nations Qualification" tvg-name="South Africa vs Guinea CH1" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",South Africa vs Guinea CH1
-http://193.47.62.41/hls/YCCCQQQ.m3u8
+#EXTINF:-1 group-title="UEFA Nations League" tvg-name="Slovenia vs Scotland --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2090021852122951681/BVRTRk0B_400x400.jpg",Slovenia vs Scotland --- CH 2
+https://www.rtmpcdn.com/live/e27fbc8c-02e8-4a1d-aab6-d8178c23903d.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Africa Cup of Nations Qualification" tvg-name="South Africa vs Guinea CH2" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",South Africa vs Guinea CH2
+#EXTINF:-1 group-title="Africa Cup of Nations Qualification" tvg-name="South Africa vs Guinea --- CH 1 CH1" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",South Africa vs Guinea --- CH 1 CH1
 http://193.47.62.44/hls/YCCCQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Africa Cup of Nations Qualification" tvg-name="Kenya vs Eritrea" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",Kenya vs Eritrea
+#EXTINF:-1 group-title="Africa Cup of Nations Qualification" tvg-name="South Africa vs Guinea --- CH 1 CH2" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",South Africa vs Guinea --- CH 1 CH2
+http://193.47.62.41/hls/YCCCQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Africa Cup of Nations Qualification" tvg-name="South Africa vs Guinea --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",South Africa vs Guinea --- CH 2
+https://www.rtmpcdn.com/live/ab7dc69c-9f26-4d40-8f55-da536b6ec524.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Africa Cup of Nations Qualification" tvg-name="Kenya vs Eritrea --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",Kenya vs Eritrea --- CH 1
 http://193.47.62.50/hls/DUUUUAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Africa Cup of Nations Qualification" tvg-name="Kenya vs Eritrea --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2063908461281189888/_KMpScrr_400x400.jpg",Kenya vs Eritrea --- CH 2
+https://www.rtmpcdn.com/live/d93be377-5c59-4c1c-aa08-ae83409861a5.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
