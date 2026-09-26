@@ -5766,3 +5766,100 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 [2026-09-26 | 20:18:47] ERROR    [STRMCNTR] URL 96) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/custom-1f143cdd-e06f-495d-abbb-9e0e45f29413/b3febb74-5354-458d-b431-b8d63bb32951": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/custom-1f143cdd-e06f-495d-abbb-9e0e45f29413/b3febb74-5354-458d-b431-b8d63bb32951'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
 [2026-09-26 | 20:18:47] INFO     [STRMCNTR] Collected 74 event(s)                                                  (stc.py:515)
+[2026-09-26 | 23:00:13] INFO     [STRMCNTR] Scraping from "https://streamecenter.live"                             (stc.py:431)
+[2026-09-26 | 23:00:15] INFO     [STRMCNTR] Processing 76 URL(s)                                                   (stc.py:459)
+[2026-09-26 | 23:00:16] INFO     [STRMCNTR] URL 1) Captured M3U8                                                   (stc.py:303)
+[2026-09-26 | 23:00:16] INFO     [STRMCNTR] URL 2) Captured M3U8                                                   (stc.py:303)
+[2026-09-26 | 23:00:17] INFO     [STRMCNTR] URL 3) Captured M3U8                                                   (stc.py:303)
+[2026-09-26 | 23:00:17] INFO     [STRMCNTR] URL 4) Captured M3U8                                                   (stc.py:303)
+[2026-09-26 | 23:00:17] INFO     [STRMCNTR] URL 5) Captured M3U8                                                   (stc.py:303)
+[2026-09-26 | 23:00:18] INFO     [STRMCNTR] URL 6) Captured M3U8                                                   (stc.py:303)
+[2026-09-26 | 23:00:18] INFO     [STRMCNTR] URL 7) Captured M3U8                                                   (stc.py:303)
+[2026-09-26 | 23:00:19] INFO     [STRMCNTR] URL 8) Captured M3U8                                                   (stc.py:303)
+[2026-09-26 | 23:00:19] INFO     [STRMCNTR] URL 9) Captured M3U8                                                   (stc.py:303)
+[2026-09-26 | 23:00:19] INFO     [STRMCNTR] URL 10) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:20] INFO     [STRMCNTR] URL 11) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:20] INFO     [STRMCNTR] URL 12) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:21] INFO     [STRMCNTR] URL 13) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:21] INFO     [STRMCNTR] URL 14) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:22] INFO     [STRMCNTR] URL 15) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:22] INFO     [STRMCNTR] URL 16) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:22] INFO     [STRMCNTR] URL 17) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:23] INFO     [STRMCNTR] URL 18) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:23] INFO     [STRMCNTR] URL 19) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:24] ERROR    [STRMCNTR] URL 20) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401858464/198fcfd3-4a64-4eed-be59-617457707084": Client error '404 Not Found' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-football-college-football-401858464/198fcfd3-4a64-4eed-be59-617457707084'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 (stc.py:206)
+[2026-09-26 | 23:00:24] INFO     [STRMCNTR] URL 21) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:24] INFO     [STRMCNTR] URL 22) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:25] INFO     [STRMCNTR] URL 23) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:25] INFO     [STRMCNTR] URL 24) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:26] INFO     [STRMCNTR] URL 25) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:26] INFO     [STRMCNTR] URL 26) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:27] INFO     [STRMCNTR] URL 27) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:27] INFO     [STRMCNTR] URL 28) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:27] INFO     [STRMCNTR] URL 29) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:28] INFO     [STRMCNTR] URL 30) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:28] INFO     [STRMCNTR] URL 31) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:29] INFO     [STRMCNTR] URL 32) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:29] INFO     [STRMCNTR] URL 33) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:30] INFO     [STRMCNTR] URL 34) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:30] INFO     [STRMCNTR] URL 35) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:30] INFO     [STRMCNTR] URL 36) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:31] INFO     [STRMCNTR] URL 37) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:31] INFO     [STRMCNTR] URL 38) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:32] INFO     [STRMCNTR] URL 39) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:32] INFO     [STRMCNTR] URL 40) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:33] INFO     [STRMCNTR] URL 41) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:33] INFO     [STRMCNTR] URL 42) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:33] INFO     [STRMCNTR] URL 43) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:34] INFO     [STRMCNTR] URL 44) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:34] INFO     [STRMCNTR] URL 45) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:35] INFO     [STRMCNTR] URL 46) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:35] INFO     [STRMCNTR] URL 47) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:36] INFO     [STRMCNTR] URL 48) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:36] INFO     [STRMCNTR] URL 49) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:36] INFO     [STRMCNTR] URL 50) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:37] INFO     [STRMCNTR] URL 51) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:37] INFO     [STRMCNTR] URL 52) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:38] ERROR    [STRMCNTR] URL 53) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401817087/a98dc2b4-3155-4186-83e1-faeafb991d40": Client error '404 Not Found' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-baseball-mlb-401817087/a98dc2b4-3155-4186-83e1-faeafb991d40'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 (stc.py:206)
+[2026-09-26 | 23:00:38] INFO     [STRMCNTR] URL 54) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:38] INFO     [STRMCNTR] URL 55) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:39] INFO     [STRMCNTR] URL 56) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:39] INFO     [STRMCNTR] URL 57) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:40] INFO     [STRMCNTR] URL 58) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:40] INFO     [STRMCNTR] URL 59) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:41] INFO     [STRMCNTR] URL 60) Captured M3U8                                                  (stc.py:303)
+[2026-09-26 | 23:00:41] ERROR    [STRMCNTR] URL 61) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-baseball-mlb-401817100/0981915c-b775-4d80-a60b-c3f02ec75610": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-baseball-mlb-401817100/0981915c-b775-4d80-a60b-c3f02ec75610'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:41] ERROR    [STRMCNTR] URL 62) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401879371/86152f92-b2a4-4506-ae98-2c3f770b9cb2": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401879371/86152f92-b2a4-4506-ae98-2c3f770b9cb2'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:41] ERROR    [STRMCNTR] URL 63) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401879361/89bfd3f1-776c-44f0-ab44-67b942dbd81d": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401879361/89bfd3f1-776c-44f0-ab44-67b942dbd81d'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:42] ERROR    [STRMCNTR] URL 64) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401879365/74c5c06c-985e-492c-a3e4-6ff688a97ea0": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401879365/74c5c06c-985e-492c-a3e4-6ff688a97ea0'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:42] ERROR    [STRMCNTR] URL 65) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401881134/749fe503-fb47-47ee-8a60-e142d86f75be": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401881134/749fe503-fb47-47ee-8a60-e142d86f75be'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:42] ERROR    [STRMCNTR] URL 66) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401879453/99fe0f39-9866-4f9a-8a5c-b8e516fba6a0": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401879453/99fe0f39-9866-4f9a-8a5c-b8e516fba6a0'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:42] ERROR    [STRMCNTR] URL 67) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401879651/7a3ad265-d32b-4f67-9bdf-66a195186fde": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401879651/7a3ad265-d32b-4f67-9bdf-66a195186fde'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:43] ERROR    [STRMCNTR] URL 68) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401879653/387b963e-cad5-4850-a9c1-1ef2c0dd0883": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401879653/387b963e-cad5-4850-a9c1-1ef2c0dd0883'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:43] ERROR    [STRMCNTR] URL 69) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401881724/4dbe9f13-5666-4e5a-b005-ae7febb019fd": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401881724/4dbe9f13-5666-4e5a-b005-ae7febb019fd'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:43] ERROR    [STRMCNTR] URL 70) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401886261/28d594db-b5b0-4c70-a54d-289df6cf38c4": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401886261/28d594db-b5b0-4c70-a54d-289df6cf38c4'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:44] ERROR    [STRMCNTR] URL 71) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401879647/33f55367-f9db-4c3e-aa41-e79d1dd5d374": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401879647/33f55367-f9db-4c3e-aa41-e79d1dd5d374'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:44] ERROR    [STRMCNTR] URL 72) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401878104/ca988b8f-1995-490a-a6b9-5ab36f510198": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401878104/ca988b8f-1995-490a-a6b9-5ab36f510198'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:44] ERROR    [STRMCNTR] URL 73) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401879414/006a59f2-25d1-4d6c-8909-c6b342d35bc3": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401879414/006a59f2-25d1-4d6c-8909-c6b342d35bc3'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:44] ERROR    [STRMCNTR] URL 74) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/custom-8a8f22a3-6f73-41d2-9744-77e699c1ac3d/8ed08705-67ff-4dac-825f-5d2925fbeb78": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/custom-8a8f22a3-6f73-41d2-9744-77e699c1ac3d/8ed08705-67ff-4dac-825f-5d2925fbeb78'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:45] ERROR    [STRMCNTR] URL 75) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/custom-94a2b82f-1a54-4901-b93b-fca23ea57356/2f049d22-202f-422f-af56-0c30d1bf2865": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/custom-94a2b82f-1a54-4901-b93b-fca23ea57356/2f049d22-202f-422f-af56-0c30d1bf2865'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:45] ERROR    [STRMCNTR] URL 76) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/custom-1f143cdd-e06f-495d-abbb-9e0e45f29413/b3febb74-5354-458d-b431-b8d63bb32951": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/custom-1f143cdd-e06f-495d-abbb-9e0e45f29413/b3febb74-5354-458d-b431-b8d63bb32951'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-09-26 | 23:00:45] INFO     [STRMCNTR] Collected 62 event(s)                                                  (stc.py:515)
