@@ -69,6 +69,11 @@ http://193.47.62.41/hls/RAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Denmark Women SuperLiga" tvg-name="Midtjylland W vs FC Copenhagen W" tvg-logo="https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg",Midtjylland W vs FC Copenhagen W
+http://193.47.62.44/hls/EZEZEZEZ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Tennis" tvg-name="Tennis Laver Cup" tvg-logo="https://pbs.twimg.com/profile_images/1316345715359059969/Ue5DSzp4_400x400.jpg",Tennis Laver Cup
 http://193.47.62.44/hls/BHHHAAAAAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
