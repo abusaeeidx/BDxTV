@@ -64,6 +64,11 @@ http://193.47.62.50/hls/K999AAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Chile Copa" tvg-name="Antofagasta vs Deportes Iquique" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg",Antofagasta vs Deportes Iquique
+http://193.47.62.50/hls/K999.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Arabian Gulf Cup" tvg-name="Yemen vs Qatar --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2082830186618220544/hgedrGV6_400x400.jpg",Yemen vs Qatar --- CH 1
 http://193.47.62.50/hls/K999AA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -74,13 +79,13 @@ https://www.rtmpcdn.com/live/604975a9-0bbd-4e77-a55c-5b182473e98f.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English Women Super League" tvg-name="Chelsea W vs Arsenal W" tvg-logo="https://pbs.twimg.com/profile_images/2095475297214758912/FzYuFMEr_400x400.jpg",Chelsea W vs Arsenal W
+#EXTINF:-1 group-title="English Women Super League" tvg-name="Chelsea W vs Arsenal W --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2095475297214758912/FzYuFMEr_400x400.jpg",Chelsea W vs Arsenal W --- CH 1
 http://193.47.62.50/hls/K999A.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Chile Copa" tvg-name="Antofagasta vs Deportes Iquique" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg",Antofagasta vs Deportes Iquique
-http://193.47.62.50/hls/K999.m3u8
+#EXTINF:-1 group-title="English Women Super League" tvg-name="Chelsea W vs Arsenal W --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2095475297214758912/FzYuFMEr_400x400.jpg",Chelsea W vs Arsenal W --- CH 2
+https://live1.dyrur1.com/live/73346038_2c4220f8dad8e1f02141afb41b38b8fa_540p.m3u8?auth_key=1790537297-0-0-24aeee7ceed2268dce82090a80076d61
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
