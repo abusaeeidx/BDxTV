@@ -4,6 +4,16 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLB Baseball" tvg-name="Houston Astros vs Chicago White Sox" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Houston Astros vs Chicago White Sox
+http://193.47.62.41/hls/ZOOOA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLB Baseball" tvg-name="Atlanta Braves vs Philadelphia Phillies" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Atlanta Braves vs Philadelphia Phillies
+http://193.47.62.50/hls/MMMMA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="WNBA Basketball" tvg-name="Washington Mystics W vs Atlanta Dream W --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",Washington Mystics W vs Atlanta Dream W --- CH 1
 http://193.47.62.41/hls/ZOOO.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -44,11 +54,6 @@ http://193.47.62.41/hls/PMMMAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLB Baseball" tvg-name="Houston Astros vs Chicago White Sox" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Houston Astros vs Chicago White Sox
-http://193.47.62.41/hls/ZOOOA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Paraguay Copa" tvg-name="Independiente FBC vs Nacional Asuncion" tvg-logo="https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg",Independiente FBC vs Nacional Asuncion
 http://193.47.62.41/hls/PMMMA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -56,51 +61,6 @@ http://193.47.62.41/hls/PMMMA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Peru Liga 1 Apertura" tvg-name="Cienciano vs Los Chankas" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",Cienciano vs Los Chankas
 http://193.47.62.41/hls/PMMM.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="UEFA Women Champions League" tvg-name="Benfica W vs Bayern Munchen W --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",Benfica W vs Bayern Munchen W --- CH 1
-http://193.47.62.50/hls/EHHHAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="UEFA Women Champions League" tvg-name="Benfica W vs Bayern Munchen W --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",Benfica W vs Bayern Munchen W --- CH 2
-https://live1.dyrur1.com/live/74403626_517a58d6e2727804c847d1aab1dba31d_540p.m3u8?auth_key=1790809481-0-0-8ee59ede3ddf01ba0c0ffb7c5b719113
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="UEFA Women Champions League" tvg-name="OL Lyonnes W vs Chelsea W --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",OL Lyonnes W vs Chelsea W --- CH 1
-http://193.47.62.50/hls/EHHHA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="UEFA Women Champions League" tvg-name="OL Lyonnes W vs Chelsea W --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1937381899296452608/lu9fXpb9_400x400.jpg",OL Lyonnes W vs Chelsea W --- CH 2
-https://live2.dyrur1.com/live/74371806_e06bd9f2036b0f4dfff0293e2681ede4_540p.m3u8?auth_key=1790809169-0-0-91a0532b8a23158b7ce8a77fee8f4055
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Euro U21 Qualification" tvg-name="Portugal U21 vs Gibraltar U21" tvg-logo="https://pbs.twimg.com/profile_images/1830558187436625920/Rjp4pvzP_400x400.jpg",Portugal U21 vs Gibraltar U21
-http://193.47.62.50/hls/EHHH.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Uruguay Copa" tvg-name="Cerro Largo vs Rentistas" tvg-logo="https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",Cerro Largo vs Rentistas
-http://193.47.62.50/hls/ZPPPAAAAAAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Uruguay Copa" tvg-name="Defensor Sp vs Plaza Colonia" tvg-logo="https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",Defensor Sp vs Plaza Colonia
-http://193.47.62.50/hls/ZPPPAAAAAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Bolivia Copa" tvg-name="Real Oruro vs Always Ready" tvg-logo="https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",Real Oruro vs Always Ready
-http://193.47.62.50/hls/ZPPPAAAAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLB Baseball" tvg-name="Atlanta Braves vs Philadelphia Phillies" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Atlanta Braves vs Philadelphia Phillies
-http://193.47.62.50/hls/MMMMA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
