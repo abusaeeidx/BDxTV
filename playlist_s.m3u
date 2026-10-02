@@ -64,8 +64,13 @@ http://193.47.62.55/hls/VAAAQaaaaa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Baskonia vs Olimpia Milano" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Baskonia vs Olimpia Milano
+#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Baskonia vs Olimpia Milano --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Baskonia vs Olimpia Milano --- CH 1
 http://193.47.62.55/hls/VAAAQaaaa.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Baskonia vs Olimpia Milano --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Baskonia vs Olimpia Milano --- CH 2
+https://www.rtmpcdn.com/live/3bf88417-d6e5-4873-94b5-f13038df97f8.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -74,23 +79,43 @@ http://193.47.62.55/hls/ZRRRAAAAAx.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Panathinaikos vs Maccabi Tel Aviv" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Panathinaikos vs Maccabi Tel Aviv
+#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Panathinaikos vs Maccabi Tel Aviv --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Panathinaikos vs Maccabi Tel Aviv --- CH 1
 http://193.47.62.55/hls/VAAAQaaa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Lyon-Villeurbanne vs Valencia" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Lyon-Villeurbanne vs Valencia
+#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Panathinaikos vs Maccabi Tel Aviv --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Panathinaikos vs Maccabi Tel Aviv --- CH 2
+https://www.rtmpcdn.com/live/ea487101-bbb7-45c0-9df7-23a4f351bae4.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Lyon-Villeurbanne vs Valencia --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Lyon-Villeurbanne vs Valencia --- CH 1
 http://193.47.62.55/hls/VAAAQaa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Bayern Munchen vs Partizan" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Bayern Munchen vs Partizan
+#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Lyon-Villeurbanne vs Valencia --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Lyon-Villeurbanne vs Valencia --- CH 2
+https://www.rtmpcdn.com/live/806b5e7a-9708-4c1a-92e1-13d2e5fe7d7a.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Bayern Munchen vs Partizan --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Bayern Munchen vs Partizan --- CH 1
 http://193.47.62.55/hls/VAAAQa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Fenerbahce vs Dubai" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Fenerbahce vs Dubai
+#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Bayern Munchen vs Partizan --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Bayern Munchen vs Partizan --- CH 2
+https://www.rtmpcdn.com/live/18a99d7e-7772-4e00-a06e-1eb6839ad01b.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Fenerbahce vs Dubai --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Fenerbahce vs Dubai --- CH 1
 http://193.47.62.55/hls/VAAAQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Fenerbahce vs Dubai --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Fenerbahce vs Dubai --- CH 2
+https://www.rtmpcdn.com/live/d3e27d5c-873a-4dee-b4bd-47d11199178f.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
