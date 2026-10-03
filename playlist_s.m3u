@@ -20,12 +20,12 @@ https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Boxing" tvg-name="Boxing : Whittaker vs Wallace --- CH 1 CH1" tvg-logo="https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",Boxing : Whittaker vs Wallace --- CH 1 CH1
-http://193.47.62.41/hls/TOOOOQQQQqq.m3u8
+http://193.47.62.50/hls/TOOOOQQQQqq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Boxing" tvg-name="Boxing : Whittaker vs Wallace --- CH 1 CH2" tvg-logo="https://pbs.twimg.com/profile_images/1286085471177781250/NoQS24sO_400x400.jpg",Boxing : Whittaker vs Wallace --- CH 1 CH2
-http://193.47.62.50/hls/TOOOOQQQQqq.m3u8
+http://193.47.62.41/hls/TOOOOQQQQqq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -89,6 +89,11 @@ http://193.47.62.44/hls/ZFFFQQQQQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="New York Islanders vs New Jersey Devils" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",New York Islanders vs New Jersey Devils
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0dca10c9-27fb-4afb-b008-b8f8b34d2f95/master.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Bolivia Copa" tvg-name="The Strongest vs Universitario de Vinto" tvg-logo="https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",The Strongest vs Universitario de Vinto
 http://193.47.62.44/hls/ZFFFQQQQQQQQA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -124,13 +129,53 @@ http://193.47.62.44/hls/ZFFFQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Toronto Raptors vs Miami Heat" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",Toronto Raptors vs Miami Heat
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Toronto Raptors vs Miami Heat --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",Toronto Raptors vs Miami Heat --- CH 1
 http://193.47.62.50/hls/ZFFFQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Toronto Raptors vs Miami Heat --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",Toronto Raptors vs Miami Heat --- CH 2
+https://www.rtmpcdn.com/live/b76f4318-0953-4056-ac3a-d3cdb79b33d0.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Mexico Liga MX" tvg-name="Queretaro W vs Atl San Luis W" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",Queretaro W vs Atl San Luis W
 http://193.47.62.50/hls/ZFFF.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="Toronto Maple Leafs vs Ottawa Senators" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",Toronto Maple Leafs vs Ottawa Senators
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/135a7ed7-5114-483b-8c57-1cfa72b42cc9/master.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="Tampa Bay Lightning vs Washington Capitals" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",Tampa Bay Lightning vs Washington Capitals
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0f32876f-1699-4242-8e3a-a9bdd0d49560/master.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="Pittsburgh Penguins vs Montreal Canadiens" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",Pittsburgh Penguins vs Montreal Canadiens
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dee7ef95-1ad7-4a3c-af77-f0df691a1dc2/master.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="Philadelphia Flyers vs Carolina Hurricanes" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",Philadelphia Flyers vs Carolina Hurricanes
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a26081e4-fefa-4420-8ecf-ee685a8afe56/master.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="Edmonton Oilers vs Seattle Kraken" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",Edmonton Oilers vs Seattle Kraken
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2dd7e8f4-7bdf-468d-b237-5c321a08796a/master.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="Columbus Blue Jackets vs Utah Mammoth" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",Columbus Blue Jackets vs Utah Mammoth
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c2c2c79d-4db8-497d-93b2-2a095ecf8aa4/master.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="Buffalo Sabres vs Chicago Blackhawks" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",Buffalo Sabres vs Chicago Blackhawks
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8cfe7418-e08a-420f-b015-cbecac6d10ed/master.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
