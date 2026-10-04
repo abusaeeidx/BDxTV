@@ -34,6 +34,11 @@ http://193.47.62.59/hls/EUUUAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Cyprus Women Basketball" tvg-name="AEL W vs Atlanta W" tvg-logo="https://pbs.twimg.com/profile_images/2051187915355475968/A77yTKjA_400x400.jpg",AEL W vs Atlanta W
+http://193.47.62.50/hls/FFTTTq.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Uruguay Liga AUF" tvg-name="Danubio vs Cerro Largo" tvg-logo="https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg",Danubio vs Cerro Largo
 http://193.47.62.44/hls/LTTTQQQAAAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
