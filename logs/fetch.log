@@ -6892,3 +6892,7 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 [2026-10-05 | 02:09:25] INFO     [STRMCNTR] URL 4) Captured M3U8                                                   (stc.py:303)
 [2026-10-05 | 02:09:25] INFO     [STRMCNTR] URL 5) Captured M3U8                                                   (stc.py:303)
 [2026-10-05 | 02:09:25] INFO     [STRMCNTR] Collected 5 event(s)                                                   (stc.py:515)
+[2026-10-05 | 09:16:55] INFO     [STRMCNTR] Scraping from "https://streamecenter.live"                             (stc.py:431)
+[2026-10-05 | 09:16:56] ERROR    [STRMCNTR] Failed to fetch "https://streamecenter.live/game-cards/embed": Client error '403 Forbidden' for url 'https://streamcenter.st/game-cards/embed'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 (stc.py:210)
+[2026-10-05 | 09:16:56] INFO     [STRMCNTR] No events found                                                        (stc.py:456)
