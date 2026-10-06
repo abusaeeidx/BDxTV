@@ -9,6 +9,16 @@ https://www.rtmpcdn.com/live/4f87846e-9805-4b16-b155-ca452c723b45.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Hockey Champions League" tvg-name="Plzen vs Skelleftea" tvg-logo="https://pbs.twimg.com/profile_images/2029839784009433088/smY7VrS4_400x400.png",Plzen vs Skelleftea
+http://193.47.62.55/hls/f333QQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Norway NM Cup" tvg-name="Raufoss vs Start" tvg-logo="https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",Raufoss vs Start
+http://193.47.62.55/hls/f333Q.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Friendly Match" tvg-name="India vs Uruguay --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",India vs Uruguay --- CH 2
 https://www.rtmpcdn.com/live/48290f0f-3e6a-4fe0-a725-9442ca37a4d2.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -41,13 +51,3 @@ http://193.47.62.44/hls/VUUU.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Horse Racing" tvg-name="Horse Racing --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",Horse Racing --- CH 2
 http://193.47.62.194/hls/vavavavaq.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Friendly Match" tvg-name="China vs Tajikistan" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",China vs Tajikistan
-http://193.47.62.41/hls/GYGYGYAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Tennis ATP" tvg-name="Tennis ATP Beijing" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",Tennis ATP Beijing
-http://193.47.62.55/hls/NUUUQ.m3u8
