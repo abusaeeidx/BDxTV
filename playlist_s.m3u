@@ -29,18 +29,68 @@ http://193.47.62.41/hls/TIII.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Italy Serie A" tvg-name="Inter Milan vs Parma --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Inter Milan vs Parma --- CH 1
-http://193.47.62.41/hls/ECCCAAA.m3u8
+#EXTINF:-1 group-title="Ligue 1 France" tvg-name="PSG vs Le Mans" tvg-logo="https://pbs.twimg.com/profile_images/1531920610514853890/FgxuEE_k_400x400.jpg",PSG vs Le Mans
+http://193.47.62.44/hls/KRRRRAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Basketball Greece League" tvg-name="Promitheas vs Panathinaikos" tvg-logo="https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",Promitheas vs Panathinaikos
-http://193.47.62.41/hls/F444AAAAAAAAQa.m3u8
+#EXTINF:-1 group-title="Ligue 1 France" tvg-name="AS Monaco vs Toulouse" tvg-logo="https://pbs.twimg.com/profile_images/1531920610514853890/FgxuEE_k_400x400.jpg",AS Monaco vs Toulouse
+http://193.47.62.44/hls/KRRRRAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Cyprus League" tvg-name="APOEL vs Nea Salamis" tvg-logo="https://1.bp.blogspot.com/-byTkUREuv60/X0bfuLzFPPI/AAAAAAAABUU/7Itgj_8JQRo3LCXpT2AHdZXSKw7Tjxw7ACLcBGAsYHQ/s474/OIP.jpg",APOEL vs Nea Salamis
-http://193.47.62.41/hls/ECCCAA.m3u8
+#EXTINF:-1 group-title="Ligue 1 France" tvg-name="Lorient vs Paris FC" tvg-logo="https://pbs.twimg.com/profile_images/1531920610514853890/FgxuEE_k_400x400.jpg",Lorient vs Paris FC
+http://193.47.62.44/hls/KRRRRAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Ligue 1 France" tvg-name="Brest vs Angers" tvg-logo="https://pbs.twimg.com/profile_images/1531920610514853890/FgxuEE_k_400x400.jpg",Brest vs Angers
+http://193.47.62.44/hls/KRRRRA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Italy Serie A" tvg-name="Napoli vs Frosinone" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Napoli vs Frosinone
+http://193.47.62.44/hls/KRRRR.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="United Rugby Championship" tvg-name="Leinster vs Cardiff Rugby" tvg-logo="https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png",Leinster vs Cardiff Rugby
+http://193.47.62.44/hls/AMMMAAAAQQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Belgium Pro League" tvg-name="Zulte Waregem vs Gent" tvg-logo="https://pbs.twimg.com/profile_images/2082438090145091584/D3dYErOV_400x400.jpg",Zulte Waregem vs Gent
+http://193.47.62.44/hls/AMMMAAAAQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Belgium Pro League" tvg-name="Genk vs Kortrijk" tvg-logo="https://pbs.twimg.com/profile_images/2082438090145091584/D3dYErOV_400x400.jpg",Genk vs Kortrijk
+http://193.47.62.44/hls/AMMMAAAAQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Argentina Liga Profesional" tvg-name="Barracas Central vs Huracan" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg",Barracas Central vs Huracan
+http://193.47.62.44/hls/AMMMAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Friendly Match" tvg-name="USA W vs Spain W" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",USA W vs Spain W
+http://193.47.62.44/hls/AMMMAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Romania Superliga" tvg-name="FCSB vs Otelul" tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg",FCSB vs Otelul
+http://193.47.62.44/hls/AMMMAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLS League" tvg-name="Chicago Fire vs New York City" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg",Chicago Fire vs New York City
+http://193.47.62.44/hls/AMMMA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="German 2 Bundesliga" tvg-name="Nurnberg vs Wolfsburg" tvg-logo="https://pbs.twimg.com/profile_images/880436063424131074/ECth5ahp_400x400.jpg",Nurnberg vs Wolfsburg
+http://193.47.62.44/hls/AMMM.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
