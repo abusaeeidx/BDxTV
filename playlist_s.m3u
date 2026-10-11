@@ -29,8 +29,13 @@ https://admin2.formaturamaxi.com.br/ppv2.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MLB Baseball" tvg-name="Cleveland Guardians vs Chicago White Sox" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Cleveland Guardians vs Chicago White Sox
+#EXTINF:-1 group-title="MLB Baseball" tvg-name="Cleveland Guardians vs Chicago White Sox --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Cleveland Guardians vs Chicago White Sox --- CH 1
 http://193.47.62.55/hls/BYYYY.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MLB Baseball" tvg-name="Cleveland Guardians vs Chicago White Sox --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg",Cleveland Guardians vs Chicago White Sox --- CH 2
+https://tedesco.formaturamaxi.com.br/mlb.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -44,13 +49,23 @@ http://193.47.62.41/hls/K888QAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Miami Heat vs Minnesota Timberwolves" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",Miami Heat vs Minnesota Timberwolves
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Miami Heat vs Minnesota Timberwolves --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",Miami Heat vs Minnesota Timberwolves --- CH 1
 http://193.47.62.41/hls/K888QA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Boston Celtics vs Philadelphia 76ers" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",Boston Celtics vs Philadelphia 76ers
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Miami Heat vs Minnesota Timberwolves --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",Miami Heat vs Minnesota Timberwolves --- CH 2
+https://www.rtmpcdn.com/live/72cc9d60-7a38-45f3-b095-141a57a3541c.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Boston Celtics vs Philadelphia 76ers --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",Boston Celtics vs Philadelphia 76ers --- CH 1
 http://193.47.62.41/hls/K888Q.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Boston Celtics vs Philadelphia 76ers --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",Boston Celtics vs Philadelphia 76ers --- CH 2
+https://www.rtmpcdn.com/live/7394dde4-1d03-4c0a-8bc9-1a46690d6e38.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -131,11 +146,6 @@ http://193.47.62.59/hls/RRRUQQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NCAA American Football" tvg-name="Northern Illinois vs Air Force" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Northern Illinois vs Air Force
 http://193.47.62.59/hls/RRRUQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NCAA American Football" tvg-name="Louisiana Tech vs Louisiana-Lafayette" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Louisiana Tech vs Louisiana-Lafayette
-http://193.47.62.59/hls/RRRU.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
