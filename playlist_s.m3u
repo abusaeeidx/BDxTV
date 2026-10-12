@@ -54,6 +54,16 @@ http://193.47.62.41/hls/KEEEAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="London Lions vs Portland Trail Blazers --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",London Lions vs Portland Trail Blazers --- CH 1
+http://193.47.62.55/hls/fkkk.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="London Lions vs Portland Trail Blazers --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",London Lions vs Portland Trail Blazers --- CH 2
+https://www.rtmpcdn.com/live/cd203448-202d-4808-bc3a-fe36fa7a831a.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Futsal Africa of Nations" tvg-name="Morocco vs Algeria" tvg-logo="https://pbs.twimg.com/profile_images/2109003429632761856/zsUedTb9_400x400.jpg",Morocco vs Algeria
 http://193.47.62.41/hls/KEEEAAAAAAQQAa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
