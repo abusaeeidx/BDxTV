@@ -34,6 +34,11 @@ http://193.47.62.44/hls/DYYYYAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="India Super League" tvg-name="SC Delhi vs Mohun Bagan" tvg-logo="https://pbs.twimg.com/profile_images/2105656126155198464/NyaL6m2J_400x400.jpg",SC Delhi vs Mohun Bagan
+http://193.47.62.59/hls/G777A.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Uzbekistan Super League" tvg-name="Kokand 1912 vs Neftchi Fargona" tvg-logo="https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg",Kokand 1912 vs Neftchi Fargona
 http://193.47.62.44/hls/DYYYYAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
