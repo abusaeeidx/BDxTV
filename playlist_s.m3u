@@ -4,6 +4,11 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CAF Confederation Cup" tvg-name="ZED vs Azam" tvg-logo="https://pbs.twimg.com/profile_images/1986380387874926592/BupvxFYG_400x400.jpg",ZED vs Azam
+http://193.47.62.50/hls/OFFFAAAAQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="CAF Champions League" tvg-name="APR vs Zamalek" tvg-logo="https://pbs.twimg.com/profile_images/1986380387874926592/BupvxFYG_400x400.jpg",APR vs Zamalek
 http://193.47.62.59/hls/HHHHWQAAQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -14,8 +19,33 @@ http://193.47.62.41/hls/DUUUAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="France Rugby Pro D2" tvg-name="US Oyonnax vs Valence Romans" tvg-logo="https://pbs.twimg.com/profile_images/1658978316324356098/0MfeHTZ8_400x400.jpg",US Oyonnax vs Valence Romans
-http://193.47.62.41/hls/99GGGAA.m3u8
+#EXTINF:-1 group-title="Austria Bundesliga" tvg-name="SK Rapid vs Hartberg" tvg-logo="https://pbs.twimg.com/media/FUumFx6XwAANi53.jpg",SK Rapid vs Hartberg
+http://193.47.62.41/hls/Q666Q.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Sweden Division 1" tvg-name="Stocksund vs Enkoping SK" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",Stocksund vs Enkoping SK
+http://193.47.62.41/hls/Q666.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="France Rugby Pro D2" tvg-name="US Dax vs Montauban" tvg-logo="https://pbs.twimg.com/profile_images/1658978316324356098/0MfeHTZ8_400x400.jpg",US Dax vs Montauban
+http://193.47.62.41/hls/99GGGAAAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="France Rugby Pro D2" tvg-name="Nissa vs Provence Rugby" tvg-logo="https://pbs.twimg.com/profile_images/1658978316324356098/0MfeHTZ8_400x400.jpg",Nissa vs Provence Rugby
+http://193.47.62.41/hls/99GGGAAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="France Rugby Pro D2" tvg-name="Colomiers vs Narbonne" tvg-logo="https://pbs.twimg.com/profile_images/1658978316324356098/0MfeHTZ8_400x400.jpg",Colomiers vs Narbonne
+http://193.47.62.41/hls/99GGGAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="France Rugby Pro D2" tvg-name="Beziers vs Aurillac" tvg-logo="https://pbs.twimg.com/profile_images/1658978316324356098/0MfeHTZ8_400x400.jpg",Beziers vs Aurillac
+http://193.47.62.41/hls/99GGGAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -44,18 +74,18 @@ http://193.47.62.50/hls/OFFFAAAAQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Sweden Division 1" tvg-name="Lunds vs Trelleborg" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",Lunds vs Trelleborg
-http://193.47.62.50/hls/OFFFAAAAQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CAF Confederation Cup" tvg-name="ZED vs Azam" tvg-logo="https://pbs.twimg.com/profile_images/1986380387874926592/BupvxFYG_400x400.jpg",ZED vs Azam
-http://193.47.62.50/hls/OFFFAAAAQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Darts" tvg-name="Darts European Tour 15" tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",Darts European Tour 15
 http://193.47.62.41/hls/IZZZA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="France Rugby Pro D2" tvg-name="US Oyonnax vs Valence Romans" tvg-logo="https://pbs.twimg.com/profile_images/1658978316324356098/0MfeHTZ8_400x400.jpg",US Oyonnax vs Valence Romans
+http://193.47.62.41/hls/99GGGAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Sweden Division 1" tvg-name="Lunds vs Trelleborg" tvg-logo="https://pbs.twimg.com/profile_images/1836659987176685568/yp9ldpSd_400x400.jpg",Lunds vs Trelleborg
+http://193.47.62.50/hls/OFFFAAAAQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
