@@ -109,6 +109,11 @@ http://193.47.62.55/hls/yyyyyy.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Israel Ligat ha'Al" tvg-name="Maccabi Petah Tikva vs Maccabi Haifa" tvg-logo="https://pbs.twimg.com/profile_images/1344253261650530304/NhvOsx8h_400x400.png",Maccabi Petah Tikva vs Maccabi Haifa
+http://193.47.62.59/hls/LIIIQQQQAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Israel Ligat ha'Al" tvg-name="Sakhnin vs Hapoel Petah Tikva" tvg-logo="https://pbs.twimg.com/profile_images/1344253261650530304/NhvOsx8h_400x400.png",Sakhnin vs Hapoel Petah Tikva
 http://193.47.62.59/hls/LIIIQQQQAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
