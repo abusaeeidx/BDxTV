@@ -49,6 +49,11 @@ http://193.47.62.55/hls/55GGGAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="Anaheim Ducks vs Boston Bruins" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",Anaheim Ducks vs Boston Bruins
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6ca9cdfd-ad20-4743-8103-748d57e18eaa/master.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Canada Premier League" tvg-name="Vancouver FC vs HFX Wanderers" tvg-logo="https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png",Vancouver FC vs HFX Wanderers
 http://193.47.62.44/hls/K111AAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -56,6 +61,11 @@ http://193.47.62.44/hls/K111AAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="CFL Canadian Football" tvg-name="Edmonton Elks vs Winnipeg Blue Bombers" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/CFL_2016_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Edmonton Elks vs Winnipeg Blue Bombers
 http://193.47.62.55/hls/55GGGA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="Colorado Avalanche vs Pittsburgh Penguins" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",Colorado Avalanche vs Pittsburgh Penguins
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8dfc3df8-a49f-465d-90f5-22b91aa499ca/master.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
