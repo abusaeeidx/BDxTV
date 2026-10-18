@@ -39,6 +39,11 @@ http://193.47.62.44/hls/T333AAAAQQQX.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Nascar" tvg-name="Nascar Cup Series Freeway Insurance 500" tvg-logo="https://pbs.twimg.com/profile_images/2111887675573567488/RkuebJKu_400x400.jpg",Nascar Cup Series Freeway Insurance 500
+http://193.47.62.44/hls/fiii.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Spanish Segunda Liga" tvg-name="Burgos CF vs Sabadell" tvg-logo="https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",Burgos CF vs Sabadell
 http://193.47.62.44/hls/HH666AAAAQqqq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
