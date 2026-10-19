@@ -8488,3 +8488,12 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 [2026-10-18 | 22:00:16] ERROR    [STRMCNTR] URL 9) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401892534/7c5abb94-48fc-4356-a702-1e98f76c965f": Client error '404 Not Found' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401892534/7c5abb94-48fc-4356-a702-1e98f76c965f'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 (stc.py:206)
 [2026-10-18 | 22:00:16] INFO     [STRMCNTR] Collected 9 event(s)                                                   (stc.py:515)
+[2026-10-19 | 00:16:32] INFO     [STRMCNTR] Scraping from "https://streamecenter.live"                             (stc.py:431)
+[2026-10-19 | 00:16:33] INFO     [STRMCNTR] Processing 6 URL(s)                                                    (stc.py:459)
+[2026-10-19 | 00:16:37] INFO     [STRMCNTR] URL 1) Captured M3U8                                                   (stc.py:303)
+[2026-10-19 | 00:16:38] INFO     [STRMCNTR] URL 2) Captured M3U8                                                   (stc.py:303)
+[2026-10-19 | 00:16:38] INFO     [STRMCNTR] URL 3) Captured M3U8                                                   (stc.py:303)
+[2026-10-19 | 00:16:38] INFO     [STRMCNTR] URL 4) Captured M3U8                                                   (stc.py:303)
+[2026-10-19 | 00:16:39] INFO     [STRMCNTR] URL 5) Captured M3U8                                                   (stc.py:303)
+[2026-10-19 | 00:16:39] INFO     [STRMCNTR] URL 6) Captured M3U8                                                   (stc.py:303)
+[2026-10-19 | 00:16:39] INFO     [STRMCNTR] Collected 6 event(s)                                                   (stc.py:515)
