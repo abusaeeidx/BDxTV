@@ -64,6 +64,11 @@ https://www.rtmpcdn.com/live/10c08b25-9717-486e-83ea-a5404a7b0107.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="UEFA Europa League" tvg-name="Omonia vs Benfica --- CH 3" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",Omonia vs Benfica --- CH 3
+https://admin2.formaturamaxi.com.br/benfica.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="UEFA Europa League" tvg-name="Olympiacos vs Sparta Prague --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",Olympiacos vs Sparta Prague --- CH 1
 http://193.47.62.59/hls/FAFAFA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -114,6 +119,16 @@ https://www.rtmpcdn.com/live/aeca471f-7abe-48c8-9f90-6ed5a6123e39.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="UEFA Europa League" tvg-name="Celje vs Salzburg --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",Celje vs Salzburg --- CH 1
+http://193.47.62.55/hls/D111AAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="UEFA Europa League" tvg-name="Celje vs Salzburg --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",Celje vs Salzburg --- CH 2
+https://www.rtmpcdn.com/live/5180e3f8-e73c-4fb0-851a-f2dc951ba5ef.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="UEFA Conference League" tvg-name="AS Monaco vs Freiburg --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",AS Monaco vs Freiburg --- CH 1
 http://193.47.62.50/hls/V111.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -161,16 +176,6 @@ http://193.47.62.55/hls/D111AAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="UEFA Conference League" tvg-name="Sporting Braga vs Gent --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1417124112871403522/MXBNNSDu_400x400.jpg",Sporting Braga vs Gent --- CH 2
 https://www.rtmpcdn.com/live/d054cff0-905d-49f8-8b46-daff3f25ae22.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="UEFA Europa League" tvg-name="Celje vs Salzburg --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",Celje vs Salzburg --- CH 1
-http://193.47.62.55/hls/D111AAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="UEFA Europa League" tvg-name="Celje vs Salzburg --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg",Celje vs Salzburg --- CH 2
-https://www.rtmpcdn.com/live/5180e3f8-e73c-4fb0-851a-f2dc951ba5ef.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -266,16 +271,6 @@ https://www.rtmpcdn.com/live/2ae1eb09-27b3-4ce6-ac0e-e24e39eb773f.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="France Rugby Pro D2" tvg-name="Montauban vs US Oyonnax" tvg-logo="https://pbs.twimg.com/profile_images/1658978316324356098/0MfeHTZ8_400x400.jpg",Montauban vs US Oyonnax
 http://193.47.62.44/hls/F555AAAAQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Women U17 World Cup" tvg-name="USA U17 W vs Kenya U17 W" tvg-logo="https://pbs.twimg.com/profile_images/2015435508189368320/Qn1UT4oa_400x400.jpg",USA U17 W vs Kenya U17 W
-http://193.47.62.44/hls/F555AAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Women U17 World Cup" tvg-name="Chile U17 W vs Mexico U17 W" tvg-logo="https://pbs.twimg.com/profile_images/2015435508189368320/Qn1UT4oa_400x400.jpg",Chile U17 W vs Mexico U17 W
-http://193.47.62.44/hls/F555AAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
