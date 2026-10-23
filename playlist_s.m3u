@@ -24,6 +24,16 @@ https://admin2.formaturamaxi.com.br/f1alt.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Milwaukee Bucks vs Chicago Bulls --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",Milwaukee Bucks vs Chicago Bulls --- CH 1
+http://193.47.62.55/hls/8888A.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Milwaukee Bucks vs Chicago Bulls --- CH 3" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",Milwaukee Bucks vs Chicago Bulls --- CH 3
+https://admin.formaturamaxi.com.br/nba.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Olympiacos vs Fenerbahce --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Olympiacos vs Fenerbahce --- CH 1
 http://193.47.62.44/hls/QQQQQAAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -31,11 +41,6 @@ http://193.47.62.44/hls/QQQQQAAAAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Olympiacos vs Fenerbahce --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Olympiacos vs Fenerbahce --- CH 2
 https://www.rtmpcdn.com/live/06999d15-9e38-47df-9c79-551743cd29e6.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Milwaukee Bucks vs Chicago Bulls --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",Milwaukee Bucks vs Chicago Bulls --- CH 1
-http://193.47.62.55/hls/8888A.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
