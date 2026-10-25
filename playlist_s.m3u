@@ -49,13 +49,18 @@ http://193.47.62.55/hls/kokoko.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NHL Hockey" tvg-name="Vancouver Canucks vs Minnesota Wild" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",Vancouver Canucks vs Minnesota Wild
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/251c5470-406e-4e2f-86b5-946daf4fc2bf/master.m3u8
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="Nashville Predators vs Colorado Avalanche" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",Nashville Predators vs Colorado Avalanche
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/befa533e-778f-4284-a205-cca6dffcd8a7/master.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NHL Hockey" tvg-name="Nashville Predators vs Colorado Avalanche" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",Nashville Predators vs Colorado Avalanche
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/befa533e-778f-4284-a205-cca6dffcd8a7/master.m3u8
+#EXTINF:-1 group-title="Bolivia Division Profesional" tvg-name="Oriente Petrolero vs The Strongest" tvg-logo="https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg",Oriente Petrolero vs The Strongest
+http://193.47.62.59/hls/K999aa.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Colombia Primera A" tvg-name="Atl Nacional vs Ind Medellin" tvg-logo="https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",Atl Nacional vs Ind Medellin
+http://193.47.62.55/hls/EIIIAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -66,6 +71,21 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ecf17c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Mexico Liga MX" tvg-name="Atlas vs Puebla" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",Atlas vs Puebla
 http://193.47.62.59/hls/K999.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Peru Liga 1 Apertura" tvg-name="Deportivo Garcilaso vs Los Chankas" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",Deportivo Garcilaso vs Los Chankas
+http://193.47.62.55/hls/Y444AAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Chile Liga de Primera" tvg-name="U De Concepcion vs Limache" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg",U De Concepcion vs Limache
+http://193.47.62.50/hls/DD555QQQQA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="USA NWSL Women" tvg-name="San Diego Wave W vs Boston Legacy W" tvg-logo="https://pbs.twimg.com/profile_images/2077467408940634112/TndSUbGL_400x400.jpg",San Diego Wave W vs Boston Legacy W
+http://193.47.62.59/hls/K999a.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
