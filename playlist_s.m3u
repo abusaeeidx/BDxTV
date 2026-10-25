@@ -4,6 +4,11 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="MotoGP" tvg-name="MotoGP Grand Prix of Australia" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg",MotoGP Grand Prix of Australia
+http://193.47.62.59/hls/fddd.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NBA Basketball" tvg-name="Phoenix Suns vs Golden State Warriors --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",Phoenix Suns vs Golden State Warriors --- CH 1
 http://193.47.62.55/hls/I666AA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -94,8 +99,8 @@ http://193.47.62.41/hls/DRRRRQQQQA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Peru Liga 1 Apertura" tvg-name="U de Deportes vs Juan Pablo II" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",U de Deportes vs Juan Pablo II
-http://193.47.62.55/hls/dooooA.m3u8
+#EXTINF:-1 group-title="Rugby World Cup" tvg-name="New Zealand W vs France W" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",New Zealand W vs France W
+http://193.47.62.41/hls/FFFFF.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -124,16 +129,6 @@ http://193.47.62.41/hls/RPPPA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Colombia Primera A" tvg-name="Once Caldas vs Pereira" tvg-logo="https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",Once Caldas vs Pereira
-http://193.47.62.41/hls/RPPPAAQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Rugby World Cup" tvg-name="New Zealand W vs France W" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3.jpg",New Zealand W vs France W
-http://193.47.62.41/hls/FFFFF.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NCAA American Football" tvg-name="New Mexico vs North Dakota State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",New Mexico vs North Dakota State
 http://193.47.62.44/hls/VVVVVQQQAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -156,6 +151,16 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/da0cc5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NHL Hockey" tvg-name="Calgary Flames vs Detroit Red Wings" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg",Calgary Flames vs Detroit Red Wings
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a6d11230-6ef6-4c8e-bf96-763e61da67da/master.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Peru Liga 1 Apertura" tvg-name="U de Deportes vs Juan Pablo II" tvg-logo="https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg",U de Deportes vs Juan Pablo II
+http://193.47.62.55/hls/dooooA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Colombia Primera A" tvg-name="Once Caldas vs Pereira" tvg-logo="https://pbs.twimg.com/profile_images/2104980612574560256/PJtHNMvO_400x400.jpg",Once Caldas vs Pereira
+http://193.47.62.41/hls/RPPPAAQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
