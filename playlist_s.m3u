@@ -19,6 +19,11 @@ http://193.47.62.55/hls/I666.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Atlanta Hawks vs Houston Rockets --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",Atlanta Hawks vs Houston Rockets --- CH 2
+https://www.rtmpcdn.com/live/dcb4a48d-0676-42ef-91f0-df339877f390.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NBA Basketball" tvg-name="Dallas Mavericks vs San Antonio Spurs --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066002547848921089/sjBHrkzT_400x400.jpg",Dallas Mavericks vs San Antonio Spurs --- CH 1
 http://193.47.62.50/hls/rtrtrtAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
