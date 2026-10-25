@@ -274,6 +274,11 @@ http://193.47.62.50/hls/FUUUA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Snooker" tvg-name="Snooker Northern Ireland Open" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",Snooker Northern Ireland Open
+http://193.47.62.44/hls/PTTTA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Darts" tvg-name="Darts European Championship" tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",Darts European Championship
 http://193.47.62.50/hls/A555AAAAAQQQA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
