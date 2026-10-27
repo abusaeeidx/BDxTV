@@ -39,8 +39,8 @@ http://193.47.62.41/hls/B111AAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Championship" tvg-name="Stenhousemuir vs Dunfermline" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Scottish_Championship.svg",Stenhousemuir vs Dunfermline
-http://193.47.62.59/hls/JBBBBAA.m3u8
+#EXTINF:-1 group-title="Basketball Euroleague" tvg-name="Baskonia vs Real Madrid --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Baskonia vs Real Madrid --- CH 2
+https://www.rtmpcdn.com/live/5dfc6d87-e328-4279-926c-f8fc616db3aa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -104,6 +104,16 @@ http://193.47.62.59/hls/8ac64648-a3b1-4f14-880e-b5b9dd314e32.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="English League One" tvg-name="Leicester City vs Wigan --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png",Leicester City vs Wigan --- CH 1
+http://193.47.62.59/hls/ajjj.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="English League One" tvg-name="Leicester City vs Wigan --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png",Leicester City vs Wigan --- CH 2
+https://www.rtmpcdn.com/live/89688239-2eab-4fc0-a90d-50401e990628.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="English League One" tvg-name="Sheffield Wednesday vs Cambridge Utd" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png",Sheffield Wednesday vs Cambridge Utd
 http://193.47.62.59/hls/ajjjaaaa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -124,13 +134,13 @@ http://193.47.62.59/hls/ajjja.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English League One" tvg-name="Leicester City vs Wigan" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png",Leicester City vs Wigan
-http://193.47.62.59/hls/ajjj.m3u8
+#EXTINF:-1 group-title="English League Two" tvg-name="Barnet vs York City" tvg-logo="https://pbs.twimg.com/profile_images/2066809302329757696/8JzdRXMH_400x400.png",Barnet vs York City
+http://193.47.62.59/hls/J666AA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English League Two" tvg-name="Barnet vs York City" tvg-logo="https://pbs.twimg.com/profile_images/2066809302329757696/8JzdRXMH_400x400.png",Barnet vs York City
-http://193.47.62.59/hls/J666AA.m3u8
+#EXTINF:-1 group-title="Scottish Championship" tvg-name="Stenhousemuir vs Dunfermline" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Scottish_Championship.svg",Stenhousemuir vs Dunfermline
+http://193.47.62.59/hls/JBBBBAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
