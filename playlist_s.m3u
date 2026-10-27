@@ -34,6 +34,11 @@ http://193.47.62.50/hls/JYYYA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="AFC Champions League" tvg-name="Ratchaburi vs Kashiwa Reysol --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Ratchaburi vs Kashiwa Reysol --- CH 2
+https://www.rtmpcdn.com/live/200e1916-a024-445b-a74a-5797655f4cab.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="AFC Champions League" tvg-name="Beijing Guoan vs Jeonbuk --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Beijing Guoan vs Jeonbuk --- CH 1
 http://193.47.62.50/hls/JYYY.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
