@@ -9,8 +9,13 @@ http://193.47.62.44/hls/VYYYAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Dallas Mavericks vs Oklahoma City Thunder" tvg-logo="https://pbs.twimg.com/profile_images/2114949194880360448/4J9sYoLE_400x400.jpg",Dallas Mavericks vs Oklahoma City Thunder
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Dallas Mavericks vs Oklahoma City Thunder --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2114949194880360448/4J9sYoLE_400x400.jpg",Dallas Mavericks vs Oklahoma City Thunder --- CH 1
 http://193.47.62.55/hls/VYYYA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Dallas Mavericks vs Oklahoma City Thunder --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2114949194880360448/4J9sYoLE_400x400.jpg",Dallas Mavericks vs Oklahoma City Thunder --- CH 2
+https://www.rtmpcdn.com/live/b61c51ae-48eb-4d18-9ad9-ecf20ae42c17.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
