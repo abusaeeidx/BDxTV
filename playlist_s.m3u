@@ -19,6 +19,11 @@ https://www.rtmpcdn.com/live/add6f4a0-ea1e-4a7a-a778-3250da31ef7d.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="UFC Fight Night" tvg-name="UFC : Renato Moicano vs Tom Nolan" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",UFC : Renato Moicano vs Tom Nolan
+http://193.47.62.59/hls/A666AAAAQq.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Formula 1 GP" tvg-name="Formula 1 GP Mexico --- CH 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha_rw2gT_SrEJoLFNfB6adycvmaji2XUYLNnTVSYv9Jn2YLoDz5C5gRPMt-vCbwxfJ6jjyfTNAJXyfICbDzj4i0hRfX_3mFAYe9guvSadKHnU79Mx6Z0fR8OhZiwB4qCXQNNeyzvTD0QJVDfC3pHIVSW4Yuu3VGjpgSNPfcxxzzYJGQ6ZIME8ivYdexlo/s1600/7f5XFklA_400x400.jpg",Formula 1 GP Mexico --- CH 1
 http://193.47.62.44/hls/KYYYAAAAS.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -26,11 +31,6 @@ http://193.47.62.44/hls/KYYYAAAAS.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Formula 1 GP" tvg-name="Formula 1 GP Mexico --- CH 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha_rw2gT_SrEJoLFNfB6adycvmaji2XUYLNnTVSYv9Jn2YLoDz5C5gRPMt-vCbwxfJ6jjyfTNAJXyfICbDzj4i0hRfX_3mFAYe9guvSadKHnU79Mx6Z0fR8OhZiwB4qCXQNNeyzvTD0QJVDfC3pHIVSW4Yuu3VGjpgSNPfcxxzzYJGQ6ZIME8ivYdexlo/s1600/7f5XFklA_400x400.jpg",Formula 1 GP Mexico --- CH 2
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/50868ddd-04ed-45ec-ab4e-4fb5fcb2302e/master.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="UFC Fight Night" tvg-name="UFC : Renato Moicano vs Tom Nolan" tvg-logo="https://pbs.twimg.com/profile_images/1835773190385328128/4fVrF1UI_400x400.jpg",UFC : Renato Moicano vs Tom Nolan
-http://193.47.62.59/hls/A666AAAAQq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -349,11 +349,6 @@ http://193.47.62.59/hls/T666A.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Hungary NB 1 Liga" tvg-name="Gyor vs Vasas" tvg-logo="https://pbs.twimg.com/profile_images/1619022597298995203/iCFS2Ka1_400x400.jpg",Gyor vs Vasas
-http://193.47.62.59/hls/TPPPAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="MMA Fighting" tvg-name="MMA Oktagon 96" tvg-logo="https://pbs.twimg.com/profile_images/1933644695852216320/wQhK_eGO_400x400.jpg",MMA Oktagon 96
 http://193.47.62.59/hls/TPPPAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -366,18 +361,3 @@ http://193.47.62.59/hls/TIIIA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NCAA American Football" tvg-name="Colorado Buffaloes vs Kansas State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Colorado Buffaloes vs Kansas State
 http://193.47.62.59/hls/TIII.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NHL Hockey" tvg-name="New York Islanders vs Edmonton Oilers" tvg-logo="https://pbs.twimg.com/profile_images/2115643650264776704/n3PKysjJ_400x400.jpg",New York Islanders vs Edmonton Oilers
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dcb93224-a9dc-4946-afb0-fdd6a6e7897d/master.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NHL Hockey" tvg-name="Nashville Predators vs Tampa Bay Lightning" tvg-logo="https://pbs.twimg.com/profile_images/2115643650264776704/n3PKysjJ_400x400.jpg",Nashville Predators vs Tampa Bay Lightning
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bb86b832-7461-4674-8f1d-33593f7bb062/master.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NCAA American Football" tvg-name="Old Dominion vs Marshall" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Old Dominion vs Marshall
-http://193.47.62.59/hls/FFFFF.m3u8
