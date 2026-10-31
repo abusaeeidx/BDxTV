@@ -89,6 +89,11 @@ http://193.47.62.44/hls/bbbb.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Tennis WTA" tvg-name="Tennis WTA Tokyo" tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg",Tennis WTA Tokyo
+http://193.47.62.50/hls/BUUU.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Mexico Liga MX" tvg-name="Puebla vs UNAM Pumas" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",Puebla vs UNAM Pumas
 http://193.47.62.41/hls/K666AAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -109,35 +114,5 @@ http://193.47.62.59/hls/TTTTQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Colombia Primera A" tvg-name="Bucaramanga vs Dep Pasto" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgASRzgEc2Tv0HqACIv6wAnUDBX3WLsg2boz6Sb2UK-Xat07OK8ZRK-F_lmN1x4UjGcY0QRp3LDI4ShaBbBaasuDG_2_eUdRJ7ROJenw5ImZp9lz-Vm-5Fdc6UA5dQ9Pgp2tj2VLe4twBDSVULXSnI_xYJuP6S5Ca67rInsA3ijrvG2eTyrao2yHj7R4Gk/s1600/PJtHNMvO_400x400.jpg",Bucaramanga vs Dep Pasto
-http://193.47.62.44/hls/8888.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Mexico Liga MX" tvg-name="Juarez vs Queretaro" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",Juarez vs Queretaro
-http://193.47.62.41/hls/K666A.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Mexico Liga MX" tvg-name="Atl San Luis vs Atlas" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",Atl San Luis vs Atlas
-http://193.47.62.41/hls/K666.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NHL Hockey" tvg-name="Calgary Flames vs Seattle Kraken" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeZhsF-KHNUoj7DdbN-lWH_4SFgyS2auHIkZte3oc3il1BObFAP4H-HRJ7L09IZ8_NNOD6OewfKNsEBMOU1uiO8h6Z9Dw1BEGznp6WHt2dFONe0JTef3ZCWulgvos7vsnCWT9VDqoYlZ9ha697k_SU1wGxyTxVufLVW-ZvBmw_wJiiyMCPi9G2iUoWADM/s1600/Ebbqt2Ki_400x400.jpg",Calgary Flames vs Seattle Kraken
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c0532b8f-13eb-4df7-95b1-910947bda427/master.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="MotoGP" tvg-name="MotoGP Grand Prix of Malaysia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQzEqUlzKkd3VSB1h8NRhscNB3sOPtlt3_SUt8U7bg9tmxZBFYt6gNmGNfHOvgX1zUvuaFN3V7bWgkpVn_uCXUBBG4XABPl4fWqolh3xX0IDY_uBC5B6irwnDsPTAsnYPM24CDJrc6D2J8VAkkB5dDvq6N2LJTooLhcvrfo_S6zrMoAJ0o_Jpl2TI7n14/s1600/g97T9wjl_400x400.jpg",MotoGP Grand Prix of Malaysia
 http://193.47.62.59/hls/TTTT.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NCAA American Football" tvg-name="UCF vs Baylor" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHIcGKYzi8GF5y99HcOlYaz0bnOKsCWK2ny1pYRYa7IwxEWlsEFewQETn_CTY6Zkj4bL2ozxzdPEdVED0y73EXQYFtmhAITadmSCQ06ZxQsvvdi-p6WIvcAD_PjzLhKRkO9CM5UfH_o6qz4g26rd61gAP0ZQ904CmECx7haGm_nxWLp9r7yVFEVbnMntw/s1600/ST3crOq2_400x400.jpg",UCF vs Baylor
-http://193.47.62.41/hls/Y999AA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NCAA American Football" tvg-name="Charlotte vs Tulane" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHIcGKYzi8GF5y99HcOlYaz0bnOKsCWK2ny1pYRYa7IwxEWlsEFewQETn_CTY6Zkj4bL2ozxzdPEdVED0y73EXQYFtmhAITadmSCQ06ZxQsvvdi-p6WIvcAD_PjzLhKRkO9CM5UfH_o6qz4g26rd61gAP0ZQ904CmECx7haGm_nxWLp9r7yVFEVbnMntw/s1600/ST3crOq2_400x400.jpg",Charlotte vs Tulane
-http://193.47.62.41/hls/Y999A.m3u8
