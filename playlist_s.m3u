@@ -19,6 +19,11 @@ http://193.47.62.50/hls/ZZZZAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Spanish Liga F Women" tvg-name="Badalona W vs Barcelona W" tvg-logo="https://pbs.twimg.com/profile_images/2115726006921162752/iZLalX8u_400x400.jpg",Badalona W vs Barcelona W
+http://193.47.62.50/hls/ZZZZAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="India ISL League" tvg-name="Mumbai City vs SC Delhi" tvg-logo="https://pbs.twimg.com/profile_images/2105656126155198464/NyaL6m2J_400x400.jpg",Mumbai City vs SC Delhi
 http://193.47.62.50/hls/ZZZZA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
