@@ -4,6 +4,11 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Australia A-League" tvg-name="Perth Glory vs Adelaide United" tvg-logo="https://pbs.twimg.com/profile_images/2085247700241633280/p6l1BFby_400x400.jpg",Perth Glory vs Adelaide United
+http://193.47.62.41/hls/U888A.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="South Korea K League" tvg-name="Seoul vs Incheon" tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg",Seoul vs Incheon
 http://193.47.62.41/hls/J777AAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -31,11 +36,6 @@ http://193.47.62.41/hls/J777AAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="AFL Aussie Rules" tvg-name="Fremantle Dockers W vs Sydney Swans W" tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg",Fremantle Dockers W vs Sydney Swans W
 http://193.47.62.41/hls/J777AAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Australia A-League" tvg-name="Perth Glory vs Adelaide United" tvg-logo="https://pbs.twimg.com/profile_images/2085247700241633280/p6l1BFby_400x400.jpg",Perth Glory vs Adelaide United
-http://193.47.62.41/hls/U888A.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
