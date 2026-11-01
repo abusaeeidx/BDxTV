@@ -129,6 +129,11 @@ http://193.47.62.55/hls/B111.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Switzerland Challenge League" tvg-name="Wil vs Winterthur" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/11/ChallengeLeague-logo.svg/250px-ChallengeLeague-logo.svg.png",Wil vs Winterthur
+http://193.47.62.55/hls/KRRRAAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Turkey Lig 1" tvg-name="Istanbulspor AS vs Mardin 1969" tvg-logo="https://pbs.twimg.com/profile_images/1640292682609180674/tVFOSQj3_400x400.jpg",Istanbulspor AS vs Mardin 1969
 http://193.47.62.55/hls/KRRRA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -146,21 +151,6 @@ http://193.47.62.55/hls/B111AAQQQQAAAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Denmark Division 1" tvg-name="Vendsyssel vs Vejle" tvg-logo="https://pbs.twimg.com/profile_images/896717277533544448/7XbOsUdT_400x400.jpg",Vendsyssel vs Vejle
 http://193.47.62.55/hls/B111AAQQQQA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="German DFB Pokal" tvg-name="Mainz W vs Werder Bremen W" tvg-logo="https://pbs.twimg.com/profile_images/1755197625861623808/cRJBmFWR_400x400.jpg",Mainz W vs Werder Bremen W
-http://193.47.62.55/hls/B111AAQQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="German DFB Pokal" tvg-name="Freiburg W vs Jena W" tvg-logo="https://pbs.twimg.com/profile_images/1755197625861623808/cRJBmFWR_400x400.jpg",Freiburg W vs Jena W
-http://193.47.62.55/hls/B111AAQQQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="German DFB Pokal" tvg-name="FC Nurnberg W vs Eintracht Frankfurt W" tvg-logo="https://pbs.twimg.com/profile_images/1755197625861623808/cRJBmFWR_400x400.jpg",FC Nurnberg W vs Eintracht Frankfurt W
-http://193.47.62.55/hls/B111AAQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
