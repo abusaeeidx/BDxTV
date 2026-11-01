@@ -19,6 +19,11 @@ http://193.47.62.50/hls/A888AAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Houston Rockets vs Oklahoma City Thunder --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Houston Rockets vs Oklahoma City Thunder --- CH 2
+https://www.rtmpcdn.com/live/4fa2116f-cde4-4f0f-8cf4-a981144d1308.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="WNBA Basketball" tvg-name="Atlanta Dream W vs Golden State Valkyries W --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg",Atlanta Dream W vs Golden State Valkyries W --- CH 1
 http://193.47.62.55/hls/A888A.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
