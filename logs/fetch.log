@@ -11052,3 +11052,7 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 [2026-11-02 | 00:00:15] WARNING  [STRMCNTR] URL 11) No stream ID found.                                            (stc.py:298)
 [2026-11-02 | 00:00:15] WARNING  [STRMCNTR] URL 12) No stream ID found.                                            (stc.py:298)
 [2026-11-02 | 00:00:15] INFO     [STRMCNTR] Collected 1 event(s)                                                   (stc.py:515)
+[2026-11-02 | 04:58:36] INFO     [STRMCNTR] Scraping from "https://streamecenter.live"                             (stc.py:431)
+[2026-11-02 | 04:58:38] INFO     [STRMCNTR] Processing 1 URL(s)                                                    (stc.py:459)
+[2026-11-02 | 04:58:39] WARNING  [STRMCNTR] URL 1) No stream ID found.                                             (stc.py:298)
+[2026-11-02 | 04:58:39] INFO     [STRMCNTR] Collected 0 event(s)                                                   (stc.py:515)
