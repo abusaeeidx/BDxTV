@@ -59,13 +59,18 @@ http://193.47.62.41/hls/QAQAQAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Uruguay Liga AUF" tvg-name="Albion vs Maldonado" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnHH-H1DCT2dyIl4eflzanuyEC2R_QNxXez3i-9JdQ952GAMnzoU9DesxuXG1ctZH0Ku5nyL9zpg4pDb_i2ZUxebhVVhibo8QEmrmma_b_QcqOsiMsnl89M9NCRDLA_Zv8MNZanivf5fJYXRZFlQm3tvxo5B8jYu7oP9XXGPBo7h4KPpMplRiuJYAY_mc/s1600/9voDL6wS_400x400.jpg",Albion vs Maldonado
-http://193.47.62.41/hls/QAQAQAA.m3u8
+#EXTINF:-1 group-title="Brazil Serie A" tvg-name="Bragantino vs Santos --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",Bragantino vs Santos --- CH 1
+http://193.47.62.41/hls/QAQAQA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Brazil Serie A" tvg-name="Bragantino vs Santos" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",Bragantino vs Santos
-http://193.47.62.41/hls/QAQAQA.m3u8
+#EXTINF:-1 group-title="Brazil Serie A" tvg-name="Bragantino vs Santos --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg",Bragantino vs Santos --- CH 2
+https://www.rtmpcdn.com/live/96449617-4272-45aa-91a7-ba554696e407.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Uruguay Liga AUF" tvg-name="Albion vs Maldonado" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnHH-H1DCT2dyIl4eflzanuyEC2R_QNxXez3i-9JdQ952GAMnzoU9DesxuXG1ctZH0Ku5nyL9zpg4pDb_i2ZUxebhVVhibo8QEmrmma_b_QcqOsiMsnl89M9NCRDLA_Zv8MNZanivf5fJYXRZFlQm3tvxo5B8jYu7oP9XXGPBo7h4KPpMplRiuJYAY_mc/s1600/9voDL6wS_400x400.jpg",Albion vs Maldonado
+http://193.47.62.41/hls/QAQAQAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
