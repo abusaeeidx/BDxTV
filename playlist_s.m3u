@@ -34,6 +34,11 @@ http://193.47.62.44/hls/ELLLAAAAAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="UEFA Youth League" tvg-name="Feyenoord U19 vs Inter U19" tvg-logo="https://pbs.twimg.com/profile_images/507629164094976002/mrKxxdHT_400x400.jpeg",Feyenoord U19 vs Inter U19
+http://193.47.62.41/hls/ELLL.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="UEFA Youth League" tvg-name="Manchester Utd U19 vs AS Roma U19" tvg-logo="https://pbs.twimg.com/profile_images/507629164094976002/mrKxxdHT_400x400.jpeg",Manchester Utd U19 vs AS Roma U19
 http://193.47.62.41/hls/ELLLAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -56,11 +61,6 @@ http://193.47.62.41/hls/ELLLAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="UEFA Youth League" tvg-name="Villarreal U19 vs PSG U19" tvg-logo="https://pbs.twimg.com/profile_images/507629164094976002/mrKxxdHT_400x400.jpeg",Villarreal U19 vs PSG U19
 http://193.47.62.41/hls/ELLLA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="UEFA Youth League" tvg-name="Shakhtar Donetsk U19 vs Sporting Lisbon U19" tvg-logo="https://pbs.twimg.com/profile_images/507629164094976002/mrKxxdHT_400x400.jpeg",Shakhtar Donetsk U19 vs Sporting Lisbon U19
-http://193.47.62.41/hls/ELLL.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
