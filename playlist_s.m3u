@@ -59,6 +59,11 @@ http://193.47.62.55/hls/vavavavaq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Snooker" tvg-name="Snooker International Championship" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",Snooker International Championship
+http://193.47.62.44/hls/B111.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="India ISL League" tvg-name="Churchill Brothers vs North East Utd" tvg-logo="https://pbs.twimg.com/profile_images/2105656126155198464/NyaL6m2J_400x400.jpg",Churchill Brothers vs North East Utd
 http://193.47.62.55/hls/RHHH.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -114,22 +119,7 @@ http://193.47.62.41/hls/TTTTAAaa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Basketball NBL" tvg-name="Cairns Taipans vs Illawarra Hawks" tvg-logo="https://pbs.twimg.com/profile_images/1818146563342139392/HfVvVvXW_400x400.jpg",Cairns Taipans vs Illawarra Hawks
-http://193.47.62.59/hls/MMMM.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Golf" tvg-name="Golf Abu Dhabi Championship" tvg-logo="https://pbs.twimg.com/profile_images/2117236464538783744/QDkekqoR_400x400.jpg",Golf Abu Dhabi Championship
-http://193.47.62.59/hls/UUUU.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Snooker" tvg-name="Snooker International Championship" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",Snooker International Championship
-http://193.47.62.44/hls/B111.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Golf LPGA" tvg-name="Golf LPGA Toto Japan Classic" tvg-logo="https://pbs.twimg.com/profile_images/1665698199661600769/nxoC7o2Q_400x400.jpg",Golf LPGA Toto Japan Classic
 http://193.47.62.59/hls/UUUU.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
