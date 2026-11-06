@@ -24,6 +24,11 @@ http://193.47.62.59/hls/WAWAWAFQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="English Premier League" tvg-name="Everton vs Coventry --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",Everton vs Coventry --- CH 2
+https://www.rtmpcdn.com/live/7845141f-3295-426a-9753-5edd4597a96e.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="English Championship" tvg-name="Derby County vs Bolton" tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png",Derby County vs Bolton
 http://193.47.62.59/hls/BGBGBGAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -49,8 +54,13 @@ http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Spanish La Liga" tvg-name="Sevilla vs Alaves" tvg-logo="https://pbs.twimg.com/profile_images/2115751976109563904/8xS96H15_400x400.jpg",Sevilla vs Alaves
+#EXTINF:-1 group-title="Spanish La Liga" tvg-name="Sevilla vs Alaves --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2115751976109563904/8xS96H15_400x400.jpg",Sevilla vs Alaves --- CH 1
 http://193.47.62.44/hls/SYYYAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Spanish La Liga" tvg-name="Sevilla vs Alaves --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2115751976109563904/8xS96H15_400x400.jpg",Sevilla vs Alaves --- CH 2
+https://www.rtmpcdn.com/live/3f70f620-09f5-416f-80d7-9eb4b4dbc5ef.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
