@@ -11731,3 +11731,109 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 [2026-11-07 | 14:15:02] ERROR    [STRMCNTR] URL 90) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401892673/72250f71-93fd-4985-9996-c1baf7604a79": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401892673/72250f71-93fd-4985-9996-c1baf7604a79'
 For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
 [2026-11-07 | 14:15:02] INFO     [STRMCNTR] Collected 4 event(s)                                                   (stc.py:515)
+[2026-11-07 | 18:56:19] INFO     [STRMCNTR] Scraping from "https://streamecenter.live"                             (stc.py:431)
+[2026-11-07 | 18:56:20] INFO     [STRMCNTR] Processing 81 URL(s)                                                   (stc.py:459)
+[2026-11-07 | 18:56:21] WARNING  [STRMCNTR] URL 1) No stream ID found.                                             (stc.py:298)
+[2026-11-07 | 18:56:22] WARNING  [STRMCNTR] URL 2) No stream ID found.                                             (stc.py:298)
+[2026-11-07 | 18:56:22] WARNING  [STRMCNTR] URL 3) No stream ID found.                                             (stc.py:298)
+[2026-11-07 | 18:56:22] WARNING  [STRMCNTR] URL 4) No stream ID found.                                             (stc.py:298)
+[2026-11-07 | 18:56:23] ERROR    [STRMCNTR] URL 5) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-football-college-football-401858285/66b0443c-0f7c-46b9-8754-5ea5319a4062": Client error '404 Not Found' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-football-college-football-401858285/66b0443c-0f7c-46b9-8754-5ea5319a4062'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 (stc.py:206)
+[2026-11-07 | 18:56:23] WARNING  [STRMCNTR] URL 6) No stream ID found.                                             (stc.py:298)
+[2026-11-07 | 18:56:24] WARNING  [STRMCNTR] URL 7) No stream ID found.                                             (stc.py:298)
+[2026-11-07 | 18:56:24] WARNING  [STRMCNTR] URL 8) No stream ID found.                                             (stc.py:298)
+[2026-11-07 | 18:56:24] WARNING  [STRMCNTR] URL 9) No stream ID found.                                             (stc.py:298)
+[2026-11-07 | 18:56:25] WARNING  [STRMCNTR] URL 10) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:25] WARNING  [STRMCNTR] URL 11) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:25] WARNING  [STRMCNTR] URL 12) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:26] WARNING  [STRMCNTR] URL 13) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:26] WARNING  [STRMCNTR] URL 14) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:27] WARNING  [STRMCNTR] URL 15) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:27] WARNING  [STRMCNTR] URL 16) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:27] WARNING  [STRMCNTR] URL 17) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:28] WARNING  [STRMCNTR] URL 18) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:28] WARNING  [STRMCNTR] URL 19) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:28] WARNING  [STRMCNTR] URL 20) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:29] WARNING  [STRMCNTR] URL 21) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:29] WARNING  [STRMCNTR] URL 22) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:29] WARNING  [STRMCNTR] URL 23) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:30] WARNING  [STRMCNTR] URL 24) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:30] WARNING  [STRMCNTR] URL 25) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:31] WARNING  [STRMCNTR] URL 26) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:31] WARNING  [STRMCNTR] URL 27) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:31] WARNING  [STRMCNTR] URL 28) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:32] WARNING  [STRMCNTR] URL 29) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:32] WARNING  [STRMCNTR] URL 30) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:33] WARNING  [STRMCNTR] URL 31) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:33] WARNING  [STRMCNTR] URL 32) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:33] WARNING  [STRMCNTR] URL 33) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:34] WARNING  [STRMCNTR] URL 34) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:34] WARNING  [STRMCNTR] URL 35) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:35] WARNING  [STRMCNTR] URL 36) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:35] WARNING  [STRMCNTR] URL 37) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:36] WARNING  [STRMCNTR] URL 38) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:36] WARNING  [STRMCNTR] URL 39) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:37] WARNING  [STRMCNTR] URL 40) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:37] WARNING  [STRMCNTR] URL 41) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:37] WARNING  [STRMCNTR] URL 42) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:38] WARNING  [STRMCNTR] URL 43) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:38] WARNING  [STRMCNTR] URL 44) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:39] WARNING  [STRMCNTR] URL 45) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:39] WARNING  [STRMCNTR] URL 46) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:39] WARNING  [STRMCNTR] URL 47) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:40] WARNING  [STRMCNTR] URL 48) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:40] WARNING  [STRMCNTR] URL 49) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:41] WARNING  [STRMCNTR] URL 50) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:41] WARNING  [STRMCNTR] URL 51) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:41] WARNING  [STRMCNTR] URL 52) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:42] WARNING  [STRMCNTR] URL 53) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:42] WARNING  [STRMCNTR] URL 54) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:42] WARNING  [STRMCNTR] URL 55) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:43] WARNING  [STRMCNTR] URL 56) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:43] WARNING  [STRMCNTR] URL 57) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:43] WARNING  [STRMCNTR] URL 58) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:44] WARNING  [STRMCNTR] URL 59) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:44] WARNING  [STRMCNTR] URL 60) No stream ID found.                                            (stc.py:298)
+[2026-11-07 | 18:56:44] ERROR    [STRMCNTR] URL 61) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-basketball-nba-401909939/26f58f03-3a0b-4150-a9eb-cd92d49f5f6d": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-basketball-nba-401909939/26f58f03-3a0b-4150-a9eb-cd92d49f5f6d'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:45] ERROR    [STRMCNTR] URL 62) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-basketball-nba-401909940/d68ca75c-05c8-4e33-a944-eb8b3f025ee7": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-basketball-nba-401909940/d68ca75c-05c8-4e33-a944-eb8b3f025ee7'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:45] ERROR    [STRMCNTR] URL 63) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-basketball-nba-401909941/bfeccb4d-ac46-4549-bde8-0b49285d303a": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-basketball-nba-401909941/bfeccb4d-ac46-4549-bde8-0b49285d303a'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:45] ERROR    [STRMCNTR] URL 64) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-basketball-nba-401909942/f70f131d-4f4f-4145-81e9-b52654b2f902": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-basketball-nba-401909942/f70f131d-4f4f-4145-81e9-b52654b2f902'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:45] ERROR    [STRMCNTR] URL 65) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-basketball-nba-401909943/ff69baa3-a062-440a-9a84-df36d7282783": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-basketball-nba-401909943/ff69baa3-a062-440a-9a84-df36d7282783'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:46] ERROR    [STRMCNTR] URL 66) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-basketball-nba-401909944/385ed13b-e58a-4a04-8c3e-7dc334a31538": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-basketball-nba-401909944/385ed13b-e58a-4a04-8c3e-7dc334a31538'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:46] ERROR    [STRMCNTR] URL 67) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-racing-f1-600057448-401839131/156c3e19-a94c-4953-b1f6-5d27a5af2256": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-racing-f1-600057448-401839131/156c3e19-a94c-4953-b1f6-5d27a5af2256'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:46] ERROR    [STRMCNTR] URL 68) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401892662/e0e05100-55e0-4bd7-b25c-f59f4af6cf88": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401892662/e0e05100-55e0-4bd7-b25c-f59f4af6cf88'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:47] ERROR    [STRMCNTR] URL 69) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401892663/b342d734-7147-4a91-8c6c-7d191c85f95d": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401892663/b342d734-7147-4a91-8c6c-7d191c85f95d'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:47] ERROR    [STRMCNTR] URL 70) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401892664/6ed3d61a-535d-469e-8153-a223fe1076a1": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401892664/6ed3d61a-535d-469e-8153-a223fe1076a1'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:47] ERROR    [STRMCNTR] URL 71) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401892665/549e349a-f886-4436-9ae9-69b0bec98835": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401892665/549e349a-f886-4436-9ae9-69b0bec98835'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:47] ERROR    [STRMCNTR] URL 72) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401892666/09ed9053-d778-4361-8239-d1c7344684b4": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401892666/09ed9053-d778-4361-8239-d1c7344684b4'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:48] ERROR    [STRMCNTR] URL 73) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401892667/90404752-d3d2-41f8-81d5-c086f98345b3": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401892667/90404752-d3d2-41f8-81d5-c086f98345b3'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:48] ERROR    [STRMCNTR] URL 74) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401892668/b63e236f-5e56-4f2a-b0e8-b6e3f7f32901": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401892668/b63e236f-5e56-4f2a-b0e8-b6e3f7f32901'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:48] ERROR    [STRMCNTR] URL 75) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401892669/2a6f314b-9345-431e-bcd7-f6fe70e80afa": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401892669/2a6f314b-9345-431e-bcd7-f6fe70e80afa'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:48] ERROR    [STRMCNTR] URL 76) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401892670/8ec11bd5-ff33-4670-9ca7-dee1090875ed": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401892670/8ec11bd5-ff33-4670-9ca7-dee1090875ed'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:49] ERROR    [STRMCNTR] URL 77) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401892671/c59e4b7d-fd16-4441-b1c5-57a12e349395": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401892671/c59e4b7d-fd16-4441-b1c5-57a12e349395'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:49] ERROR    [STRMCNTR] URL 78) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401892672/19284874-37c9-4e24-a158-5662adfe467a": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401892672/19284874-37c9-4e24-a158-5662adfe467a'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:49] ERROR    [STRMCNTR] URL 79) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/event-espn-league-hockey-nhl-401892673/72250f71-93fd-4985-9996-c1baf7604a79": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/event-espn-league-hockey-nhl-401892673/72250f71-93fd-4985-9996-c1baf7604a79'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:49] ERROR    [STRMCNTR] URL 80) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/custom-4dbf4595-c15c-441b-80f4-79c48db3aa7c/3f8f618b-567a-4981-967d-e2e13610b5e4": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/custom-4dbf4595-c15c-441b-80f4-79c48db3aa7c/3f8f618b-567a-4981-967d-e2e13610b5e4'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:50] ERROR    [STRMCNTR] URL 81) Failed to fetch "https://streamecenter.live/api/stream-link/iframe/custom-908cc17e-2870-4eab-86cd-25a9be78bf94/8ecc2256-54b8-42aa-8d90-50626a30fc17": Client error '429 Too Many Requests' for url 'https://streamcenter.st/api/stream-link/iframe/custom-908cc17e-2870-4eab-86cd-25a9be78bf94/8ecc2256-54b8-42aa-8d90-50626a30fc17'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429 (stc.py:206)
+[2026-11-07 | 18:56:50] INFO     [STRMCNTR] Collected 4 event(s)                                                   (stc.py:515)
