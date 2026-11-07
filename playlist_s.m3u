@@ -9,6 +9,11 @@ https://www.rtmpcdn.com/live/cebea922-44a5-4cd8-89bb-8faeff015724.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Aberdeen vs Hibernian --- CH 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Aberdeen vs Hibernian --- CH 1
+http://193.47.62.55/hls/LOOO.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Formula 1 GP" tvg-name="Formula 1 GP Brazil --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2088954775534514177/8jPk8bwL_400x400.jpg",Formula 1 GP Brazil --- CH 2
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d32654f3-6054-47ac-bf21-f3d0bfa6bd2b/master.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -29,18 +34,13 @@ http://193.47.62.55/hls/A111AAAAAQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Dutch Eredivisie" tvg-name="ADO Den Haag vs Sparta Rotterdam" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",ADO Den Haag vs Sparta Rotterdam
+#EXTINF:-1 group-title="Dutch Eredivisie" tvg-name="ADO Den Haag vs Sparta Rotterdam --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",ADO Den Haag vs Sparta Rotterdam --- CH 1
 http://193.47.62.55/hls/LOOOAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Hungary NB 1 Liga" tvg-name="Kisvarda vs Puskas Academy" tvg-logo="https://pbs.twimg.com/profile_images/1619022597298995203/iCFS2Ka1_400x400.jpg",Kisvarda vs Puskas Academy
 http://193.47.62.55/hls/LOOOA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Scottish Premiership" tvg-name="Aberdeen vs Hibernian" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Aberdeen vs Hibernian
-http://193.47.62.55/hls/LOOO.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -69,11 +69,6 @@ http://193.47.62.50/hls/Z3333AAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Israel Ligat ha'Al" tvg-name="Ironi Tiberias vs Beitar Jerusalem" tvg-logo="https://pbs.twimg.com/profile_images/1344253261650530304/NhvOsx8h_400x400.png",Ironi Tiberias vs Beitar Jerusalem
-http://193.47.62.50/hls/Z3333AA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Spanish Segunda Liga" tvg-name="Leganes vs Albacete" tvg-logo="https://pbs.twimg.com/profile_images/2115751359991472128/NE-p-czZ_400x400.jpg",Leganes vs Albacete
 http://193.47.62.50/hls/Z3333A.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -81,11 +76,6 @@ http://193.47.62.50/hls/Z3333A.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Spanish Segunda Liga" tvg-name="Cordoba vs Ceuta" tvg-logo="https://pbs.twimg.com/profile_images/2115751359991472128/NE-p-czZ_400x400.jpg",Cordoba vs Ceuta
 http://193.47.62.50/hls/Z3333.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Ireland Premier Premier League" tvg-name="UC Dublin vs Drogheda" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq4NZoNmazLZ-6dVTtyRVMpfkczjwrYsEkDxqW-rP3YMaWjhLUcycS6w497QRbS1_uph_XaAl04NgtK-YCJPBTKK4AXxHm3diMXkuMv1uy7oDVfcma_-bQyzZCWCEgFDoupLJrNkVPfZQtzI6dD-ycIAabHvG1lMD13cYyO6aBN0U-C7qJ72ApgdDfFoU/s1600/nbWYt3fC_400x400.jpg",UC Dublin vs Drogheda
-http://193.47.62.50/hls/ZHHHAAQAQAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -101,6 +91,11 @@ http://193.47.62.55/hls/A111AAAAAQ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Bosnia and Herzegovina Premier League" tvg-name="Siroki Brijeg vs Zeljeznicar" tvg-logo="https://pbs.twimg.com/profile_images/474124902702657536/j0UJNMZa_400x400.jpeg",Siroki Brijeg vs Zeljeznicar
 http://193.47.62.50/hls/ZHHHAAQAQAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="Washington Capitals vs Florida Panthers" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg",Washington Capitals vs Florida Panthers
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5f29554e-2f1b-493a-b21b-f0b8fa22c7f2/master.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
