@@ -99,6 +99,11 @@ http://193.47.62.41/hls/JJJJAAAQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Supercars" tvg-name="Supercars Championship Gold Coast 500" tvg-logo="https://pbs.twimg.com/profile_images/1803953210887147520/R41yZ5VI_400x400.jpg",Supercars Championship Gold Coast 500
+http://193.47.62.50/hls/JJJJ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NCAA Basketball" tvg-name="Iowa vs Eastern Illinois" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Iowa vs Eastern Illinois
 http://193.47.62.41/hls/KKKKAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
