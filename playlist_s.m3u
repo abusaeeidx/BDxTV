@@ -129,6 +129,11 @@ http://193.47.62.44/hls/BKKKAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Poland Division 1" tvg-name="Polonia Bytom vs Lechia Gdansk" tvg-logo="https://pbs.twimg.com/profile_images/720539064781262848/q0CEFj5f_400x400.jpg",Polonia Bytom vs Lechia Gdansk
+http://193.47.62.44/hls/BKKKAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Kenya Premier League" tvg-name="Bandari vs Tusker" tvg-logo="https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",Bandari vs Tusker
 http://193.47.62.44/hls/BKKK.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
