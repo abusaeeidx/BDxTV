@@ -14,6 +14,11 @@ http://193.47.62.55/hls/T333AAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Jamaica Premier League" tvg-name="Chapelton vs Racing United" tvg-logo="https://pbs.twimg.com/profile_images/2097397695161778177/n0XPOh-p_400x400.jpg",Chapelton vs Racing United
+http://193.47.62.55/hls/Z777AA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Ecuador Liga Pro" tvg-name="Tecnico U vs Manta" tvg-logo="https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg",Tecnico U vs Manta
 http://193.47.62.55/hls/T333AAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -46,11 +51,6 @@ http://193.47.62.55/hls/Z777AAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="English FA Cup" tvg-name="Plymouth Parkway vs Berkhamsted" tvg-logo="https://pbs.twimg.com/profile_images/2116795447712813056/HDl_ovJd_400x400.jpg",Plymouth Parkway vs Berkhamsted
 http://193.47.62.55/hls/Z777AAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Uruguay Cup" tvg-name="Lito vs Danubio" tvg-logo="https://pbs.twimg.com/profile_images/2017605756581781504/yBVFgNDf_400x400.jpg",Lito vs Danubio
-http://193.47.62.55/hls/Z777AA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
