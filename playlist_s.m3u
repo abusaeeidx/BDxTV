@@ -4,6 +4,21 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Africa Cup of Nations" tvg-name="Equatorial Guinea vs Zimbabwe" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",Equatorial Guinea vs Zimbabwe
+http://193.47.62.44/hls/GGGGA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Africa Cup of Nations" tvg-name="DR Congo vs Sierra Leone" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",DR Congo vs Sierra Leone
+http://193.47.62.59/hls/GGGGAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Africa Cup of Nations" tvg-name="Madagascar vs Guinea Bissau" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",Madagascar vs Guinea Bissau
+http://193.47.62.59/hls/GGGGAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Africa Cup of Nations" tvg-name="Ghana vs Somalia --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",Ghana vs Somalia --- CH 1
 http://193.47.62.44/hls/GGGG.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -14,23 +29,8 @@ https://www.rtmpcdn.com/live/17e1ac47-caa9-4698-a236-70ce92411dea.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Africa Cup of Nations" tvg-name="Madagascar vs Guinea Bissau" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",Madagascar vs Guinea Bissau
-http://193.47.62.59/hls/GGGGAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Africa Cup of Nations" tvg-name="Guinea vs Eritrea" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",Guinea vs Eritrea
 http://193.47.62.59/hls/GGGGAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Africa Cup of Nations" tvg-name="Equatorial Guinea vs Zimbabwe" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",Equatorial Guinea vs Zimbabwe
-http://193.47.62.44/hls/GGGGA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Africa Cup of Nations" tvg-name="DR Congo vs Sierra Leone" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",DR Congo vs Sierra Leone
-http://193.47.62.59/hls/GGGGAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
