@@ -4,6 +4,21 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Los Angeles Clippers vs Oklahoma City Thunder" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Los Angeles Clippers vs Oklahoma City Thunder
+http://193.47.62.59/hls/XAXAXAAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Sacramento Kings vs Portland Trail Blazers" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Sacramento Kings vs Portland Trail Blazers
+http://193.47.62.55/hls/RFRFRFAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="San Antonio Spurs vs Golden State Warriors --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",San Antonio Spurs vs Golden State Warriors --- CH 1
+http://193.47.62.59/hls/XAXAXAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NBA Basketball" tvg-name="Houston Rockets vs Utah Jazz --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Houston Rockets vs Utah Jazz --- CH 1
 http://193.47.62.55/hls/RFRFRFAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -64,21 +79,6 @@ https://www.rtmpcdn.com/live/19b85780-60e4-4b8c-8b57-29436886cfea.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Los Angeles Clippers vs Oklahoma City Thunder" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Los Angeles Clippers vs Oklahoma City Thunder
-http://193.47.62.59/hls/XAXAXAAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Sacramento Kings vs Portland Trail Blazers" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Sacramento Kings vs Portland Trail Blazers
-http://193.47.62.55/hls/RFRFRFAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="San Antonio Spurs vs Golden State Warriors" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",San Antonio Spurs vs Golden State Warriors
-http://193.47.62.59/hls/XAXAXAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NCAA American Football" tvg-name="Colorado Buffaloes vs Houston" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Colorado Buffaloes vs Houston
 http://193.47.62.41/hls/goooaaa.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -99,8 +99,13 @@ http://193.47.62.41/hls/goooaaaQQAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CONCACAF Nations League" tvg-name="Guatemala vs Canada" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",Guatemala vs Canada
+#EXTINF:-1 group-title="CONCACAF Nations League" tvg-name="Guatemala vs Canada --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",Guatemala vs Canada --- CH 1
 http://193.47.62.41/hls/goooaaaQQA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CONCACAF Nations League" tvg-name="Guatemala vs Canada --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",Guatemala vs Canada --- CH 2
+https://www.rtmpcdn.com/live/b2ddec11-b615-44f5-a85f-4cb77f3a1c40.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
