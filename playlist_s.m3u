@@ -14,17 +14,22 @@ http://193.47.62.41/hls/NGGG.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Minnesota Timberwolves vs Chicago Bulls" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Minnesota Timberwolves vs Chicago Bulls
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Minnesota Timberwolves vs Chicago Bulls --- CH" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Minnesota Timberwolves vs Chicago Bulls --- CH
 http://193.47.62.59/hls/JUJUJUQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Miami Heat vs Detroit Pistons" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Miami Heat vs Detroit Pistons
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Minnesota Timberwolves vs Chicago Bulls --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Minnesota Timberwolves vs Chicago Bulls --- CH 2
+http://193.47.62.59/hls/p-4a470e707b3c444e81de4c430b5b4c4b.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Miami Heat vs Detroit Pistons --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Miami Heat vs Detroit Pistons --- CH 1
 http://193.47.62.59/hls/JUJUJUQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Memphis Grizzlies vs Brooklyn Nets" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Memphis Grizzlies vs Brooklyn Nets
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Memphis Grizzlies vs Brooklyn Nets --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Memphis Grizzlies vs Brooklyn Nets --- CH 1
 http://193.47.62.59/hls/JUJUJUQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -104,8 +109,13 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a5289e
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NHL Hockey" tvg-name="Dallas Stars vs Buffalo Sabres" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg",Dallas Stars vs Buffalo Sabres
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d8ae19fe-9fac-43b5-9781-f790a08339cb/master.m3u8
+#EXTINF:-1 group-title="CONCACAF Nations League" tvg-name="Jamaica vs Mexico --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",Jamaica vs Mexico --- CH 1
+http://193.47.62.55/hls/SSSSAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CONCACAF Nations League" tvg-name="Jamaica vs Mexico --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",Jamaica vs Mexico --- CH 2
+https://www.rtmpcdn.com/live/2ee0cf36-d596-438f-9d6f-fcea55cfddfc.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -119,13 +129,13 @@ https://admin2.formaturamaxi.com.br/aew.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Australia A-League" tvg-name="Wellington Phoenix W vs Sydney W" tvg-logo="https://pbs.twimg.com/profile_images/2085247700241633280/p6l1BFby_400x400.jpg",Wellington Phoenix W vs Sydney W
-http://193.47.62.55/hls/SSSSAAAAA.m3u8
+#EXTINF:-1 group-title="NHL Hockey" tvg-name="Dallas Stars vs Buffalo Sabres" tvg-logo="https://pbs.twimg.com/profile_images/2116752375062872064/iFYL5_LV_400x400.jpg",Dallas Stars vs Buffalo Sabres
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d8ae19fe-9fac-43b5-9781-f790a08339cb/master.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CONCACAF Nations League" tvg-name="Jamaica vs Mexico" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",Jamaica vs Mexico
-http://193.47.62.55/hls/SSSSAAAA.m3u8
+#EXTINF:-1 group-title="Australia A-League" tvg-name="Wellington Phoenix W vs Sydney W" tvg-logo="https://pbs.twimg.com/profile_images/2085247700241633280/p6l1BFby_400x400.jpg",Wellington Phoenix W vs Sydney W
+http://193.47.62.55/hls/SSSSAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
