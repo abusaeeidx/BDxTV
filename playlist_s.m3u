@@ -4,13 +4,18 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NCAA American Football" tvg-name="Oklahoma vs Ole Miss" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Oklahoma vs Ole Miss
-http://193.47.62.41/hls/EHHHH.m3u8
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Philadelphia 76ers vs Indiana Pacers --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Philadelphia 76ers vs Indiana Pacers --- CH 1
+http://193.47.62.41/hls/J444AAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="NBA Basketball" tvg-name="Philadelphia 76ers vs Indiana Pacers" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Philadelphia 76ers vs Indiana Pacers
-http://193.47.62.41/hls/J444AAAA.m3u8
+#EXTINF:-1 group-title="NBA Basketball" tvg-name="Philadelphia 76ers vs Indiana Pacers --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Philadelphia 76ers vs Indiana Pacers --- CH 2
+https://www.rtmpcdn.com/live/82091001-94e6-46f4-b0bf-7726d28de024.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NCAA American Football" tvg-name="Oklahoma vs Ole Miss" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",Oklahoma vs Ole Miss
+http://193.47.62.41/hls/EHHHH.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -74,53 +79,8 @@ http://193.47.62.41/hls/K777AAAAAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Greece Basketball League" tvg-name="Aris vs Olympiacos" tvg-logo="https://pbs.twimg.com/profile_images/1766404207723032576/t5cxyxlX_400x400.jpg",Aris vs Olympiacos
-http://193.47.62.41/hls/K777AAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Dutch Women Eredivisie" tvg-name="AZ Alkmaar W vs Ajax W" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",AZ Alkmaar W vs Ajax W
-http://193.47.62.41/hls/B222.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Dutch Women Eredivisie" tvg-name="FC Twente W vs PSV W" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",FC Twente W vs PSV W
-http://193.47.62.44/hls/G666AAAAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Sweden HockeyAllsvenskan" tvg-name="Mora vs Vasteras" tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg",Mora vs Vasteras
-http://193.47.62.41/hls/K777AA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Sweden HockeyAllsvenskan" tvg-name="Kalmar vs Sodertalje" tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg",Kalmar vs Sodertalje
-http://193.47.62.41/hls/K777A.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="UAE League Cup" tvg-name="Ittihad Kalba vs Shabab Al Ahli Dubai" tvg-logo="https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",Ittihad Kalba vs Shabab Al Ahli Dubai
-http://193.47.62.41/hls/K777AAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="UAE League Cup" tvg-name="Al Jazira vs Bani Yas" tvg-logo="https://pbs.twimg.com/profile_images/1954213261898895361/3rhnnXke_400x400.jpg",Al Jazira vs Bani Yas
-http://193.47.62.41/hls/K777AAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Spanish Segunda Liga" tvg-name="Granada CF vs Las Palmas" tvg-logo="https://pbs.twimg.com/profile_images/2120097007951917056/NFB9obas_400x400.jpg",Granada CF vs Las Palmas
-http://193.47.62.44/hls/HMMMAAAAAQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Darts" tvg-name="Darts Grand Slam" tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",Darts Grand Slam
 http://193.47.62.59/hls/BEEEAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Snooker" tvg-name="Snooker Champion of Champions" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",Snooker Champion of Champions
-http://193.47.62.59/hls/WJJJJJ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -129,10 +89,5 @@ http://193.47.62.44/hls/G666AAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Horse Racing" tvg-name="Horse Racing --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",Horse Racing --- CH 1
-http://193.47.62.55/hls/vavavava.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Horse Racing" tvg-name="Horse Racing --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",Horse Racing --- CH 2
-http://193.47.62.55/hls/vavavavaq.m3u8
+#EXTINF:-1 group-title="Snooker" tvg-name="Snooker Champion of Champions" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",Snooker Champion of Champions
+http://193.47.62.59/hls/WJJJJJ.m3u8
