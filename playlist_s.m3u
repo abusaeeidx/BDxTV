@@ -19,6 +19,11 @@ http://193.47.62.55/hls/N555AAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Italy Serie C" tvg-name="Ravenna vs Forli" tvg-logo="https://pbs.twimg.com/profile_images/1939957554706071552/LIJ16iAl_400x400.jpg",Ravenna vs Forli
+http://193.47.62.41/hls/B222a.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="English Women Super League" tvg-name="Arsenal W vs London City Lionesses W" tvg-logo="https://pbs.twimg.com/profile_images/2095475297214758912/FzYuFMEr_400x400.jpg",Arsenal W vs London City Lionesses W
 http://193.47.62.41/hls/K777AAAAAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
