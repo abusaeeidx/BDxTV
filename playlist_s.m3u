@@ -99,6 +99,11 @@ http://193.47.62.55/hls/vavavavaq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Alpine Skiing" tvg-name="Alpine Skiing World Cup" tvg-logo="https://pbs.twimg.com/profile_images/2107366708532912129/f7nyYguG_400x400.jpg",Alpine Skiing World Cup
+http://193.47.62.41/hls/H666.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Dutch Eredivisie" tvg-name="ADO Den Haag W vs De Graafschap W" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",ADO Den Haag W vs De Graafschap W
 http://193.47.62.44/hls/G666AAAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -119,25 +124,10 @@ http://193.47.62.41/hls/HMMM.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Alpine Skiing" tvg-name="Alpine Skiing World Cup" tvg-logo="https://pbs.twimg.com/profile_images/2107366708532912129/f7nyYguG_400x400.jpg",Alpine Skiing World Cup
-http://193.47.62.41/hls/H666.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Cricket" tvg-name="South Africa vs Bangladesh" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",South Africa vs Bangladesh
 http://193.47.62.41/hls/JYYY.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Japan J League" tvg-name="Kashiwa Reysol vs Kawasaki Frontale" tvg-logo="https://pbs.twimg.com/profile_images/2086668400492007424/smxbgWFb_400x400.jpg",Kashiwa Reysol vs Kawasaki Frontale
-http://193.47.62.55/hls/rrrrDDD.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Golf" tvg-name="Golf DP World Tour Championship" tvg-logo="https://pbs.twimg.com/profile_images/2117236464538783744/QDkekqoR_400x400.jpg",Golf DP World Tour Championship
 http://193.47.62.44/hls/VFFFAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Cricket" tvg-name="Australia vs England" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",Australia vs England
-http://193.47.62.50/hls/F444A.m3u8
