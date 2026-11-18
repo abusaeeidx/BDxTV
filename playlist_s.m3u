@@ -24,6 +24,21 @@ https://www.rtmpcdn.com/live/8f869cfc-f71b-4c14-b3eb-88b512d2cb2f.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Tennis ATP" tvg-name="Tennis ATP Finals - Turin" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",Tennis ATP Finals - Turin
+http://193.47.62.44/hls/G666AAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Darts" tvg-name="Darts Grand Slam" tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",Darts Grand Slam
+http://193.47.62.59/hls/BEEEAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Cyprus Futsal" tvg-name="AEL vs Apollon" tvg-logo="https://pbs.twimg.com/profile_images/1978338933776826368/DTET5XRH_400x400.jpg",AEL vs Apollon
+http://193.47.62.55/hls/uttt.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Sweden HockeyAllsvenskan" tvg-name="Vimmerby vs Sodertalje" tvg-logo="https://pbs.twimg.com/profile_images/2113886552912769024/yOMqfoLU_400x400.jpg",Vimmerby vs Sodertalje
 http://193.47.62.44/hls/6666AAAAQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -79,11 +94,6 @@ https://www.rtmpcdn.com/live/e1097b8f-b009-45a5-8c50-d3798e01c42c.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Darts" tvg-name="Darts Grand Slam" tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg",Darts Grand Slam
-http://193.47.62.59/hls/BEEEAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Basketball Europe cup" tvg-name="AEK Larnaca vs Dziki Warszawa" tvg-logo="https://pbs.twimg.com/profile_images/2018292396694372354/nBdWXvtu_400x400.jpg",AEK Larnaca vs Dziki Warszawa
 http://193.47.62.44/hls/3333AA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -96,11 +106,6 @@ http://193.47.62.44/hls/3333A.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Hockey Champions League" tvg-name="Pardubice vs SaiPa" tvg-logo="https://pbs.twimg.com/profile_images/2029839784009433088/smY7VrS4.png",Pardubice vs SaiPa
 http://193.47.62.44/hls/3333AAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Tennis ATP" tvg-name="Tennis ATP Finals - Turin" tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg",Tennis ATP Finals - Turin
-http://193.47.62.44/hls/G666AAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
