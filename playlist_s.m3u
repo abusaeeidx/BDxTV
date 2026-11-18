@@ -20,7 +20,7 @@ http://193.47.62.55/hls/RUUUAAA.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="NBA Basketball" tvg-name="Minnesota Timberwolves vs Portland Trail Blazers --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2116445297094324224/76uN7Y6d_400x400.jpg",Minnesota Timberwolves vs Portland Trail Blazers --- CH 2
-https://www.rtmpcdn.com/live/2d37f281-bd97-4fe4-a2ea-a91560306bc8.m3u8
+https://www.rtmpcdn.com/live/bb781fc9-f059-4d66-93b7-0dbbc0dfb1bd.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -44,6 +44,16 @@ http://193.47.62.55/hls/RUUUAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CONCACAF Nations League" tvg-name="El Salvador vs Saint Martin --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",El Salvador vs Saint Martin --- CH 1
+http://193.47.62.59/hls/BHHHAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CONCACAF Nations League" tvg-name="El Salvador vs Saint Martin --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",El Salvador vs Saint Martin --- CH 2
+https://www.rtmpcdn.com/live/29abbc77-a5a8-4306-9ac9-4d765933cc18.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="CONCACAF Nations League" tvg-name="USA vs Haiti --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",USA vs Haiti --- CH 1
 http://193.47.62.59/hls/BHHHA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -61,16 +71,6 @@ http://193.47.62.59/hls/BHHH.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="CONCACAF Nations League" tvg-name="French Guiana vs Saint Vincent and the Grenadines --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",French Guiana vs Saint Vincent and the Grenadines --- CH 2
 https://www.rtmpcdn.com/live/6530aaac-af07-4fcb-8900-e0fd0eed8bb1.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Friendly Match" tvg-name="Argentina vs Costa Rica --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",Argentina vs Costa Rica --- CH 1
-http://193.47.62.44/hls/YPPPAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Friendly Match" tvg-name="Argentina vs Costa Rica --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",Argentina vs Costa Rica --- CH 2
-https://www.rtmpcdn.com/live/09bd79f9-c986-4ea7-a95e-34c832abea5e.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -131,11 +131,6 @@ http://193.47.62.44/hls/GRRRAAA.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Colombia Copa" tvg-name="America De Cali vs Inter Bogota" tvg-logo="https://pbs.twimg.com/profile_images/1741738883782500353/WefLAabU_400x400.jpg",America De Cali vs Inter Bogota
 http://193.47.62.41/hls/YPPP.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CONCACAF Nations League" tvg-name="El Salvador vs Saint Martin" tvg-logo="https://pbs.twimg.com/profile_images/2080426619378790401/KFoPuBbx_400x400.jpg",El Salvador vs Saint Martin
-http://193.47.62.59/hls/BHHHAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
