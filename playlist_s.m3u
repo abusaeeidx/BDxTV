@@ -29,6 +29,11 @@ http://193.47.62.55/hls/RIIIQQQAAAQQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="German Bundesliga" tvg-name="Schalke vs Stuttgart --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1500628606988558343/MLN0_jMP_400x400.jpg",Schalke vs Stuttgart --- CH 2
+https://www.rtmpcdn.com/live/e636da24-44fd-4ca0-a8d0-c7df48f2a93f.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Spanish La Liga" tvg-name="Sevilla vs Real Betis --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2101254000578277376/h8YfIsY3_400x400.jpg",Sevilla vs Real Betis --- CH 1
 http://193.47.62.55/hls/RIIIQQQAAAQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
