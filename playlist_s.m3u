@@ -34,6 +34,16 @@ http://193.47.62.41/hls/rrrr.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Ligue 1 France" tvg-name="Nice vs PSG" tvg-logo="https://pbs.twimg.com/profile_images/2001308712338677763/0Mhm_woy_400x400.jpg",Nice vs PSG
+http://193.47.62.41/hls/rrrrHA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Italy Serie B" tvg-name="Catanzaro vs Palermo" tvg-logo="https://pbs.twimg.com/profile_images/2078047440620412928/8SA6AdGj_400x400.jpg",Catanzaro vs Palermo
+http://193.47.62.41/hls/rrrrH.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Scottish Premiership" tvg-name="Celtic vs St Mirren --- CH 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png",Celtic vs St Mirren --- CH 1
 http://193.47.62.55/hls/4HHHAAAAQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
