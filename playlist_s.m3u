@@ -54,6 +54,11 @@ http://193.47.62.44/hls/QRRRQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Formula 1 GP" tvg-name="Formula 1 Las Vegas --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2088954775534514177/8jPk8bwL_400x400.jpg",Formula 1 Las Vegas --- CH 2
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/62c6dc62-673a-4d20-88db-b0603809fb9a/master.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Mexico Liga MX" tvg-name="Club Tijuana vs Atlante" tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg",Club Tijuana vs Atlante
 http://193.47.62.41/hls/QRRRQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
