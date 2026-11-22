@@ -29,6 +29,11 @@ http://193.47.62.44/hls/GLLLAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Alpine Skiing" tvg-name="Alpine Skiing World Cup Austria" tvg-logo="https://pbs.twimg.com/profile_images/2107366708532912129/f7nyYguG_400x400.jpg",Alpine Skiing World Cup Austria
+http://193.47.62.41/hls/rrrrQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Malaysia Super League" tvg-name="Kuala Lumpur City vs Penang" tvg-logo="https://pbs.twimg.com/profile_images/1638733016985145344/DlS5U4Qj_400x400.jpg",Kuala Lumpur City vs Penang
 http://193.47.62.44/hls/GLLL.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
