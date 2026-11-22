@@ -69,13 +69,23 @@ http://193.47.62.50/hls/GOOOAAAAQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English Women Super League" tvg-name="Manchester City W vs Tottenham W" tvg-logo="https://pbs.twimg.com/profile_images/2120910559587532800/MRTwVYqD.jpg",Manchester City W vs Tottenham W
+#EXTINF:-1 group-title="English Women Super League" tvg-name="Manchester City W vs Tottenham W --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2120910559587532800/MRTwVYqD.jpg",Manchester City W vs Tottenham W --- CH 1
 http://193.47.62.50/hls/GOOOAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English Women Super League" tvg-name="Birmingham W vs Manchester Utd W" tvg-logo="https://pbs.twimg.com/profile_images/2120910559587532800/MRTwVYqD.jpg",Birmingham W vs Manchester Utd W
+#EXTINF:-1 group-title="English Women Super League" tvg-name="Manchester City W vs Tottenham W --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2120910559587532800/MRTwVYqD.jpg",Manchester City W vs Tottenham W --- CH 2
+https://www.rtmpcdn.com/live/2d749b87-058a-47a9-bea5-fbde0a0f4039.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="English Women Super League" tvg-name="Birmingham W vs Manchester Utd W --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2120910559587532800/MRTwVYqD.jpg",Birmingham W vs Manchester Utd W --- CH 1
 http://193.47.62.50/hls/GOOOAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="English Women Super League" tvg-name="Birmingham W vs Manchester Utd W --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2120910559587532800/MRTwVYqD.jpg",Birmingham W vs Manchester Utd W --- CH 2
+https://www.rtmpcdn.com/live/bea700c6-4b5b-40ca-ba1d-99b97eb50890.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
