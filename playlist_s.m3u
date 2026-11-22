@@ -64,6 +64,11 @@ http://193.47.62.44/hls/Q333AA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Golf PGA" tvg-name="Golf PGA RSM Classic" tvg-logo="https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",Golf PGA RSM Classic
+http://193.47.62.44/hls/BBBBAAAAAQA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Spanish Liga F Women" tvg-name="Barcelona W vs Athletic Bilbao W" tvg-logo="https://pbs.twimg.com/profile_images/2122341226514919424/eAdJlwMG.jpg",Barcelona W vs Athletic Bilbao W
 http://193.47.62.44/hls/Q333A.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
