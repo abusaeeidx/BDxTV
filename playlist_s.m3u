@@ -24,6 +24,11 @@ http://193.47.62.50/hls/QYYYQAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Spanish La Liga" tvg-name="Getafe vs Atletico Madrid --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2101254000578277376/h8YfIsY3_400x400.jpg",Getafe vs Atletico Madrid --- CH 2
+https://www.rtmpcdn.com/live/b6da27ba-f61a-43a3-9a2c-da890c974e21.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Spanish Segunda Liga" tvg-name="Burgos CF vs Albacete" tvg-logo="https://pbs.twimg.com/profile_images/2120097007951917056/NFB9obas_400x400.jpg",Burgos CF vs Albacete
 http://193.47.62.55/hls/QYYY.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
