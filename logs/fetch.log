@@ -13779,3 +13779,7 @@ For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St
 [2026-11-24 | 21:24:16] WARNING  [STRMCNTR] URL 13) No stream ID found.                                            (stc.py:298)
 [2026-11-24 | 21:24:17] WARNING  [STRMCNTR] URL 14) No stream ID found.                                            (stc.py:298)
 [2026-11-24 | 21:24:17] INFO     [STRMCNTR] Collected 0 event(s)                                                   (stc.py:515)
+[2026-11-25 | 04:22:19] INFO     [STRMCNTR] Scraping from "https://streamecenter.live"                             (stc.py:431)
+[2026-11-25 | 04:22:20] INFO     [STRMCNTR] Processing 1 URL(s)                                                    (stc.py:459)
+[2026-11-25 | 04:22:21] WARNING  [STRMCNTR] URL 1) No stream ID found.                                             (stc.py:298)
+[2026-11-25 | 04:22:21] INFO     [STRMCNTR] Collected 0 event(s)                                                   (stc.py:515)
