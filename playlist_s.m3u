@@ -129,6 +129,11 @@ https://www.rtmpcdn.com/live/c5a3b876-aacd-42ff-b952-8a0d6a6e6441.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="NCAA Basketball" tvg-name="LSU vs Arizona State" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg",LSU vs Arizona State
+http://193.47.62.55/hls/SASASASA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="English National League" tvg-name="Boreham Wood vs Aldershot" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/National_League_logo.png",Boreham Wood vs Aldershot
 http://193.47.62.55/hls/avvvAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
