@@ -189,6 +189,11 @@ https://www.rtmpcdn.com/live/48732202-fe81-4756-8522-b171b31e8feb.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Basketball World Cup" tvg-name="Greece vs Georgia" tvg-logo="https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP.jpg",Greece vs Georgia
+http://193.47.62.50/hls/gppp.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Sweden Hockey SHL" tvg-name="Vaxjo vs Djurgardenn" tvg-logo="https://pbs.twimg.com/profile_images/2052693259969871878/ek73wcjc_400x400.jpg",Vaxjo vs Djurgardenn
 http://193.47.62.50/hls/I555.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
@@ -251,23 +256,3 @@ http://193.47.62.50/hls/HJJJ.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Russia Cup" tvg-name="Dynamo Moscow vs Fakel Voronezh" tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg",Dynamo Moscow vs Fakel Voronezh
 http://193.47.62.50/hls/GTGTGTAAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Kenya Premier League" tvg-name="Gor Mahia vs Mombasa United" tvg-logo="https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",Gor Mahia vs Mombasa United
-http://193.47.62.50/hls/GTGTGTAAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="World Cup U17" tvg-name="Tajikistan U17 vs Senegal U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Tajikistan U17 vs Senegal U17
-http://193.47.62.50/hls/GTGTGTAA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="World Cup U17" tvg-name="Croatia U17 vs Cuba U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Croatia U17 vs Cuba U17
-http://193.47.62.50/hls/GTGTGTA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Basketball World Cup" tvg-name="Qatar vs South Korea" tvg-logo="https://pbs.twimg.com/profile_images/2065452076625174528/4EuZY8eP.jpg",Qatar vs South Korea
-http://193.47.62.50/hls/GTGTGT.m3u8
