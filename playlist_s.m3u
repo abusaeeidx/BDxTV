@@ -4,13 +4,8 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Cyprus League" tvg-name="AEL Limassol vs Ol Nicosia" tvg-logo="https://pbs.twimg.com/profile_images/1978338933776826368/DTET5XRH_400x400.jpg",AEL Limassol vs Ol Nicosia
-http://193.47.62.55/hls/QFFFA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Cyprus League" tvg-name="AEK Larnaca vs Apollon" tvg-logo="https://pbs.twimg.com/profile_images/1978338933776826368/DTET5XRH_400x400.jpg",AEK Larnaca vs Apollon
-http://193.47.62.55/hls/QFFF.m3u8
+#EXTINF:-1 group-title="Rugby Nations Championship" tvg-name="Ireland vs Australia" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3_400x400.jpg",Ireland vs Australia
+http://193.47.62.44/hls/POPOPOQQAAAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -49,17 +44,12 @@ http://193.47.62.41/hls/V444AAAAQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Rugby Nations Championship" tvg-name="Ireland vs Australia" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3_400x400.jpg",Ireland vs Australia
-http://193.47.62.44/hls/POPOPOQQAAAQ.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="English Championship" tvg-name="Southampton vs Middlesbrough" tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png",Southampton vs Middlesbrough
+#EXTINF:-1 group-title="English Championship" tvg-name="Southampton vs Middlesbrough --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png",Southampton vs Middlesbrough --- CH 1
 http://193.47.62.41/hls/V444AAAAQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Spanish La Liga" tvg-name="Levante vs Racing Santander" tvg-logo="https://pbs.twimg.com/profile_images/2101254000578277376/h8YfIsY3_400x400.jpg",Levante vs Racing Santander
+#EXTINF:-1 group-title="Spanish La Liga" tvg-name="Levante vs Racing Santander --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2101254000578277376/h8YfIsY3_400x400.jpg",Levante vs Racing Santander --- CH 1
 http://193.47.62.44/hls/POPOPOQQAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -99,12 +89,17 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/64e81b
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Italy Serie A" tvg-name="Venezia vs Bologna" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Venezia vs Bologna
+#EXTINF:-1 group-title="Italy Serie A" tvg-name="Venezia vs Bologna --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg",Venezia vs Bologna --- CH 1
 http://193.47.62.41/hls/V444AAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Belgium Pro League" tvg-name="Leuven vs Kortrijk" tvg-logo="https://pbs.twimg.com/profile_images/2121332331101184000/TsEw55VA.jpg",Leuven vs Kortrijk
+#EXTINF:-1 group-title="Ligue 1 France" tvg-name="Brest vs Paris FC --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2001308712338677763/0Mhm_woy_400x400.jpg",Brest vs Paris FC --- CH 1
+http://193.47.62.41/hls/V444AA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Belgium Pro League" tvg-name="Leuven vs Kortrijk --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2121332331101184000/TsEw55VA.jpg",Leuven vs Kortrijk --- CH 1
 http://193.47.62.44/hls/POPOPOQQA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
@@ -119,13 +114,13 @@ http://193.47.62.44/hls/POPOPOQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Ligue 1 France" tvg-name="Brest vs Paris FC" tvg-logo="https://pbs.twimg.com/profile_images/2001308712338677763/0Mhm_woy_400x400.jpg",Brest vs Paris FC
-http://193.47.62.41/hls/V444AA.m3u8
+#EXTINF:-1 group-title="German Bundesliga" tvg-name="Werder Bremen vs Monchengladbach --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1500628606988558343/MLN0_jMP_400x400.jpg",Werder Bremen vs Monchengladbach --- CH 1
+http://193.47.62.44/hls/POPOPO.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="German Bundesliga" tvg-name="Werder Bremen vs Monchengladbach" tvg-logo="https://pbs.twimg.com/profile_images/1500628606988558343/MLN0_jMP_400x400.jpg",Werder Bremen vs Monchengladbach
-http://193.47.62.44/hls/POPOPO.m3u8
+#EXTINF:-1 group-title="German Bundesliga" tvg-name="Werder Bremen vs Monchengladbach --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1500628606988558343/MLN0_jMP_400x400.jpg",Werder Bremen vs Monchengladbach --- CH 2
+https://www.rtmpcdn.com/live/88fbc948-5f87-44b7-b376-f2f52765a58e.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
