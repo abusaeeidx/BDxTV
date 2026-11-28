@@ -124,6 +124,11 @@ http://193.47.62.55/hls/KIKIKIAAAAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Pool" tvg-name="Pool Mosconi Cup 2026" tvg-logo="https://pbs.twimg.com/profile_images/2124602317928275969/tN_wFIO2.jpg",Pool Mosconi Cup 2026
+http://193.47.62.41/hls/KUUU.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Greece Super League" tvg-name="Kifisia vs Kalamata" tvg-logo="https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",Kifisia vs Kalamata
 http://193.47.62.55/hls/KIKIKIAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
