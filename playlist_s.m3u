@@ -69,6 +69,16 @@ http://193.47.62.41/hls/UPPPA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Snooker" tvg-name="Snooker UK Championship --- Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",Snooker UK Championship --- Table 1
+http://193.47.62.41/hls/SASASAAQQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Snooker" tvg-name="Snooker UK Championship --- Table 2" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",Snooker UK Championship --- Table 2
+http://193.47.62.41/hls/SASASAAQ.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Rugby Nations Championship" tvg-name="Wales vs Japan" tvg-logo="https://pbs.twimg.com/profile_images/1597190896885309440/ZVwKqVO3_400x400.jpg",Wales vs Japan
 http://193.47.62.44/hls/R777AAAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
